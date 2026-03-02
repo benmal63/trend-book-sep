@@ -53,6 +53,46 @@
           "analyse_sep": "La TV linéaire n'est plus l'Alpha et l'Oméga des grands événements. Nos recommandations doivent forcer sur le 'Second Écran' (Twitch, TikTok) pour contourner le verrouillage publicitaire du streaming premium par de très gros annonceurs.",
           "date": "06/01/2026",
           "source_nom": "NBC Sports"
+        },
+        {
+          "titre": "La NFL et Netflix : Documentaire ou Info-Pub ?",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://www.netflix.com/tudum/articles/",
+          "image": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&q=80&w=600",
+          "resume": "Le nouveau deal NFL x Netflix brouille la frontière entre documentaire immersif et contenu de marque sponsorisé (branded content) pour le SuperBowl 2026.",
+          "analyse_sep": "Il faut pitcher à nos ayant-droits la création de docu-séries 'Inside' vendables aux plateformes OTT plutôt que du contenu gratuit sur YouTube. C'est un nouveau centre de profit.",
+          "date": "05/01/2026",
+          "source_nom": "Netflix Tudum"
+        },
+        {
+          "titre": "Kantar Media : L'Effondrement du Reach Linéaire",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.kantar.com/campaigns/",
+          "image": "https://images.unsplash.com/photo-1543286386-713bdd548da4?auto=format&fit=crop&q=80&w=600",
+          "resume": "Kantar confirme une baisse historique de -18% de l'audience TV linéaire sur les sports majeurs début 2026, compensée par +40% de vues sur les clips courts sociaux.",
+          "analyse_sep": "Nos modèles d'évaluation financière (PFE) doivent dévaluer l'exposition TV classique (panneautique) au profit des impressions générées sur TikTok/Reels par les comptes des clubs.",
+          "date": "07/01/2026",
+          "source_nom": "Kantar Sports"
+        },
+        {
+          "titre": "L'Arabie Saoudite lance un fonds pour les e-sports féminins",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://www.arabnews.com/sport/",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=600",
+          "resume": "Le fond souverain PIF alloue 200M$ à la création de ligues e-sports 100% féminines début 2026, tentant d'adoucir son image par l'inclusion numérique.",
+          "analyse_sep": "Épineux mais incontournable. L'argent du Moyen-Orient inonde l'e-sport. Devons-nous conseiller à nos joueurs e-sports/influenceurs de boycotter ou d'accompagner le mouvement ? Une position claire S5 doit être actée.",
+          "date": "02/01/2026",
+          "source_nom": "Arab News Insider"
+        },
+        {
+          "titre": "Le 'Dynamic Pricing' arrive sur le Merchandising",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.sportsbusinessjournal.com/",
+          "image": "https://images.unsplash.com/photo-1522205408450-add114ad53fe?auto=format&fit=crop&q=80&w=600",
+          "resume": "Après la billetterie, les clubs majeurs (Real Madrid) ajustent en temps réel les prix des maillots en boutique selon la demande et les résultats des matchs.",
+          "analyse_sep": "Une belle opportunité pour la branche 'Retail' de SPORTFIVE. Proposons des algos de pricing dynamique à nos clubs pour maximiser le panier moyen au coup de sifflet final d'une victoire.",
+          "date": "09/01/2026",
+          "source_nom": "SBJ"
         }
       ]
     },
@@ -89,6 +129,46 @@
           "analyse_sep": "Le WST démontre que le sponsoring féminin n'est plus RSE mais purement business. Insistons sur le 'Purpose Marketing' rentable pour convaincre l'Automobile & les Banques.",
           "date": "14/01/2026",
           "source_nom": "Women Sports Trust"
+        },
+        {
+          "titre": "La fin du système de Commission d'Agence ?",
+          "thematique": "Créativité & Modèles d'Agences",
+          "lien": "https://www.thedrum.com",
+          "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=600",
+          "resume": "Un nombre croissant d'annonceurs B2C imposent un modèle de rémunération purement basé sur la performance (CPA/CPL) aux agences de marketing sportif.",
+          "analyse_sep": "SPORTFIVE doit anticiper ce mouvement en liant une partie de nos honoraires (fees) de conseil ou d'activation directement aux KPIs de ventes de nos clients, preuve de notre confiance en nos recos.",
+          "date": "13/01/2026",
+          "source_nom": "The Drum"
+        },
+        {
+          "titre": "L'Impact du Changement Climatique sur le Calendrier",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://www.sportengland.org/",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=600",
+          "resume": "Les premières modifications officielles de calendriers (Tennis, Ski) en raison des canicules/manque de neige de début 2026 forcent les sponsors à ajouter des clauses d'annulation climatiques.",
+          "analyse_sep": "Nos contrats légaux de sponsoring doivent intégrer des 'Climate Force Majeure'. C'est aussi l'occasion de proposer des activations virtuelles (e-sport de remplacement) en cas d'annulation.",
+          "date": "16/01/2026",
+          "source_nom": "Sport England"
+        },
+        {
+          "titre": "Bain & Co: La Rentabilité des Droits Naming",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.bain.com/insights/",
+          "image": "https://images.unsplash.com/photo-1554774853-719586f82d77?auto=format&fit=crop&q=80&w=600",
+          "resume": "Une étude démontre que les contrats Naming sur 10 ans sont les investissements marketing avec le ROI le plus constant, protégeant contre l'hyper-inflation publicitaire.",
+          "analyse_sep": "C'est l'argument ultime pour vendre du Stade B2B. Bloquer un prix aujourd'hui pour 10 ans de visibilité, c'est se prémunir contre les CPM fous de Facebook et Google.",
+          "date": "11/01/2026",
+          "source_nom": "Bain Insights"
+        },
+        {
+          "titre": "Puma abandonne l'athlétisme pour le padel",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://www.sportspromedia.com/",
+          "image": "https://images.unsplash.com/photo-1622279457486-640c4cb49089?auto=format&fit=crop&q=80&w=600",
+          "resume": "Réallocation budgétaire choc : Puma stoppe 40% de ses contrats olympiques en 2026 pour sponsoriser exclusivement des académies de padel urbaines.",
+          "analyse_sep": "Alerte pour nos agents. Les athlètes olympiques ne sont plus rentables pour les marques hors-année JO. Redirigeons nos athlètes vers des deals 'Lifestyle & Mode' plutôt que Performance pure.",
+          "date": "14/01/2026",
+          "source_nom": "SportsPro Media"
         }
       ]
     },
@@ -115,6 +195,36 @@
           "analyse_sep": "Offrons à nos clients B2B des solutions réseaux/hospitality via les terrains de Padel en centre-ville, devenus le nouveau golf des cadres sup en 2026.",
           "date": "18/01/2026",
           "source_nom": "SBJ"
+        },
+        {
+          "titre": "Gen-Alpha: Le Sport comme Jeu Vidéo",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://www.roblox.com/corp/news",
+          "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=600",
+          "resume": "Roblox publie des chiffres ahurissants : 40% de la Gen-Alpha (nés après 2010) interagit avec son équipe de sport préférée en explorant d'abord son univers dans Roblox avant de regarder un match.",
+          "analyse_sep": "L'activation Roblox/Fortnite n'est plus un PR Stunt, c'est le point d'entrée principal. Tous nos budgets Jeunesse (Danone, LEGO) doivent s'activer in-game.",
+          "date": "22/01/2026",
+          "source_nom": "Roblox Corp"
+        },
+        {
+          "titre": "L'IA Générative dans le Copywriting Sportif",
+          "thematique": "Innovation & Outils",
+          "lien": "https://www.salesforce.com/news",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
+          "resume": "Salesforce dévoile que 75% des newsletters de clubs sportifs anglais en 2026 sont rédigées par des IA génératives hyper-personnalisées selon l'historique d'achat du fan.",
+          "analyse_sep": "Les départements CRM de nos ayant-droits doivent s'équiper. SPORTFIVE peut packager des 'Audits CRM + IA' facturés en conseil stratégique pour upgrader leurs bases de données.",
+          "date": "24/01/2026",
+          "source_nom": "Salesforce"
+        },
+        {
+          "titre": "Les 'Sweat Equity' Deals explosent",
+          "thematique": "Créativité & Modèles d'Agences",
+          "lien": "https://www.sloansportsconference.com/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Les start-ups sport-tech ne paient plus les agences en cash mais en actions de la société (Equity) contre des activations de croissance.",
+          "analyse_sep": "Devons-nous lancer 'SPORTFIVE Ventures' ? Au lieu d'une commission, prenons 5% des startups prometteuses (IA, Billetterie) qu'on implante dans nos clubs partenaires.",
+          "date": "21/01/2026",
+          "source_nom": "MIT Sloan Review"
         }
       ]
     },
@@ -141,6 +251,36 @@
           "analyse_sep": "Il faut arrêter de cibler la conception des hospitalités stades comme des événements familiaux et créer du contenu digital partageable en temps réel, optimisé pour les canaux discrets (Discord, Telegram).",
           "date": "12/02/2026",
           "source_nom": "Nielsen Analytics"
+        },
+        {
+          "titre": "La consolidation des Agences de Talents",
+          "thematique": "Créativité & Modèles d'Agences",
+          "lien": "https://deadline.com/v/sports/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "CAA (Creative Artists Agency) rachète trois agences d'influence européenne en Février 2026, créant un monopole sur le croisement Athlètes/Hollywood/TikTok.",
+          "analyse_sep": "La course à la taille (Scale) est rude. Pour l'entité SPORTFIVE Talent, cela signifie qu'il faut sécuriser des talents de niche ultra-engagés que les mastodontes américains sous-évaluent.",
+          "date": "08/02/2026",
+          "source_nom": "Deadline"
+        },
+        {
+          "titre": "Le 'Zero-Party Data' devient la norme Sponsor",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.iab.com/",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
+          "resume": "Fin des cookies tiers actée : les sponsors sportifs n'achètent plus de visibilité, ils achètent de la collecte de données directes consenties (Zero-Party Data) via des activations in-stadia.",
+          "analyse_sep": "Fini les logos vides. Une activation SPORTFIVE en 2026 doit avoir un QR code imposant la création d'un compte pour générer de la data qualifiée (Opt-in) au sponsor.",
+          "date": "11/02/2026",
+          "source_nom": "IAB Europe"
+        },
+        {
+          "titre": "La Biomécanique Wearable 2.0",
+          "thematique": "Innovation & Outils",
+          "lien": "https://www.sporttechie.com/",
+          "image": "https://images.unsplash.com/photo-1510060090886-bdcb115e8557?auto=format&fit=crop&q=80&w=600",
+          "resume": "Apple et Whoop signent un accord pour que les données cardiaques des joueurs soient diffusées en direct sur les écrans géants du stade pendant les temps morts.",
+          "analyse_sep": "L'intimité de l'effort est le nouveau contenu roi. Il faut qu'on package l'affichage des BPM (battements) des joueurs comme un espace pub (ex: 'Ce moment de tension est sponsorisé par RedBull').",
+          "date": "07/02/2026",
+          "source_nom": "SportTechie"
         }
       ]
     },
@@ -167,6 +307,36 @@
           "analyse_sep": "La désintermédiation s'accélère. SPORTFIVE Media doit devenir agent de Créateurs Sports et ne plus se limiter aux athlètes pros. Nos annonceurs réclament de l'UGC (User Generated Content).",
           "date": "20/02/2026",
           "source_nom": "The Drum"
+        },
+        {
+          "titre": "Discord : Le Cœur Caché du Fandom",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://discord.com/company",
+          "image": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?auto=format&fit=crop&q=80&w=600",
+          "resume": "En 2026, Discord dépasse X (Twitter) comme plateforme principale de discussions pendant les directs sportifs, forçant les clubs à gérer des serveurs communautaires ultra-actifs.",
+          "analyse_sep": "Nos équipes Brand Services doivent arrêter de budgéter du Community Management classique (Facebook/Insta) et proposer des administrateurs Discord spécialisés pour nos marques clientes.",
+          "date": "19/02/2026",
+          "source_nom": "Discord"
+        },
+        {
+          "titre": "Sport Santé : Le Sponsoring B2B explose",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://www.who.int/",
+          "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&q=80&w=600",
+          "resume": "Le lien entre marque employeur, santé mentale des salariés et sport explose. Les mutuelles et assurances investissent massivement le sport amateur.",
+          "analyse_sep": "La QVT (Qualité de Vie au Travail) est notre meilleur levier de vente B2B. Ne vendons pas du naming, vendons un programme de bien-être entreprise adossé à un club partenaire (ex: Yoga au Stade).",
+          "date": "21/02/2026",
+          "source_nom": "OMS / Etude Santé"
+        },
+        {
+          "titre": "L'EuroLeague fusionne avec les Ligues Nationales Fiba ?",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.sportbusiness.com/",
+          "image": "https://images.unsplash.com/photo-1505666287802-931dc83948e9?auto=format&fit=crop&q=80&w=600",
+          "resume": "Février 2026 : Les négociations secrètes s'accélèrent pour unifier le basket européen sur le modèle économique de la NBA, attirant les milliards US.",
+          "analyse_sep": "Si la Ligue Unique européenne voit le jour, SPORTFIVE doit être l'agence qui commercialise les droits mondiaux. Nos équipes Sales doivent verrouiller les dirigeants dès maintenant.",
+          "date": "17/02/2026",
+          "source_nom": "SportBusiness Insider"
         }
       ]
     },
@@ -193,6 +363,36 @@
           "analyse_sep": "C'est une carte maitresse pour nos réunions prospecs (Brand Services). Les marques sont fatiguées du modèle internalisé. Nous devons positionner SPORTFIVE comme le bras armé externe sans friction.",
           "date": "26/02/2026",
           "source_nom": "Campaign Live"
+        },
+        {
+          "titre": "L'Avènement de l'IA Vidéo Générative (Sora) dans les clips promo",
+          "thematique": "Innovation & Outils",
+          "lien": "https://openai.com/sora",
+          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=600",
+          "resume": "OpenAI lance Sora V2, capable de générer des clips sportifs photoréalistes en 4K. Des clubs l'utilisent déjà pour simuler les maillots sur des légendes décédées dans leurs teasers.",
+          "analyse_sep": "Dilemme éthico-légal mais opportunité financière ! SPORTFIVE Studio doit maîtriser Sora pour diviser par 10 les coûts de production des clips de présentation de naming ou d'activations fictives.",
+          "date": "23/02/2026",
+          "source_nom": "OpenAI"
+        },
+        {
+          "titre": "La bulle du Micro-Sponsoring",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.sponsorpitch.com/",
+          "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=600",
+          "resume": "Des plateformes automatisées permettent désormais d'acheter des pixels sur des maillots de foot amateur à la seconde, uberisant l'achat d'espace.",
+          "analyse_sep": "La long-tail est là. Pour des PME régionales n'ayant pas 100K€, nous devrions packager une offre automatisée 'Local Reach' ciblant 50 clubs amateurs locaux.",
+          "date": "27/02/2026",
+          "source_nom": "SponsorPitch"
+        },
+        {
+          "titre": "Le 'Sport-as-a-Service' par Amazon",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://www.aboutamazon.com/news",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=600",
+          "resume": "Prime Video intègre les achats de billets, le merchandising et les paris sportifs directement sur l'écran de diffusion en un clic.",
+          "analyse_sep": "C'est la mort du e-commerce classique des clubs sportifs. Il faut aider nos clubs à migrer leur catalogue de produits dérivés directement dans l'écosystème Amazon Prime.",
+          "date": "24/02/2026",
+          "source_nom": "Amazon News"
         }
       ]
     },
@@ -219,6 +419,36 @@
           "analyse_sep": "Il s'agit d'un nouvel inventaire publicitaire ! Nous pouvons vendre le sponsor du 'Statcast' pendant les matchs de l'OL. C'est l'activation in-game par excellence.",
           "date": "03/03/2026",
           "source_nom": "SportTechie"
+        },
+        {
+          "titre": "Le Retour en force des Fans Advisory Boards (FAB)",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://www.sportbusiness.com/",
+          "image": "https://images.unsplash.com/photo-1511886929837-354d827aae26?auto=format&fit=crop&q=80&w=600",
+          "resume": "Post-SuperLeague, la loi anglaise impose les comités de supporters au conseil d'administration des clubs. En 2026, cela touche même les négociations de sponsoring.",
+          "analyse_sep": "Risque réputationnel majeur pour nos clients ! Nous ne pouvons plus signer de gros deals (Naming, Crypto) sans avoir sondé l'acceptabilité via notre réseau de supporters. Le B2C a un droit de véto.",
+          "date": "04/03/2026",
+          "source_nom": "SportBusiness"
+        },
+        {
+          "titre": "In-House vs Outsourcing : Le balancier",
+          "thematique": "Créativité & Modèles d'Agences",
+          "lien": "https://www.campaignlive.co.uk/",
+          "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=600",
+          "resume": "Les grandes marques (RedBull, Nike) réduisent leurs studios in-house au profit de freelances / agences boutiquées pour raviver la créativité asphyxiée par la culture corporate.",
+          "analyse_sep": "C'est l'heure pour SPORTFIVE de se positionner comme un collectif de talents indépendants plutôt qu'une agence corporate lourde. Mettons en avant nos directeurs artistiques.",
+          "date": "06/03/2026",
+          "source_nom": "Campaign Live"
+        },
+        {
+          "titre": "Le Déclin des Conférences de Presse",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://www.theathletic.com/",
+          "image": "https://images.unsplash.com/photo-1550985223-95b7bdf01ce8?auto=format&fit=crop&q=80&w=600",
+          "resume": "Les coachs de Premier League refusent de plus en plus les médias traditionnels, préférant faire des interviews exclusives sur le podcast officiel du club.",
+          "analyse_sep": "Le 'Owned Media' écrase le 'Earned Media'. Les marques ne doivent plus sponsoriser les panneaux d'interviews, mais les micros des podcasteurs internes du club.",
+          "date": "05/03/2026",
+          "source_nom": "The Athletic"
         }
       ]
     },
@@ -245,6 +475,36 @@
           "analyse_sep": "Le Greenwashing n'est plus permis. Notre pôle stratégie doit intégrer une 'Due Diligence Carbon' dans nos recos de sponsoring, sinon nos clients risquent des crises PR majeures.",
           "date": "12/03/2026",
           "source_nom": "ESPN Business"
+        },
+        {
+          "titre": "Les FAST Channels de Sport : Un nouvel eldorado",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://www.broadbandtvnews.com/",
+          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
+          "resume": "L'explosion des chaînes gratuites financées par la pub (FAST channels sur PlutoTV/Samsung TV) crée une nouvelle source de revenus pour les droits des sports non-Tier 1.",
+          "analyse_sep": "L'aubaine pour nos petits ayant-droits (Handball, Volley). Produisons leurs matchs à bas coût et monétisons l'audience sur les TV connectées avec de l'insertion pub dynamique (DAI).",
+          "date": "11/03/2026",
+          "source_nom": "Broadband TV News"
+        },
+        {
+          "titre": "Blockchain Ticketing : La fin de la revente sauvage",
+          "thematique": "Innovation & Outils",
+          "lien": "https://www.sporttechie.com/",
+          "image": "https://images.unsplash.com/photo-1590845947376-2638caa89309?auto=format&fit=crop&q=80&w=600",
+          "resume": "Tickemaster bascule 100% de ses billets premium sur la blockchain en 2026, éradiquant les bots et capant la valeur de revente pour protéger les fans.",
+          "analyse_sep": "Au-delà de la sécu, ces billets dynamiques permettent d'envoyer des offres sponsors push en plein match. 'Le billet de foot est un média' doit devenir notre punchline commerciale.",
+          "date": "14/03/2026",
+          "source_nom": "SportTechie"
+        },
+        {
+          "titre": "L'Agence IA 100% Autonome",
+          "thematique": "Créativité & Modèles d'Agences",
+          "lien": "https://www.fastcompany.com/",
+          "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=600",
+          "resume": "Une start-up américaine crée la première campagne d'activation globale (créa, ciblage, achat média) pour un équipementier sportif sans aucune intervention humaine.",
+          "analyse_sep": "Alerte Majeure. Notre valeur ajoutée de 'Media Buyer' va être disrupter. La stratégie de S5 doit être : 'L'IA fait le plan média, notre humain négocie les passe-droits et les VIP'.",
+          "date": "09/03/2026",
+          "source_nom": "Fast Company"
         }
       ]
     },
@@ -271,6 +531,36 @@
           "analyse_sep": "L'IA nous a fait gagner du temps. Désormais, vendons nos cerveaux humains : la compréhension sociologique du fan et notre accès terrain (les coulisses avec les joueurs). Ce que l'IA ne peut pas simuler.",
           "date": "18/03/2026",
           "source_nom": "AdAge"
+        },
+        {
+          "titre": "La Finançarisation des Athlètes (Private Equity)",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.bloomberg.com/sports/",
+          "image": "https://images.unsplash.com/photo-1518605368461-1ee063d86f7b?auto=format&fit=crop&q=80&w=600",
+          "resume": "Des fonds permettent en Mars 2026 d'acheter des parts dans les futurs revenus commerciaux de jeunes athlètes (Tennis, Golf) comme on achète des actions en bourse.",
+          "analyse_sep": "Éthiquement gris mais financièrement colossal. Le pôle Athletes de S5 doit auditer ce modèle : sommes-nous encore agents ou devenons-nous courtiers financiers pour nos pépites ?",
+          "date": "19/03/2026",
+          "source_nom": "Bloomberg"
+        },
+        {
+          "titre": "Le Marketing Olfactif et Sensoriel dans le stade",
+          "thematique": "Créativité & Modèles d'Agences",
+          "lien": "https://www.adweek.com/",
+          "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=600",
+          "resume": "Pour ramener les Gen-Z au stade, les agences déploient des activations 5D (Diffusion d'odeurs thématiques par les sponsors, sièges haptiques connectés au match).",
+          "analyse_sep": "Le visuel/écran est saturé. La prochaine reco 'Brand Services' pour nos clients automobiles ou alimentaire doit taper sur un sens inattendu (Odorat, Toucher) pour marquer la mémoire.",
+          "date": "20/03/2026",
+          "source_nom": "Adweek / Experiential"
+        },
+        {
+          "titre": "Smart Stadiums : La fin du Cash 2026",
+          "thematique": "Innovation & Outils",
+          "lien": "https://www.stadiumbusiness.com/",
+          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
+          "resume": "80% des stades de l'Euro 2026 n'accepteront que les paiements biométriques (reconnaissance palmaire) et crypto-wallets aux buvettes.",
+          "analyse_sep": "Opportunité de Naming Sectoriel (Fintech) pour nos clubs : 'La file rapide sans caisse by Mastercard'. Cela fluidifie le stade et rapporte un million annuel.",
+          "date": "16/03/2026",
+          "source_nom": "Stadium Business"
         }
       ]
     }
