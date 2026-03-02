@@ -5,17 +5,61 @@ document.addEventListener('DOMContentLoaded', () => {
     const modal = document.getElementById('trend-modal');
     const modalBody = document.getElementById('modal-body');
     const closeBtn = document.querySelector('.close-btn');
+    const weekSelector = document.getElementById('week-selector');
+    const pageTitle = document.querySelector('.top-bar h2');
 
-    let allTrends = [];
+    let allWeeksData = [];
+    let currentWeekTrends = [];
 
-    // Fetch JSON Data
+    // Fetch JSON Data (now an array of weeks)
     fetch('database.json')
         .then(response => response.json())
         .then(data => {
-            allTrends = data.ressources;
-            renderCards(allTrends);
+            allWeeksData = data.semaines;
+
+            // Populate Week Selector Dropdown
+            populateWeekSelector(allWeeksData);
+
+            // Load the most recent week by default (last in array but rendered first)
+            if (allWeeksData.length > 0) {
+                const latestWeek = allWeeksData[allWeeksData.length - 1];
+                weekSelector.value = latestWeek.id;
+                loadWeek(latestWeek.id);
+            }
         })
         .catch(err => console.error("Erreur de chargement JSON:", err));
+
+    // Populate the dropdown
+    function populateWeekSelector(semaines) {
+        weekSelector.innerHTML = '';
+        // Reverse so the newest week is at the top of the dropdown
+        [...semaines].reverse().forEach(semaine => {
+            const option = document.createElement('option');
+            option.value = semaine.id;
+            option.textContent = semaine.date_label;
+            weekSelector.appendChild(option);
+        });
+    }
+
+    // Handle Week Change
+    weekSelector.addEventListener('change', (e) => {
+        loadWeek(e.target.value);
+    });
+
+    // Load specific week data
+    function loadWeek(weekId) {
+        const selectedWeek = allWeeksData.find(s => s.id === weekId);
+        if (selectedWeek) {
+            currentWeekTrends = selectedWeek.ressources;
+            pageTitle.textContent = `Archives : ${selectedWeek.date_label}`;
+
+            // Reset theme filter to 'all' when changing weeks
+            filters.forEach(f => f.classList.remove('active'));
+            document.querySelector('[data-filter="all"]').classList.add('active');
+
+            renderCards(currentWeekTrends);
+        }
+    }
 
     // Render Cards Function
     function renderCards(trends) {
@@ -48,7 +92,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // Filter Logic
+    // Filter Logic (Themes)
     filters.forEach(filter => {
         filter.addEventListener('click', () => {
             // Remove active class
@@ -59,9 +103,9 @@ document.addEventListener('DOMContentLoaded', () => {
             const filterValue = filter.getAttribute('data-filter');
 
             if (filterValue === 'all') {
-                renderCards(allTrends);
+                renderCards(currentWeekTrends);
             } else {
-                const filteredTrends = allTrends.filter(t => t.thematique === filterValue);
+                const filteredTrends = currentWeekTrends.filter(t => t.thematique === filterValue);
                 renderCards(filteredTrends);
             }
         });
