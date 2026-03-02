@@ -5,94 +5,54 @@
       "date_label": "Semaine 1 (Janvier 2026)",
       "ressources": [
         {
-          "titre": "Deloitte 2026 : Le Football face à la menace saoudienne et américaine",
-          "thematique": "Mesure du ROI & Business",
-          "lien": "https://www2.deloitte.com/uk/en/pages/sports-business-group/articles/deloitte-football-money-league.html",
-          "image": "https://images.unsplash.com/photo-1518605368461-1ee063d86f7b?auto=format&fit=crop&q=80&w=600",
-          "resume": "En ce mois de janvier 2026, Deloitte a publié son rapport annuel 'Football Money League'. Si les revenus globaux franchissent un nouveau cap, le cabinet alerte sur le fait que la domination européenne est sérieusement concurrencée par la Saudi Pro League et la MLS (boostée par l'effet pré-Coupe du Monde).",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Enjeux stratégiques majeurs : les marques européennes devront repenser leur sponsoring football pour lutter contre ces 'nouveaux entrants' internationaux, ouvrant des budgets pour des agences comme SPORTFIVE.",
-          "date": "24/01/2026",
-          "source_nom": "Deloitte Business Group"
-        },
-        {
-          "titre": "CVC Capital s'offre Equine Network : La montée des sports de niche",
-          "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.sportspromedia.com/news/cvc-global-sport-group-equine-network-acquisition/",
-          "image": "https://images.unsplash.com/photo-1598516091392-563d76295de8?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le fonds CVC Capital a déboursé 300 millions de dollars en Janvier 2026 pour acquérir Equine Network, prouvant que les 'Private Equities' visent désormais la scalabilité massive de sports très spécifiques comme l'équitation, le volley-ball ou l'aviron.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z & RSE] SPORTFIVE a une opportunité de créer un 'desk sports alternatifs'. Puisque les droits du football ou de la F1 explosent, offrons du ROI prémium à nos petits clients sur l'équitation ou e-sports très ciblés.",
-          "date": "10/01/2026",
-          "source_nom": "SportsPro Media"
-        },
-        {
-          "titre": "Lancement de 'WPP Media Sports' : La fin des silos en agence",
+          "titre": "L'hybridation des 'Creative Strategists' chez VaynerMedia",
           "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.sportbusiness.com/",
-          "image": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?auto=format&fit=crop&q=80&w=600",
-          "resume": "En janvier 2026, l'immense réseau WPP lance une nouvelle branche unifiée 'WPP Media Sports' pour fusionner achat média, création de contenu, partenariats et gaming sous un même toit face aux nouvelles exigences des annonceurs.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Cela confirme notre positionnement 'Full-Service'. Les clients refusent de traiter avec 4 agences (Relations Presse, Sponsoring, Créa, Achat Média). SPORTFIVE doit capitaliser sur son agilité pour offrir le même guichet unique que les immenses groupes.",
-          "date": "08/01/2026",
-          "source_nom": "SportBusiness"
-        },
-        {
-          "titre": "FIFA & Lenovo dévoilent l'IA 'Football AI Pro'",
-          "thematique": "Innovation & Outils",
-          "lien": "https://inside.fifa.com/about-fifa/commercial",
-          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=600",
-          "resume": "Pour lancer l'année de sa Coupe du Monde 2026, la FIFA s'associe à Lenovo pour présenter 'Football AI Pro', une intelligence artificielle générative fournissant aux sélections des millions de datas en temps réel pour l'analyse tactique et l'engagement fan.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] L'IA n'est plus un 'gadget' mais un levier opérationnel en plein Mondial. Nous devons intégrer des packages de datas enrichies à l'IA dans nos offres de conseil pour les clubs partenaires (Olympique Lyonnais, etc).",
-          "date": "20/01/2026",
-          "source_nom": "FIFA Commercial"
-        },
-        {
-          "titre": "NBCUniversal fait le plein numérique pour les JO d'Hiver",
-          "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://www.nbcsports.com/",
-          "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?auto=format&fit=crop&q=80&w=600",
-          "resume": "Janvier 2026 marque un tournant pour les JO de Milan-Cortina : NBCUniversal annonce l'épuisement total de ses espaces publicitaires (sold out), dont 85% d'investissements qui ont migré spécifiquement vers le streaming (Peacock) et le digital omnicanal.",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] La TV linéaire n'est plus l'Alpha et l'Oméga des grands événements. Nos recommandations doivent forcer sur le 'Second Écran' (Twitch, TikTok) pour contourner le verrouillage publicitaire du streaming premium par de très gros annonceurs.",
-          "date": "06/01/2026",
-          "source_nom": "NBC Sports"
-        },
-        {
-          "titre": "La NFL et Netflix : Documentaire ou Info-Pub ?",
-          "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://www.netflix.com/tudum/articles/",
-          "image": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le nouveau deal NFL x Netflix brouille la frontière entre documentaire immersif et contenu de marque sponsorisé (branded content) pour le SuperBowl 2026.",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] Il faut pitcher à nos ayant-droits la création de docu-séries 'Inside' vendables aux plateformes OTT plutôt que du contenu gratuit sur YouTube. C'est un nouveau centre de profit.",
+          "lien": "https://vaynermedia.com/news/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "VaynerMedia annonce la fin de la séparation stricte entre création et planning : leurs nouveaux 'Creative Strategists' sont d'anciens créatifs formés à l'analyse data instantanée sur TikTok, réduisant le time-to-market par 3.",
+          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Le modèle VaynerMedia valide notre fonctionnement. Nous devons hybrider nos Chefs de Projet. Formons-les massivement aux insights social listening, ils deviendront nos Creative Strategists sans besoin d'un nouveau département.",
           "date": "05/01/2026",
-          "source_nom": "Netflix Tudum"
+          "source_nom": "VaynerMedia PR"
         },
         {
-          "titre": "Kantar Media : L'Effondrement du Reach Linéaire",
+          "titre": "Asana 'Agency Flow' : 40% de frictions en moins",
+          "thematique": "Innovation & Outils",
+          "lien": "https://asana.com/product/agency",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
+          "resume": "Le lancement d'Asana Agency Flow prouve par les chiffres que l'assignation automatisée des tâches créatives augmente la rentabilité de l'agence de 15% en un trimestre en limitant le temps de 'gestion de projet pur'.",
+          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] S5 a besoin de ce type de SaaS ou d'optimiser le nôtre. L'identification des compétences (qui fait quoi) doit être dictée par un dashbord partagé, pour libérer nos CDP de l'opérationnel lourd.",
+          "date": "06/01/2026",
+          "source_nom": "Asana Report"
+        },
+        {
+          "titre": "L'Union des Marques redéfinit le ROI digital",
           "thematique": "Mesure du ROI & Business",
-          "lien": "https://www.kantar.com/campaigns/",
-          "image": "https://images.unsplash.com/photo-1543286386-713bdd548da4?auto=format&fit=crop&q=80&w=600",
-          "resume": "Kantar confirme une baisse historique de -18% de l'audience TV linéaire sur les sports majeurs début 2026, compensée par +40% de vues sur les clips courts sociaux.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Nos modèles d'évaluation financière (PFE) doivent dévaluer l'exposition TV classique (panneautique) au profit des impressions générées sur TikTok/Reels par les comptes des clubs.",
-          "date": "07/01/2026",
-          "source_nom": "Kantar Sports"
+          "lien": "https://www.uniondesmarques.fr/",
+          "image": "https://images.unsplash.com/photo-1554774853-719586f82d77?auto=format&fit=crop&q=80&w=600",
+          "resume": "Un manifeste officiel de l'Union des Marques exige que les agences lient 30% de leurs honoraires de conseil aux KPIs d'acquisition directes générés par les campagnes d'activation.",
+          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] C'est un signal d'alarme. Dans nos recos commerciales S5, arrêtons de vendre des retombées RP. Ajoutons des KPIs de collecte CRM (leads) pour justifier nos fees.",
+          "date": "08/01/2026",
+          "source_nom": "Union des Marques"
         },
         {
-          "titre": "L'Arabie Saoudite lance un fonds pour les e-sports féminins",
+          "titre": "GWI : La Gen Z ne croit plus aux égéries classiques",
           "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.arabnews.com/sport/",
-          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le fond souverain PIF alloue 200M$ à la création de ligues e-sports 100% féminines début 2026, tentant d'adoucir son image par l'inclusion numérique.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z & RSE] Épineux mais incontournable. L'argent du Moyen-Orient inonde l'e-sport. Devons-nous conseiller à nos joueurs e-sports/influenceurs de boycotter ou d'accompagner le mouvement ? Une position claire S5 doit être actée.",
-          "date": "02/01/2026",
-          "source_nom": "Arab News Insider"
+          "lien": "https://www.gwi.com/reports",
+          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
+          "resume": "Selon le GWI, 72% de la Gen Z juge 'inauthentique' le sponsoring classique. Ils réclament des activations où l'athlète s'engage sur des valeurs (Santé Mentale, Diversité) au lieu de juste porter un logo.",
+          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z] Pour notre Hub Créa, ceci est la 'Big Idea' livrée sur un plateau sans planneur. Il faut basculer nos activations partenaires vers du 'Purpose Marketing' centré sur la santé mentale.",
+          "date": "12/01/2026",
+          "source_nom": "GWI Trends"
         },
         {
-          "titre": "Le 'Dynamic Pricing' arrive sur le Merchandising",
-          "thematique": "Mesure du ROI & Business",
-          "lien": "https://www.sportsbusinessjournal.com/",
-          "image": "https://images.unsplash.com/photo-1522205408450-add114ad53fe?auto=format&fit=crop&q=80&w=600",
-          "resume": "Après la billetterie, les clubs majeurs (Real Madrid) ajustent en temps réel les prix des maillots en boutique selon la demande et les résultats des matchs.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Une belle opportunité pour la branche 'Retail' de SPORTFIVE. Proposons des algos de pricing dynamique à nos clubs pour maximiser le panier moyen au coup de sifflet final d'une victoire.",
-          "date": "09/01/2026",
-          "source_nom": "SBJ"
+          "titre": "SuperLeague de Cricket: L'UGC intégré au broadcast",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://www.sporttechie.com/",
+          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
+          "resume": "La ligue indienne réussit la fusion parfaite : les réactions TikTok des fans sont projetées sur les écrans du stade et reprises en TV dans la seconde.",
+          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Media a là le futur de l'activation 360 pour l'OL ou le RC Lens. L'annonceur paye pour être le pont (le sponsor) entre le mobile du fan et l'écran géant du stade.",
+          "date": "14/01/2026",
+          "source_nom": "SportTechie"
         }
       ]
     },
@@ -101,130 +61,110 @@
       "date_label": "Semaine 2 (Janvier 2026)",
       "ressources": [
         {
-          "titre": "L'IA s'invite dans le Scouting NBA",
-          "thematique": "Innovation & Outils",
-          "lien": "https://www.sporttechie.com/nba-ai-scouting-tools",
-          "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&q=80&w=600",
-          "resume": "Les franchises NBA adoptent massivement de nouveaux outils d'analyse prédictive basés sur l'IA pour évaluer la biomécanique des joueurs universitaires, remplaçant peu à peu l'oeil humain.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Il nous faut un partenariat avec ces startups tech pour offrir à nos clients basket (clubs et joueurs) un diagnostic clair sur leur valeur marchande via des données irréfutables.",
-          "date": "15/01/2026",
-          "source_nom": "SportTechie"
-        },
-        {
-          "titre": "Twitch : Nouveau hub exclusif du e-sport",
-          "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://www.twitch.tv/p/en/news",
-          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=600",
-          "resume": "Twitch a sécurisé les droits exclusifs mondiaux pour la diffusion des 3 plus grands tournois League of Legends de 2026, repoussant YouTube hors du marché compétitif core.",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] Achetons massivement de l'espace sponsoring Twitch pour nos partenaires technologiques. La guerre des plateformes e-sport est terminée : Twitch verrouille l'audience 15-25 ans.",
-          "date": "12/01/2026",
-          "source_nom": "Twitch PR"
-        },
-        {
-          "titre": "Le Women's Sports Trust publie ses chiffres de croissance",
-          "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.womensafooty.com",
-          "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le WST dévoile que la croissance de l'audience du sport féminin a dépassé les +45% en un an, prouvant que les marques cherchant des ambassadrices sous-évaluées font face à une fenêtre d'opportunité critique.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z & RSE] Le WST démontre que le sponsoring féminin n'est plus RSE mais purement business. Insistons sur le 'Purpose Marketing' rentable pour convaincre l'Automobile & les Banques.",
-          "date": "14/01/2026",
-          "source_nom": "Women Sports Trust"
-        },
-        {
-          "titre": "La fin du système de Commission d'Agence ?",
+          "titre": "Publicis lance son outil IA d'inspiration stratégique",
           "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.thedrum.com",
-          "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=600",
-          "resume": "Un nombre croissant d'annonceurs B2C imposent un modèle de rémunération purement basé sur la performance (CPA/CPL) aux agences de marketing sportif.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] SPORTFIVE doit anticiper ce mouvement en liant une partie de nos honoraires (fees) de conseil ou d'activation directement aux KPIs de ventes de nos clients, preuve de notre confiance en nos recos.",
-          "date": "13/01/2026",
-          "source_nom": "The Drum"
+          "lien": "https://www.campaignlive.co.uk/",
+          "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=600",
+          "resume": "Publicis équipe ses chefs de pôle d'un GPT interne nourri à leurs 20 ans d'insights consommateurs. L'IA devient le 'Premier Planneur' de l'agence pour les pitchs rapides.",
+          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Nous accusons un retard. Nous devons construire un 'S5_GPT' privé, injecter toutes nos vieilles propales dedans, et l'utiliser pour accoucher d'une Big Idea en 10 minutes lors des charrettes.",
+          "date": "20/01/2026",
+          "source_nom": "Campaign Live"
         },
         {
-          "titre": "L'Impact du Changement Climatique sur le Calendrier",
-          "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.sportengland.org/",
-          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=600",
-          "resume": "Les premières modifications officielles de calendriers (Tennis, Ski) en raison des canicules/manque de neige de début 2026 forcent les sponsors à ajouter des clauses d'annulation climatiques.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z & RSE] Nos contrats légaux de sponsoring doivent intégrer des 'Climate Force Majeure'. C'est aussi l'occasion de proposer des activations virtuelles (e-sport de remplacement) en cas d'annulation.",
-          "date": "16/01/2026",
-          "source_nom": "Sport England"
+          "titre": "L'IA Générative pour les visuels d'appels d'offres",
+          "thematique": "Innovation & Outils",
+          "lien": "https://www.adage.com/",
+          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=600",
+          "resume": "Une étude AdAge montre que l'utilisation experte de Midjourney permet aux micro-agences de déliverer des maquettes d'activation stade de la même qualité que les mastodontes 3D.",
+          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Notre Studio graphique est saturé. La formation de nos Directeurs Artistiques S5 au prompt Midjourney est la clef de notre survie pour sortir du volume sans baisser la qualité.",
+          "date": "22/01/2026",
+          "source_nom": "AdAge"
         },
         {
-          "titre": "Bain & Co: La Rentabilité des Droits Naming",
+          "titre": "Sports Sponsorship ROI : La méthode 'Attribution Pixel'",
           "thematique": "Mesure du ROI & Business",
-          "lien": "https://www.bain.com/insights/",
-          "image": "https://images.unsplash.com/photo-1554774853-719586f82d77?auto=format&fit=crop&q=80&w=600",
-          "resume": "Une étude démontre que les contrats Naming sur 10 ans sont les investissements marketing avec le ROI le plus constant, protégeant contre l'hyper-inflation publicitaire.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] C'est l'argument ultime pour vendre du Stade B2B. Bloquer un prix aujourd'hui pour 10 ans de visibilité, c'est se prémunir contre les CPM fous de Facebook et Google.",
-          "date": "11/01/2026",
-          "source_nom": "Bain Insights"
+          "lien": "https://www.marketingdive.com/",
+          "image": "https://images.unsplash.com/photo-1522205408450-add114ad53fe?auto=format&fit=crop&q=80&w=600",
+          "resume": "Aux US, les contrats de sponsoring maillot majeurs incluent l'intégration d'un Pixel sur la billetterie du club pour attribuer directement les ventes à la campagne.",
+          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Vendre de la panneautique ne suffit plus. SPORTFIVE doit négocier contractuellement l'accès aux pixels de tracking des clubs pour prouver à nos marques clientes que leurs activations transforment.",
+          "date": "24/01/2026",
+          "source_nom": "Marketing Dive"
         },
         {
-          "titre": "Puma abandonne l'athlétisme pour le padel",
+          "titre": "Génération Alpha et Micro-Communautés",
           "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.sportspromedia.com/",
-          "image": "https://images.unsplash.com/photo-1622279457486-640c4cb49089?auto=format&fit=crop&q=80&w=600",
-          "resume": "Réallocation budgétaire choc : Puma stoppe 40% de ses contrats olympiques en 2026 pour sponsoriser exclusivement des académies de padel urbaines.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z & RSE] Alerte pour nos agents. Les athlètes olympiques ne sont plus rentables pour les marques hors-année JO. Redirigeons nos athlètes vers des deals 'Lifestyle & Mode' plutôt que Performance pure.",
-          "date": "14/01/2026",
-          "source_nom": "SportsPro Media"
+          "lien": "https://www.wearesocial.com/",
+          "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&q=80&w=600",
+          "resume": "Le rapport global WeAreSocial 2026 indique que les 15-20 ans fuient Instagram pour des groupes Discord ou WhatsApp privés hyper-affinitaires.",
+          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z] Cet insight dicte notre prochaine reco omnicanale. Créons une activation pour notre client qui ne passe pas par Instagram, mais par l'infiltration positive d'un channel Discord esport privé.",
+          "date": "26/01/2026",
+          "source_nom": "We Are Social Report"
+        },
+        {
+          "titre": "Fan Data Platforms (FDP) connectées au stade",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://www.sportbusiness.com/",
+          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
+          "resume": "Leverkusen connecte l'application mobile stade à la boutique de bière physique via Bluetooth pour du push marketing prédictif en mi-temps.",
+          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] Exemple pur où SPORTFIVE se rend indispensable. Nous pouvons conseiller une marque (ex: Heineken) sur cette architecture 360 allant du digital à la gorgée physique.",
+          "date": "28/01/2026",
+          "source_nom": "SportBusiness Connect"
         }
       ]
     },
     {
       "id": "3",
-      "date_label": "Semaine 3 (Janvier 2026)",
+      "date_label": "Semaine 3 (Février 2026)",
       "ressources": [
         {
-          "titre": "L'Ere des Agences Spécialisées Web3",
+          "titre": "In-House VS Externalisation : Le modèle Hybride",
           "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.adweek.com/",
-          "image": "https://images.unsplash.com/photo-1639762681485-074b7f4ec651?auto=format&fit=crop&q=80&w=600",
-          "resume": "Mi-Janvier 2026, les fusions d'agences explosent : les réseaux classiques rachètent des experts blockchain/métavers pour répondre aux appels d'offres des clubs (NFT de billetterie, tokens fans).",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] SPORTFIVE doit impérativement cartographier les 5 meilleures micro-agences Web3 françaises pour des partenariats en marque blanche (white-label) sur nos activations clubs.",
-          "date": "20/01/2026",
-          "source_nom": "Adweek"
+          "lien": "https://www.campaignlive.co.uk/",
+          "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=600",
+          "resume": "Les grandes marques (RedBull, Nike) réduisent leurs studios in-house au profit de collectifs externalisés pour raviver la créativité asphyxiée par la culture corporate.",
+          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Ne nous battons pas contre le in-house. Présentons SPORTFIVE comme le 'studio de choc externe' qui apporte l'étincelle créative que l'équipe interne de l'annonceur a perdue.",
+          "date": "02/02/2026",
+          "source_nom": "Campaign Live"
         },
         {
-          "titre": "Impact économique du padel en Europe",
-          "thematique": "Mesure du ROI & Business",
-          "lien": "https://www.sportsbusinessjournal.com/",
-          "image": "https://images.unsplash.com/photo-1622279457486-640c4cb49089?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le marché du padel atteint son plafond de verre locatif. Les investisseurs exigent désormais des KPIs sur l'achat de clubs en propre et l'hospitality VIP.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Offrons à nos clients B2B des solutions réseaux/hospitality via les terrains de Padel en centre-ville, devenus le nouveau golf des cadres sup en 2026.",
-          "date": "18/01/2026",
-          "source_nom": "SBJ"
-        },
-        {
-          "titre": "Gen-Alpha: Le Sport comme Jeu Vidéo",
-          "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.roblox.com/corp/news",
-          "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=600",
-          "resume": "Roblox publie des chiffres ahurissants : 40% de la Gen-Alpha (nés après 2010) interagit avec son équipe de sport préférée en explorant d'abord son univers dans Roblox avant de regarder un match.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z & RSE] L'activation Roblox/Fortnite n'est plus un PR Stunt, c'est le point d'entrée principal. Tous nos budgets Jeunesse (Danone, LEGO) doivent s'activer in-game.",
-          "date": "22/01/2026",
-          "source_nom": "Roblox Corp"
-        },
-        {
-          "titre": "L'IA Générative dans le Copywriting Sportif",
+          "titre": "Notion AI pour la structuration des projets complexes",
           "thematique": "Innovation & Outils",
-          "lien": "https://www.salesforce.com/news",
+          "lien": "https://www.notion.so/releases/ai",
           "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
-          "resume": "Salesforce dévoile que 75% des newsletters de clubs sportifs anglais en 2026 sont rédigées par des IA génératives hyper-personnalisées selon l'historique d'achat du fan.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Les départements CRM de nos ayant-droits doivent s'équiper. SPORTFIVE peut packager des 'Audits CRM + IA' facturés en conseil stratégique pour upgrader leurs bases de données.",
-          "date": "24/01/2026",
-          "source_nom": "Salesforce"
+          "resume": "L'immense succès de Notion AI dans la gestion des appels d'offres, capable de résumer 50 pages de charte graphique et de générer la trame d'une recommandation marketing.",
+          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] L'outil ultime pour nos Chefs de Projet. Une centralisation et une écriture assistée de nos propales pour réduire l'investissement humain sur le travail de défrichage chronophage.",
+          "date": "04/02/2026",
+          "source_nom": "Notion HQ"
         },
         {
-          "titre": "Les 'Sweat Equity' Deals explosent",
-          "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.sloansportsconference.com/",
-          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
-          "resume": "Les start-ups sport-tech ne paient plus les agences en cash mais en actions de la société (Equity) contre des activations de croissance.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Devons-nous lancer 'SPORTFIVE Ventures' ? Au lieu d'une commission, prenons 5% des startups prometteuses (IA, Billetterie) qu'on implante dans nos clubs partenaires.",
-          "date": "21/01/2026",
-          "source_nom": "MIT Sloan Review"
+          "titre": "Zero-Party Data : Le nouvel OR du parrainage",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.iab.com/",
+          "image": "https://images.unsplash.com/photo-1554774853-719586f82d77?auto=format&fit=crop&q=80&w=600",
+          "resume": "L'Interactive Advertising Bureau confirme qu'avec la disparition des cookies, les activations de sponsoring (concours, bornes interactives) sont devenues le premier levier d'acquisition de donnée directe.",
+          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Nous ne vendons plus la 'belle activation'. Nos opérations (type borne photo au stade) sont des aspirateurs à e-mails RGPD validés (Zero-Party Data) pour nourrir le CRM de notre client.",
+          "date": "06/02/2026",
+          "source_nom": "IAB Europe Report"
+        },
+        {
+          "titre": "Le 'Purpose Marketing' rentable : McEnroe et la santé mentale",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://www.marketingdive.com/",
+          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
+          "resume": "Analyse d'une campagne où l'usage des émotions fortes et du passé psychologique de l'athlète a généré un indice d'attention 3x supérieur à une réclame produit classique.",
+          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z] Pas besoin de planneur pour comprendre ça. Les marques cherchent du sens. Nos concepts doivent appuyer là où ça fait mal (la vulnérabilité des athlètes) pour marquer la Gen Z.",
+          "date": "10/02/2026",
+          "source_nom": "Marketing Dive"
+        },
+        {
+          "titre": "La Social TV et le Co-Viewing Twitch",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://www.sporttechie.com/",
+          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
+          "resume": "L'intégration native de Twitch sur les téléviseurs connectés modifie la consommation : le spectateur regarde le match principal tout en interagissant en direct avec un streamer sur le même écran.",
+          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] Sponsons les retransmissions 'Watch Party'. C'est là que réside l'engagement direct, pendant que la visibilité statutaire reste le naming sur le terrain.",
+          "date": "12/02/2026",
+          "source_nom": "SportTechie TV"
         }
       ]
     },
@@ -233,166 +173,166 @@
       "date_label": "Semaine 4 (Février 2026)",
       "ressources": [
         {
-          "titre": "Super Bowl LX : Les vrais chiffres du ROI publicitaire",
-          "thematique": "Mesure du ROI & Business",
-          "lien": "https://www.forbes.com/sportsmoney/",
-          "image": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?auto=format&fit=crop&q=80&w=600",
-          "resume": "Analyse post-Super Bowl des ventes réelles générées par les spots TV à 8 millions de dollars. Les marques qui ont couplé TV et TikTok ont généré un ROI 3x supérieur.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] La preuve par les chiffres que l'omnicanalité n'est plus une option. Toute campagne TV vendue par SPORTFIVE (ex: mi-temps Equipe de France) doit inclure un 'multiplier' digital social.",
-          "date": "10/02/2026",
-          "source_nom": "Forbes"
-        },
-        {
-          "titre": "Nielsen : La consommation Fragmentation du Fandom",
-          "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.nielsen.com/insights/",
-          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
-          "resume": "Nielsen alerte sur l'isolement des fans : 60% regardent le sport seuls sur mobile, préférant chatter sur Discord plutôt que d'utiliser l'écran principal du salon.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z & RSE] Il faut arrêter de cibler la conception des hospitalités stades comme des événements familiaux et créer du contenu digital partageable en temps réel, optimisé pour les canaux discrets (Discord, Telegram).",
-          "date": "12/02/2026",
-          "source_nom": "Nielsen Analytics"
-        },
-        {
-          "titre": "La consolidation des Agences de Talents",
+          "titre": "L'approche Squad Model (Spotify) en Agence Créa",
           "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://deadline.com/v/sports/",
-          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
-          "resume": "CAA (Creative Artists Agency) rachète trois agences d'influence européenne en Février 2026, créant un monopole sur le croisement Athlètes/Hollywood/TikTok.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] La course à la taille (Scale) est rude. Pour l'entité SPORTFIVE Talent, cela signifie qu'il faut sécuriser des talents de niche ultra-engagés que les mastodontes américains sous-évaluent.",
-          "date": "08/02/2026",
-          "source_nom": "Deadline"
+          "lien": "https://www.adweek.com/",
+          "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=600",
+          "resume": "De plus en plus d'agences adoptent des cellules agiles (Squads) permanentes (DA + CDP + Social Manager) dédiées à un client pour supprimer les validations pyramidales.",
+          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Mêler les compétences spécifiques au quotidien dans un 'Pod' dédié. Cela limite l'impact client et accélère l'idéation puisqu'il n'y a plus de silo.",
+          "date": "15/02/2026",
+          "source_nom": "Adweek"
         },
         {
-          "titre": "Le 'Zero-Party Data' devient la norme Sponsor",
-          "thematique": "Mesure du ROI & Business",
-          "lien": "https://www.iab.com/",
-          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
-          "resume": "Fin des cookies tiers actée : les sponsors sportifs n'achètent plus de visibilité, ils achètent de la collecte de données directes consenties (Zero-Party Data) via des activations in-stadia.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Fini les logos vides. Une activation SPORTFIVE en 2026 doit avoir un QR code imposant la création d'un compte pour générer de la data qualifiée (Opt-in) au sponsor.",
-          "date": "11/02/2026",
-          "source_nom": "IAB Europe"
-        },
-        {
-          "titre": "La Biomécanique Wearable 2.0",
+          "titre": "Resource Management : L'adoption de Float",
           "thematique": "Innovation & Outils",
-          "lien": "https://www.sporttechie.com/",
-          "image": "https://images.unsplash.com/photo-1510060090886-bdcb115e8557?auto=format&fit=crop&q=80&w=600",
-          "resume": "Apple et Whoop signent un accord pour que les données cardiaques des joueurs soient diffusées en direct sur les écrans géants du stade pendant les temps morts.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] L'intimité de l'effort est le nouveau contenu roi. Il faut qu'on package l'affichage des BPM (battements) des joueurs comme un espace pub (ex: 'Ce moment de tension est sponsorisé par RedBull').",
-          "date": "07/02/2026",
-          "source_nom": "SportTechie"
+          "lien": "https://www.float.com/blog/",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
+          "resume": "L'outil Float démontre comment la visibilité de la charge de travail (capacity planning) en agence augmente le taux d'utilisation des talents spécifiques de 20%.",
+          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Ce type de solution répond directement à notre enjeu interne : identifier instantanément la compétence spécifique disponible pour éviter la surcharge du CDP.",
+          "date": "17/02/2026",
+          "source_nom": "Float Resources"
+        },
+        {
+          "titre": "Le Sales Impact Report de Nielsen",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.nielsen.com/insights/",
+          "image": "https://images.unsplash.com/photo-1522205408450-add114ad53fe?auto=format&fit=crop&q=80&w=600",
+          "resume": "Nielsen développe un nouvel algorithme mesurant la probabilité de passage à l'acte d'achat (Retail) généré par un panneau LED stadium en temps réel.",
+          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Intégrons Nielsen à nos packages commerciaux. Fournir un rapport d'intentions d'achats plutôt qu'un simple rapport de GRP TV.",
+          "date": "19/02/2026",
+          "source_nom": "Nielsen Data"
+        },
+        {
+          "titre": "Le boom du marché des Femmes de +40 ans (Silver Gen)",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://www.marketingdive.com/",
+          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
+          "resume": "Le sponsoring néglige les cibles rentables. Le pouvoir d'achat des consommatrices sportives de 40 à 60 ans explose dans l'industrie du bien-être/santé.",
+          "analyse_sep": "🧠 [Enjeu Insights Cibles / RSE] Il n'y a pas que la Gen Z. Ce segment sous-exploité (Pilates, Running) est l'axe différenciant parfait pour surprendre nos clients Banque/Assurance (B2B/B2C).",
+          "date": "21/02/2026",
+          "source_nom": "Marketing Dive"
+        },
+        {
+          "titre": "La VR pour les espaces d'Hospitalité VIP",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://www.sportbusiness.com/",
+          "image": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&q=80&w=600",
+          "resume": "Les salons VIP de la NHL utilisent des casques Meta Quest pour montrer les vues cockpit de la glace pendant les pauses, créant une expérience augmentée.",
+          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] L'hybridation physique-digital de luxe. Cela justifie le coût d'une belle activation : une immersion totale qui marque la mémoire viscérale du client final.",
+          "date": "23/02/2026",
+          "source_nom": "SportBusiness Experiential"
         }
       ]
     },
     {
       "id": "5",
-      "date_label": "Semaine 5 (Février 2026)",
+      "date_label": "Semaine 5 (Fin Février 2026)",
       "ressources": [
         {
-          "titre": "L'Apple Vision Pro et la Réalité Mixte en F1",
-          "thematique": "Innovation & Outils",
-          "lien": "https://www.apple.com/newsroom/",
-          "image": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&q=80&w=600",
-          "resume": "La Formule 1 dévoile sa première application spatialisée pour le casque Apple Vision Pro : télémétrie 3D et vue à 360° embarquée.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Ce n'est plus demain, c'est aujourd'hui. Il faut qu'on crée des expériences VIP 'casques VR' pour nos programmes d'hospitalité. C'est un argument massue pour les sponsors ultra-premium (Luxe, Horlogerie).",
-          "date": "18/02/2026",
-          "source_nom": "Apple.com"
-        },
-        {
-          "titre": "Créateurs vs Broadcasters : La guerre de l'Attention",
-          "thematique": "Omnicanalité & Nouveaux Médias",
+          "titre": "Le retour des Commandos Créatifs Freelances",
+          "thematique": "Créativité & Structuration des Agences",
           "lien": "https://www.thedrum.com/",
-          "image": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?auto=format&fit=crop&q=80&w=600",
-          "resume": "The Drum analyse comment les ligues (MLS, Premier League) intègrent officiellement des créateurs de contenu sur la touche pour concurrencer le reach de leurs propres diffuseurs TV historiques.",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] La désintermédiation s'accélère. SPORTFIVE Media doit devenir agent de Créateurs Sports et ne plus se limiter aux athlètes pros. Nos annonceurs réclament de l'UGC (User Generated Content).",
-          "date": "20/02/2026",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Les grands annonceurs plébiscitent le recours à des studios ultra-réduits composés d'un pool élastique de freelances experts (3D, Copywriting pointu, IA).",
+          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] SPORTFIVE doit se positionner comme l'agrégateur de ces talents. Gardons l'Account Management et sous-traitons la créa pure à des commandos extérieurs ultra-spécialisés (Studio agile).",
+          "date": "25/02/2026",
           "source_nom": "The Drum"
         },
         {
-          "titre": "Discord : Le Cœur Caché du Fandom",
-          "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://discord.com/company",
-          "image": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?auto=format&fit=crop&q=80&w=600",
-          "resume": "En 2026, Discord dépasse X (Twitter) comme plateforme principale de discussions pendant les directs sportifs, forçant les clubs à gérer des serveurs communautaires ultra-actifs.",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] Nos équipes Brand Services doivent arrêter de budgéter du Community Management classique (Facebook/Insta) et proposer des administrateurs Discord spécialisés pour nos marques clientes.",
-          "date": "19/02/2026",
-          "source_nom": "Discord"
+          "titre": "Le Co-pilotage IA dans Microsoft Teams pour Agences",
+          "thematique": "Innovation & Outils",
+          "lien": "https://www.microsoft.com/copilot/",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
+          "resume": "Microsoft Copilot synthétise en 1 minute des réunions clients Teams de 2 heures, dressant l'ordre du jour complet des livrables créatifs.",
+          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Plus personne ne dresse de compte rendu. C'est 4h de temps CDP sauvées par semaine, réinvesties dans le pur conseil client. L'outil au service du flux de travail.",
+          "date": "26/02/2026",
+          "source_nom": "Microsoft 360"
         },
         {
-          "titre": "Sport Santé : Le Sponsoring B2B explose",
-          "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.who.int/",
-          "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le lien entre marque employeur, santé mentale des salariés et sport explose. Les mutuelles et assurances investissent massivement le sport amateur.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z & RSE] La QVT (Qualité de Vie au Travail) est notre meilleur levier de vente B2B. Ne vendons pas du naming, vendons un programme de bien-être entreprise adossé à un club partenaire (ex: Yoga au Stade).",
-          "date": "21/02/2026",
-          "source_nom": "OMS / Etude Santé"
-        },
-        {
-          "titre": "L'EuroLeague fusionne avec les Ligues Nationales Fiba ?",
+          "titre": "Le Coût Par Lead (CPL) dans le naming",
           "thematique": "Mesure du ROI & Business",
-          "lien": "https://www.sportbusiness.com/",
-          "image": "https://images.unsplash.com/photo-1505666287802-931dc83948e9?auto=format&fit=crop&q=80&w=600",
-          "resume": "Février 2026 : Les négociations secrètes s'accélèrent pour unifier le basket européen sur le modèle économique de la NBA, attirant les milliards US.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Si la Ligue Unique européenne voit le jour, SPORTFIVE doit être l'agence qui commercialise les droits mondiaux. Nos équipes Sales doivent verrouiller les dirigeants dès maintenant.",
-          "date": "17/02/2026",
-          "source_nom": "SportBusiness Insider"
+          "lien": "https://www.forbes.com/sportsmoney/",
+          "image": "https://images.unsplash.com/photo-1554774853-719586f82d77?auto=format&fit=crop&q=80&w=600",
+          "resume": "Analyse Forbes : Des ligues d'esport indexent leurs tickets de sponsoring sur le nombre de leads qualifiés générés sur la page web du partenaire sponsor.",
+          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Le sponsoring rejoint la logique de la pub digitale. Prouvons à notre partenaire que l'activation e-sport lui ramène des leads moins chers que Google Ads.",
+          "date": "27/02/2026",
+          "source_nom": "Forbes Sports Money"
+        },
+        {
+          "titre": "L'ère du 'Quiet Luxury' dans le Sport B2B",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://www.businessinsider.com/",
+          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
+          "resume": "Les loges VIP refusent dorénavant le branding ostentatoire, cherchant des expériences feutrées, intellectuelles, orientées club d'affaires caché.",
+          "analyse_sep": "🧠 [Enjeu Insights Cibles / B2B] Il faut upgrader drastiquement la scénographie de nos hospitalités. Moins de logos, plus d'œnologie et d'art conceptuel lié au sport. Le B2B recherche l'hyper-exclusivité discrète.",
+          "date": "01/03/2026",
+          "source_nom": "Business Insider"
+        },
+        {
+          "titre": "TikTok : La fin des algorithmes, le retour de la communauté",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://www.socialmediatoday.com/",
+          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
+          "resume": "TikTok privilégie désormais le flux \"Suivis\", demandant aux marques de bâtir de vraies communautés (CRM social) plutôt que de miser sur des vidéos virales éphémères.",
+          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Media ne peut plus vendre le 'buzz'. Nous devons concevoir des programmes d'ambassadeurs durables (influence au long-cours) pour bâtir un capital marque sur les plateformes.",
+          "date": "03/03/2026",
+          "source_nom": "Social Media Today"
         }
       ]
     },
     {
       "id": "6",
-      "date_label": "Semaine 6 (Février 2026)",
+      "date_label": "Semaine 6 (Mars 2026)",
       "ressources": [
         {
-          "titre": "McKinsey : Le Modèle Economique du Sport Féminin rentabilisé",
-          "thematique": "Mesure du ROI & Business",
-          "lien": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights",
-          "image": "https://images.unsplash.com/photo-1574629810360-7efbb6b69d27?auto=format&fit=crop&q=80&w=600",
-          "resume": "Un rapport majeur de McKinsey prouve que le seuil de rentabilité des investissements massifs dans les franchises féminines a été franchi en 2025, entraînant un boom des valorisations Q1 2026.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Ce rapport est notre bible pour vendre du Naming Rights sur le foot/rugby féminin. La valorisation n'est plus spéculative, elle est actée. Il faut pitcher vite avant que les prix n'explosent.",
-          "date": "25/02/2026",
-          "source_nom": "McKinsey & Company"
-        },
-        {
-          "titre": "Agences In-House : Le backlash de 2026",
+          "titre": "La méthode de Design Thinking Sprint en Agence",
           "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.campaignlive.co.uk/",
-          "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le magazine Campaign dévoile que de nombreux annonceurs ferment leurs agences internes (In-house) à cause de coûts cachés astronomiques, et reviennent vers l'externalisation agile.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] C'est une carte maitresse pour nos réunions prospecs (Brand Services). Les marques sont fatiguées du modèle internalisé. Nous devons positionner SPORTFIVE comme le bras armé externe sans friction.",
-          "date": "26/02/2026",
-          "source_nom": "Campaign Live"
+          "lien": "https://www.ideou.com/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Formation intensive des account managers aux méthodes d'animation de Design Sprints, remplaçant la classique phase de brief/planning long et fastidieux.",
+          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Transformons nos braimstormings. Un CDP SPORTFIVE qui maîtrise le cycle T-Shape/Sprint fera émerger l'insight lors d'un atelier de 2h avec le client, éliminant le besoin de planneur.",
+          "date": "01/03/2026",
+          "source_nom": "IDEO U"
         },
         {
-          "titre": "L'Avènement de l'IA Vidéo Générative (Sora) dans les clips promo",
+          "titre": "Outils d'Audit Environnemental (SaaS Scope 3)",
           "thematique": "Innovation & Outils",
-          "lien": "https://openai.com/sora",
-          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=600",
-          "resume": "OpenAI lance Sora V2, capable de générer des clips sportifs photoréalistes en 4K. Des clubs l'utilisent déjà pour simuler les maillots sur des légendes décédées dans leurs teasers.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Dilemme éthico-légal mais opportunité financière ! SPORTFIVE Studio doit maîtriser Sora pour diviser par 10 les coûts de production des clips de présentation de naming ou d'activations fictives.",
-          "date": "23/02/2026",
-          "source_nom": "OpenAI"
+          "lien": "https://www.greenly.earth/",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
+          "resume": "Les nouvelles plateformes SaaS permettent de tracker instantanément l'empreinte carbone d'une activation VIP ou d'une campagne globale de sponsoring.",
+          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] L'outil apporte la caution scientifique (ROI Carbone). Nous pouvons packager cette mesure RSE automatique comme un bonus stratégique à nos deals d'activation majeurs.",
+          "date": "04/03/2026",
+          "source_nom": "Greenly B2B"
         },
         {
-          "titre": "La bulle du Micro-Sponsoring",
+          "titre": "L'Attribution Multi-Touch sur le sponsoring TV",
           "thematique": "Mesure du ROI & Business",
-          "lien": "https://www.sponsorpitch.com/",
-          "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=600",
-          "resume": "Des plateformes automatisées permettent désormais d'acheter des pixels sur des maillots de foot amateur à la seconde, uberisant l'achat d'espace.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] La long-tail est là. Pour des PME régionales n'ayant pas 100K€, nous devrions packager une offre automatisée 'Local Reach' ciblant 50 clubs amateurs locaux.",
-          "date": "27/02/2026",
-          "source_nom": "SponsorPitch"
+          "lien": "https://www.kantar.com/",
+          "image": "https://images.unsplash.com/photo-1554774853-719586f82d77?auto=format&fit=crop&q=80&w=600",
+          "resume": "Les algos de Kantar prouvent mathématiquement qu'une panneautique en Ligue 1 augmente de 25% la conversion finale d'une pub Display vue sur mobile 3h plus tard.",
+          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Ce chiffre est le Graal. Le sponsoring LED n'est pas inutile, il est le 'pré-roll cognitif' du tunnel de vente. L'argumentaire commercial S5 doit prouver cette synergie.",
+          "date": "05/03/2026",
+          "source_nom": "Kantar Sports ROI"
         },
         {
-          "titre": "Le 'Sport-as-a-Service' par Amazon",
+          "titre": "La fin du 'Greenwashing' agressif, le début du 'Greenhushing'",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://www.bloomberg.com/green",
+          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
+          "resume": "Par peur du bad buzz (Cancel Culture), 60% des marques choisissent le 'Greenhushing' : elles font des actions écologiques réelles dans le sport, mais refusent d'en faire des spots publicitaires.",
+          "analyse_sep": "🧠 [Enjeu Insights Cibles / RSE] Attention à la fausse bonne idée (Big Idea RSE ostentatoire). Conseillons l'humilité. L'activation doit être virtuellement silencieuse mais factuellement prouvée pour rassurer les cibles jeunes.",
+          "date": "07/03/2026",
+          "source_nom": "Bloomberg Green"
+        },
+        {
+          "titre": "Le Fan Journey 360: Du billet digital au drive to store",
           "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://www.aboutamazon.com/news",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=600",
-          "resume": "Prime Video intègre les achats de billets, le merchandising et les paris sportifs directement sur l'écran de diffusion en un clic.",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] C'est la mort du e-commerce classique des clubs sportifs. Il faut aider nos clubs à migrer leur catalogue de produits dérivés directement dans l'écosystème Amazon Prime.",
-          "date": "24/02/2026",
-          "source_nom": "Amazon News"
+          "lien": "https://www.sporttechie.com/",
+          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
+          "resume": "Les Los Angeles Rams démontrent qu'un billet NFC sur mobile, lié à un compte UberEats et une carte fidélité FootLocker, assure un tracking 100% de la journée du fan.",
+          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Brand Services doit maitriser cette cartographie (User Journey). Nous devons être l'agence qui lie les APIs (billetterie, Uber, App Stade) pour créer une mécanique d'activation ultra-fluide.",
+          "date": "10/03/2026",
+          "source_nom": "SportTechie Connect"
         }
       ]
     },
@@ -401,54 +341,54 @@
       "date_label": "Semaine 7 (Mars 2026)",
       "ressources": [
         {
-          "titre": "L'Impact des Marques Endémiques vs Non-Endémiques",
-          "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.marketingdive.com/topic/sports/",
-          "image": "https://images.unsplash.com/photo-1533104816-c8a45214777e?auto=format&fit=crop&q=80&w=600",
-          "resume": "Analyse sur la prolifération des marques non-endémiques (Skincare, Santé Mentale, Cloud) dans le sport, qui ringardisent l'approche purement performance sportive.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z & RSE] Ouvrons nos portefeuilles clients. Le sponsoring n'est plus l'apanage des Bières/Paris Sportifs/Automobiles. Nos SDRs doivent chasser agressivement la parapharmacie et l'IT Cloud.",
-          "date": "02/03/2026",
-          "source_nom": "Marketing Dive"
-        },
-        {
-          "titre": "Le Datacasting en direct (NBA & LFP)",
-          "thematique": "Innovation & Outils",
-          "lien": "https://www.sporttechie.com/",
-          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
-          "resume": "L'intégration de données en temps réel (vitesse, trajectoires en surbrillance) sur le flux de diffusion devient la norme gratuite pour rajeunir l'audience TV.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Il s'agit d'un nouvel inventaire publicitaire ! Nous pouvons vendre le sponsor du 'Statcast' pendant les matchs de l'OL. C'est l'activation in-game par excellence.",
-          "date": "03/03/2026",
-          "source_nom": "SportTechie"
-        },
-        {
-          "titre": "Le Retour en force des Fans Advisory Boards (FAB)",
-          "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.sportbusiness.com/",
-          "image": "https://images.unsplash.com/photo-1511886929837-354d827aae26?auto=format&fit=crop&q=80&w=600",
-          "resume": "Post-SuperLeague, la loi anglaise impose les comités de supporters au conseil d'administration des clubs. En 2026, cela touche même les négociations de sponsoring.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z & RSE] Risque réputationnel majeur pour nos clients ! Nous ne pouvons plus signer de gros deals (Naming, Crypto) sans avoir sondé l'acceptabilité via notre réseau de supporters. Le B2C a un droit de véto.",
-          "date": "04/03/2026",
-          "source_nom": "SportBusiness"
-        },
-        {
-          "titre": "In-House vs Outsourcing : Le balancier",
+          "titre": "Surcharge et Burnout Administratif en Agence",
           "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.campaignlive.co.uk/",
-          "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=600",
-          "resume": "Les grandes marques (RedBull, Nike) réduisent leurs studios in-house au profit de freelances / agences boutiquées pour raviver la créativité asphyxiée par la culture corporate.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] C'est l'heure pour SPORTFIVE de se positionner comme un collectif de talents indépendants plutôt qu'une agence corporate lourde. Mettons en avant nos directeurs artistiques.",
-          "date": "06/03/2026",
-          "source_nom": "Campaign Live"
+          "lien": "https://www.adage.com/",
+          "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=600",
+          "resume": "Le rapport global sur la santé mentale en agence montre que 45% du temps d'un chef de projet est consumé par le reporting et le suivi budgétaire Excel, asséchant totalement l'espace de créativité stratégique.",
+          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Le vrai risque de la structure actuelle. Pour compenser l'absence de planning, le Chef de Projet S5 doit être soulagé drastiquement du pur suivi budgétaire via l'automatisation (SaaS/IA).",
+          "date": "05/03/2026",
+          "source_nom": "AdAge Survey"
         },
         {
-          "titre": "Le Déclin des Conférences de Presse",
+          "titre": "Plateformes de Gestion des Talents Intégrées (CRM Interne)",
+          "thematique": "Innovation & Outils",
+          "lien": "https://www.workday.com/",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
+          "resume": "L'explosion des plateformes de 'Skills Management' (type Workday) qui cartographient instantanément qui en interne maîtrise une sous-compétence précise (ex: Prompt Midjourney ou Discord CM) pour matcher les bons projets.",
+          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Implémentons un annuaire des hard/soft skills chez SPORTFIVE. Arrêtons d'attribuer les projets par inertie et matchons les appels d'offres avec la compétence latente de chaque collègue.",
+          "date": "07/03/2026",
+          "source_nom": "Workday HR Tech"
+        },
+        {
+          "titre": "L'Indice d'Attention: Le KPI qui tue le CPM",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.lumen-research.com/",
+          "image": "https://images.unsplash.com/photo-1522205408450-add114ad53fe?auto=format&fit=crop&q=80&w=600",
+          "resume": "Lumen Research prouve avec l'eye-tracking massif que 1 seconde d'attention active (High Attention Share) vaut 10 fois plus qu'une impression (Reach) sur Facebook lors d'une activation de sponsoring.",
+          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Oublions la course aux impressions (le reach vide). S5 doit vendre l'Attention. Prouver que l'activation d'un client sur un event physique captive 100% du cerveau prouve formellement notre ROI face au GAFAM.",
+          "date": "09/03/2026",
+          "source_nom": "Lumen Research"
+        },
+        {
+          "titre": "La nostalgie de la culture Y2K (An 2000) dans le sport",
           "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.theathletic.com/",
-          "image": "https://images.unsplash.com/photo-1550985223-95b7bdf01ce8?auto=format&fit=crop&q=80&w=600",
-          "resume": "Les coachs de Premier League refusent de plus en plus les médias traditionnels, préférant faire des interviews exclusives sur le podcast officiel du club.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z & RSE] Le 'Owned Media' écrase le 'Earned Media'. Les marques ne doivent plus sponsoriser les panneaux d'interviews, mais les micros des podcasteurs internes du club.",
-          "date": "05/03/2026",
-          "source_nom": "The Athletic"
+          "lien": "https://www.wgsn.com/",
+          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
+          "resume": "Le prévisionniste WGSN analyse l'obsession de la Gen Z pour le design et l'approche lo-fi/brute des années 2000 dans les jerseys et les concepts créatifs de foot.",
+          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z] Fini le design minimaliste clinique. Pour ancrer nos concepts artistiques dans le cerveau des 15-25, le studio S5 doit s'orienter vers le street, le rétro-gaming et l'esthétique 'bloc' brute des années 90-2000.",
+          "date": "12/03/2026",
+          "source_nom": "WGSN Trend Forecasting"
+        },
+        {
+          "titre": "La fin du communiqué de presse : Le Docu-Series owned",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://www.thedrum.com",
+          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
+          "resume": "En 2026, l'annonce classique d'un partenariat majeur génère peu d'engagement. A l'inverse, un récit feuilletonnant sur YouTube/TikTok plongeant le fan 3 jours dans les coulisses du deal captive.",
+          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Media Studio se doit de devenir producteur exécutif documentaire. Nos RP ne sont plus du texte envoyé par Outlook, ce sont des épisodes vidéo natifs à orchestrer d'un réseau à un autre.",
+          "date": "15/03/2026",
+          "source_nom": "The Drum"
         }
       ]
     },
@@ -457,54 +397,54 @@
       "date_label": "Semaine 8 (Mars 2026)",
       "ressources": [
         {
-          "titre": "L'Audio Social dans le Sport",
-          "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://www.socialmediatoday.com/",
-          "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le retour en force du format audio en direct type X Spaces (Twitter Spaces) pendant les matchs comme alternative à la radio sportive traditionnelle.",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] Pour des marques à petit budget d'activation, organisons des talk-shows en live audio animés par des athlètes S5. Les coûts de prod sont quasi nuls comparés à la vidéo.",
-          "date": "10/03/2026",
-          "source_nom": "Social Media Today"
-        },
-        {
-          "titre": "Sponsoring Vertueux vs Sportwashing : Les nouvelles règles ESPN",
-          "thematique": "Mesure du ROI & Business",
-          "lien": "https://www.espn.com/sports-business/",
-          "image": "https://images.unsplash.com/photo-1498837167922-41c46b6624f1?auto=format&fit=crop&q=80&w=600",
-          "resume": "Face aux critiques, les grandes ligues et ESPN imposent des audits environnementaux aux nouveaux méga-sponsors crypto/pétrole.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Le Greenwashing n'est plus permis. Notre pôle stratégie doit intégrer une 'Due Diligence Carbon' dans nos recos de sponsoring, sinon nos clients risquent des crises PR majeures.",
-          "date": "12/03/2026",
-          "source_nom": "ESPN Business"
-        },
-        {
-          "titre": "Les FAST Channels de Sport : Un nouvel eldorado",
-          "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://www.broadbandtvnews.com/",
-          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
-          "resume": "L'explosion des chaînes gratuites financées par la pub (FAST channels sur PlutoTV/Samsung TV) crée une nouvelle source de revenus pour les droits des sports non-Tier 1.",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] L'aubaine pour nos petits ayant-droits (Handball, Volley). Produisons leurs matchs à bas coût et monétisons l'audience sur les TV connectées avec de l'insertion pub dynamique (DAI).",
-          "date": "11/03/2026",
-          "source_nom": "Broadband TV News"
-        },
-        {
-          "titre": "Blockchain Ticketing : La fin de la revente sauvage",
-          "thematique": "Innovation & Outils",
-          "lien": "https://www.sporttechie.com/",
-          "image": "https://images.unsplash.com/photo-1590845947376-2638caa89309?auto=format&fit=crop&q=80&w=600",
-          "resume": "Tickemaster bascule 100% de ses billets premium sur la blockchain en 2026, éradiquant les bots et capant la valeur de revente pour protéger les fans.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Au-delà de la sécu, ces billets dynamiques permettent d'envoyer des offres sponsors push en plein match. 'Le billet de foot est un média' doit devenir notre punchline commerciale.",
-          "date": "14/03/2026",
-          "source_nom": "SportTechie"
-        },
-        {
-          "titre": "L'Agence IA 100% Autonome",
+          "titre": "Les réseaux d'Agences repassent au modèle 'One P&L'",
           "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.fastcompany.com/",
-          "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=600",
-          "resume": "Une start-up américaine crée la première campagne d'activation globale (créa, ciblage, achat média) pour un équipementier sportif sans aucune intervention humaine.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Alerte Majeure. Notre valeur ajoutée de 'Media Buyer' va être disrupter. La stratégie de S5 doit être : 'L'IA fait le plan média, notre humain négocie les passe-droits et les VIP'.",
-          "date": "09/03/2026",
-          "source_nom": "Fast Company"
+          "lien": "https://www.campaignlive.co.uk/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Afin de contrer la concurrence, Havas fusionne ses entités sous un P&L unique. Objectif : faire tomber les murs liés à l'internal facturation pour servir le client sous un seul bloc.",
+          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] L'enjeu de fluidité interne. La compétition financière départementale (qui facture quoi) détruit la valeur. SPORTFIVE doit cultiver cette transversalité où l'Account Manager pioche les resources via un scope global.",
+          "date": "08/03/2026",
+          "source_nom": "Campaign Live"
+        },
+        {
+          "titre": "Figma intègre l'IA de Whiteboarding Stratégique",
+          "thematique": "Innovation & Outils",
+          "lien": "https://www.figma.com/figjam/ai/",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
+          "resume": "FigJam lance un bouton capable de transformer le mind-mapping chaotique d'un brainstorming Zoom en diapositives client stratégiquement classées, argumentaires compris.",
+          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] L'outil réduit la perte d'information au sein des équipes (frictions). Le brainstorming (souvent l'apanage du planneur) est structuré directement, soulageant le Studio créa.",
+          "date": "11/03/2026",
+          "source_nom": "Figma Release"
+        },
+        {
+          "titre": "La Preuve Business dans le Foot Amateur",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.sponsorpitch.com/",
+          "image": "https://images.unsplash.com/photo-1522205408450-add114ad53fe?auto=format&fit=crop&q=80&w=600",
+          "resume": "Des start-ups outillent les 15 000 clubs de foot amateur français de code-barre sponsors. Résultat: les enseignes locales de bricolage mesurent exactement leur ROI en nombre de caisses passées par les licenciés.",
+          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Notre offre 'Droits Locaux' a désormais la tech pour prouver la conversion, passant d'un don mécénatal philanthropique détaxé à un pur canal d'acquisition de parts de marché local.",
+          "date": "13/03/2026",
+          "source_nom": "SponsorPitch"
+        },
+        {
+          "titre": "L'Economie de l'Influence B2B (Thought Leadership)",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://business.linkedin.com/",
+          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
+          "resume": "L'explosion des sportifs reconvertis en investisseurs/CEOs (LinkedIn Creators). Ces prescripteurs influencent désormais la vente de logiciels SAAS et de matériel industriel en entreprises.",
+          "analyse_sep": "🧠 [Enjeu Insights Cibles / B2B] Pour recruter du prospect B2B, l'activation doit engager des personnalités (anciens sportifs, influenceurs éco) qui justifient la pertinence d'investir lors des conférences et loges VIP.",
+          "date": "15/03/2026",
+          "source_nom": "LinkedIn Business"
+        },
+        {
+          "titre": "Digital Out Of Home (DOOH) immersif",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://www.thedrum.com",
+          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
+          "resume": "La campagne 3D anamorphosée (panneaux d'affichage extérieurs avec effet de sortie de l'écran de Mbappé) couple son impression spectaculaire sur place avec une viralité vidéo colossale sur TikTok.",
+          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] L'OOH (l'affichage physique) devient le 'stunt' (le prétexte) pour la création de contenu digital de l'annonceur, cassant complètement le silo média Offline vs Online.",
+          "date": "17/03/2026",
+          "source_nom": "The Drum"
         }
       ]
     },
@@ -513,54 +453,54 @@
       "date_label": "Semaine 9 (Mars 2026)",
       "ressources": [
         {
-          "titre": "Les Stratégies Locaglobales post-JO 2026",
-          "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.sportspromedia.com/",
-          "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&q=80&w=600",
-          "resume": "Bilan à chaud des JO de Milan : Les marques qui ont activé avec une tonalité très locale (le dialecte, la culture urbaine milanaise) ont surpassé les méga-campagnes mondiales aseptisées.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z & RSE] Le 'Glocal' est la règle. Nos Brand Services ne doivent plus faire de 'Copy-Paste' des campagnes américaines pour l'Europe. L'intégration de la culture locale est non négociable pour l'authenticité.",
-          "date": "17/03/2026",
-          "source_nom": "SportsPro Media"
-        },
-        {
-          "titre": "Les Agences face à la standardisation de l'IA",
+          "titre": "La standardisation du pitch : Les limites de l'Account-Led",
           "thematique": "Créativité & Structuration des Agences",
           "lien": "https://www.adage.com/",
-          "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=600",
-          "resume": "Mi-Mars : Toutes les agences concurrentes utilisent désormais les mêmes prompts IA (MidJourney, ChatGPT). La créativité pure (le facteur humain et le terrain) redevient le seul avantage comparatif des agences de sport.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] L'IA nous a fait gagner du temps. Désormais, vendons nos cerveaux humains : la compréhension sociologique du fan et notre accès terrain (les coulisses avec les joueurs). Ce que l'IA ne peut pas simuler.",
-          "date": "18/03/2026",
-          "source_nom": "AdAge"
-        },
-        {
-          "titre": "La Finançarisation des Athlètes (Private Equity)",
-          "thematique": "Mesure du ROI & Business",
-          "lien": "https://www.bloomberg.com/sports/",
-          "image": "https://images.unsplash.com/photo-1518605368461-1ee063d86f7b?auto=format&fit=crop&q=80&w=600",
-          "resume": "Des fonds permettent en Mars 2026 d'acheter des parts dans les futurs revenus commerciaux de jeunes athlètes (Tennis, Golf) comme on achète des actions en bourse.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Éthiquement gris mais financièrement colossal. Le pôle Athletes de S5 doit auditer ce modèle : sommes-nous encore agents ou devenons-nous courtiers financiers pour nos pépites ?",
-          "date": "19/03/2026",
-          "source_nom": "Bloomberg"
-        },
-        {
-          "titre": "Le Marketing Olfactif et Sensoriel dans le stade",
-          "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.adweek.com/",
-          "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=600",
-          "resume": "Pour ramener les Gen-Z au stade, les agences déploient des activations 5D (Diffusion d'odeurs thématiques par les sponsors, sièges haptiques connectés au match).",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Le visuel/écran est saturé. La prochaine reco 'Brand Services' pour nos clients automobiles ou alimentaire doit taper sur un sens inattendu (Odorat, Toucher) pour marquer la mémoire.",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "AdAge publie une tribune alertant sur l'hyper-rationalisation des agences sans planneurs, produisant des appels d'offres 'jolis mais lisses' à force de s'appuyer exclusivement sur des KPIs data stricts.",
+          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Attention à nous-mêmes. La survie repose sur l'audace de l'idée. Bien maîtriser la data (GWI/Sporsora) ne doit pas paralyser la créa pure. Il faut sanctuariser du temps de folie humaine au Chef de Projet.",
           "date": "20/03/2026",
-          "source_nom": "Adweek / Experiential"
+          "source_nom": "AdAge Focus"
         },
         {
-          "titre": "Smart Stadiums : La fin du Cash 2026",
+          "titre": "Tome.app lève 43M$ pour automatiser la narration agence",
           "thematique": "Innovation & Outils",
-          "lien": "https://www.stadiumbusiness.com/",
+          "lien": "https://tome.app/news",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
+          "resume": "L'IA Tome.app qui génère instantanément des slides de storytelling rythmées devient l'outil majeur de 4 des 10 plus grandes agences de com mondiales pour accélerer les propositions commerciales.",
+          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Un gain de productivité clair. Le rôle du CDP évolue vers celui d'éditeur critique, plus que de constructeur laborieux de PowerPoints depuis zéro.",
+          "date": "21/03/2026",
+          "source_nom": "Tome.app News"
+        },
+        {
+          "titre": "Le 'Sport-Wash' Indexé : Les annonceurs fuient le risque",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.espn.com/sports-business/",
+          "image": "https://images.unsplash.com/photo-1522205408450-add114ad53fe?auto=format&fit=crop&q=80&w=600",
+          "resume": "Une start-up américaine introduit le 'Brand Safety Index' : une mesure qui dévalue mécaniquement le ROI estimé si le partenaire (Ligue ou Club) présente un risque éthique/RSE fort (droits TV contestables, bilan carbone).",
+          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Une révolution des KPIs. Prouver notre pertinence c'est aussi garantir à l'annonceur que son investissement ne sera pas percuté par un 'bad buzz'.",
+          "date": "23/03/2026",
+          "source_nom": "ESPN Business ROI"
+        },
+        {
+          "titre": "Le Fandom Asynchrone : La consommation a posteriori",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://www.nielsen.com/insights/",
           "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
-          "resume": "80% des stades de l'Euro 2026 n'accepteront que les paiements biométriques (reconnaissance palmaire) et crypto-wallets aux buvettes.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Opportunité de Naming Sectoriel (Fintech) pour nos clubs : 'La file rapide sans caisse by Mastercard'. Cela fluidifie le stade et rapporte un million annuel.",
-          "date": "16/03/2026",
-          "source_nom": "Stadium Business"
+          "resume": "Nielsen confirme que 35% de la monétisation foot (YouTube Highlights, Shorts) se déroule dans les 72 heures APRÈS le coup de sifflet final, l'audience jugeant le match intégral trop long.",
+          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z] Modifions nos concepts. Nous vendons l'événement (jour de match) alors que l'attention cible le condensé narratif à volonté. Créons des 'After-Match Activations'.",
+          "date": "24/03/2026",
+          "source_nom": "Nielsen Consumption"
+        },
+        {
+          "titre": "Les 'Dark Social' Activations dans le sport",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://www.hubspot.com/marketing-statistics",
+          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
+          "resume": "L'étude de HubSpot montre que 84% du partage de liens (viralité d'une activation maillot ou clash de match) s'opère dans le 'Dark Social' (WhatsApp, iMessage), hors portée de mesure publicitaire traditionnelle des annonceurs.",
+          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] Pour être l'interlocuteur unique, SPORTFIVE doit maitriser cette force invisible. Le partage privé se déclenche par un visuel choc, le 'mème', et non le spot léché institutionnel classique.",
+          "date": "26/03/2026",
+          "source_nom": "HubSpot Analytics"
         }
       ]
     },
