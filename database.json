@@ -2,665 +2,505 @@
   "semaines": [
     {
       "id": "1",
-      "date_label": "Semaine 1 (Janvier 2026)",
+      "date_label": "Semaine 1 (2026)",
       "ressources": [
         {
-          "titre": "Efficacité Créative : La fin du clivage 'Sales vs Brand' au SuperBowl",
-          "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.warc.com/newsandopinion/news/creative-effectiveness-superbowl-2026",
-          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le rapport WARC 2026 sur les Cannes Lions démontre que les agences les plus primées ont fusionné leurs départements de Planning Stratégique et de Conversion e-commerce pour créer des activations à double-détente.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] WARC valide notre vision. Une idée créative n'a plus besoin d'un planneur en tour d'ivoire, elle a besoin d'un Chef de Projet qui lie l'émotion à l'acte d'achat (Sales).",
-          "date": "05/01/2026",
-          "source_nom": "WARC"
-        },
-        {
-          "titre": "L'IA d'Asana assigne automatiquement les designers",
+          "titre": "IA : les meilleurs modèles pour le code et le développement web en mars 2026",
           "thematique": "Innovation & Outils",
-          "lien": "https://techcrunch.com/2026/01/06/asana-ai-agency-resource-allocation/",
-          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
-          "resume": "Asana lève le voile sur son nouveau module Agency. L'outil lit les briefs entrants, vérifie les plannings du studio et assigne le meilleur DA disponible sans aucune intervention managériale.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Selon TechCrunch, ce SaaS réduit de 30% les frictions inter-équipes. SPORTFIVE doit intégrer ce type d'automatisation pour décharger nos Chefs de Projet de la logistique Studio.",
-          "date": "06/01/2026",
-          "source_nom": "TechCrunch"
+          "lien": "https://www.blogdumoderateur.com/ia-meilleurs-modeles-code-developpement-web-mars-2026/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "L'arrivée de la famille Claude 4.6 bouleverse le classement de la WebDev Arena en mars 2026. Anthropic s'empare des 4 premières places, tandis que Google et les acteurs chinois continuent de progresser....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez Le Blog du Modérateur. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "05/01/2026",
+          "source_nom": "Le Blog du Modérateur"
         },
         {
-          "titre": "Le manifeste de l'Union des Marques sur les KPIs d'Activation",
-          "thematique": "Mesure du ROI & Business",
-          "lien": "https://uniondesmarques.fr/publications/roi-sponsoring-2026",
-          "image": "https://images.unsplash.com/photo-1554774853-719586f82d77?auto=format&fit=crop&q=80&w=600",
-          "resume": "L'Union des Marques impose à ses adhérents (les grands annonceurs) de ne plus renouveler les contrats de sponsoring sportifs qui ne mesurent pas la \"Zero-Party Data\" récoltée en fan-zone.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Alerte rouge de l'Union des Marques. Nous ne pouvons plus vendre de l'activation \"image pure\". S5 doit lier contractuellement nos concepts créatifs à la collecte de données RGPD.",
-          "date": "08/01/2026",
-          "source_nom": "Union des Marques"
-        },
-        {
-          "titre": "GWI Sports 2026 : Le détachement de la Gen Alpha",
-          "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.gwi.com/reports/sports-gen-alpha-2026",
-          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
-          "resume": "La nouvelle étude GlobalWebIndex prouve que 60% de la Génération Alpha juge les panneaux LED et les logos maillots \"invisibles\", préférant l'engagement interactif via des influenceurs gaming affiliés au club.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z] GWI remplace notre pôle stratégie. Face au \"décrochage\" de l'attention télévisuelle des jeunes, SPORTFIVE doit concevoir des partenariats orientés e-sport et contenus créateurs.",
-          "date": "12/01/2026",
-          "source_nom": "GWI (GlobalWebIndex)"
-        },
-        {
-          "titre": "Pourquoi Digiday annonce la fin du silo CRM vs Stade",
+          "titre": "Why more brands are rethinking influencer marketing with gamified micro-creator programs",
           "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://digiday.com/marketing/sports-silo-crm-stadium-2026/",
-          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
-          "resume": "Analyse sur la fusion technique entre la billetterie physique d'un club de Premier League et ses campagnes d'acquisition TikTok, guidée par une seule et unique agence 360.",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] Digiday résume notre ambition : être l'agence pivot. Une activation S5 doit faire le pont entre l'expérience physique (match) et la monétisation media (TikTok) sans rupture de tracking.",
-          "date": "14/01/2026",
+          "lien": "https://digiday.com/media/why-more-brands-are-rethinking-influencer-marketing-with-gamified-micro-creator-programs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Brands like Urban Outfitters and American Eagle are embracing a new, micro-creator-focused approach to influencer marketing. Why now?...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez Digiday. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "05/01/2026",
           "source_nom": "Digiday"
         },
         {
-          "titre": "CB News: L'effondrement du modèle des honoraires horaires",
-          "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.cbnews.fr/agences/fin-taux-horaire-agences-2026",
+          "titre": "Why Miami of Ohio Isn’t a Lock for NCAA Tournament, Even at 29–0",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://frontofficesports.com/even-at-29-0-why-miami-of-ohio-isnt-a-lock-for-ncaa-tournament/",
           "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le magazine décrypte l'abandon massif de la facturation au temps passé (TJM) au profit de la tarification à la valeur perçue (Value-Based Pricing) chez les agences créatives.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Si nous facturons à l'idée et non au temps passé, l'agilité d'un Chef de Projet S5 qui accouche d'une Big Idea en un jour via du Sprint Design devient le modèle le plus rentable possible.",
-          "date": "07/01/2026",
-          "source_nom": "CB News"
+          "resume": "An undefeated RedHawks team is a flash point in a fast-changing sport. \nThe post Why Miami of Ohio Isn’t a Lock for NCAA Tournament, Even at 29–0 appeared first on Front Office Sports....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez Front Office Sports. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "05/01/2026",
+          "source_nom": "Front Office Sports"
         },
         {
-          "titre": "VentureBeat: Le RAG (Retrieval-Augmented Generation) en pôle conseil",
-          "thematique": "Innovation & Outils",
-          "lien": "https://venturebeat.com/ai/rag-consulting-agencies-2026/",
-          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
-          "resume": "Les agences de conseil intègrent des IA 'RAG' qui scannent les documents PDF du client (Rapports Annuels) pour générer des insights immédiats et sourcés.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Un CDP S5 entrant sur un pitch complexe n'a plus à lire les 200 pages du bilan financier du sponsor. L'IA RAG le fait et extrait l'insight de croissance. Gain de productivité massif.",
-          "date": "09/01/2026",
-          "source_nom": "VentureBeat (AI)"
+          "titre": "Le Collectif du Planning Stratégique dévoile ses jurés pour la 8ème édition des CPS Awards 2026",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://www.influencia.net/le-collectif-du-planning-strategique-devoile-ses-jures-pour-la-8eme-edition-des-cps-awards-2026/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "« Pour cette 8ème édition, nous avons, encore une fois, la chance, de compter sur un jury exceptionnel. Cette année, nous avons intégré un profil international, afin d’ouvrir encore davantage notre regard et d’apporter une expertise venue d’autres marchés », explique Sébastien Genty, Président et Fondateur du Collectif du Planning Stratégique à l’annonce du Grand Jury. […]\nThe post Le Collectif du...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez INfluencia. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "05/01/2026",
+          "source_nom": "INfluencia"
+        },
+        {
+          "titre": "REVUE DU SOCIAL #784",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://wearesocial.com/fr/blog/2026/01/revue-du-social-784/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Fonctionnalités, tendances, études, nouveaux formats publicitaires… Que faut-il retenir de la semaine en social media ?...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez We Are Social. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "05/01/2026",
+          "source_nom": "We Are Social"
         }
       ]
     },
     {
       "id": "2",
-      "date_label": "Semaine 2 (Janvier 2026)",
+      "date_label": "Semaine 2 (2026)",
       "ressources": [
         {
-          "titre": "Restructuration chez Wieden+Kennedy : Adieu aux silos",
-          "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.adweek.com/agencies/wieden-kennedy-removes-planners-squads/",
-          "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=600",
-          "resume": "Adweek révèle que la célèbre agence américaine revoit son organigramme en profondeur, adoptant des \"Squads\" pluridisciplinaires agiles où l'Account Manager est aussi le stratège insights.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] L'une des agences les plus primées au monde adopte un modèle similaire au nôtre. Notre absence de planning n'est pas une faiblesse s'il est compensé par des Chefs de Projet S5 au profil T-Shape.",
-          "date": "20/01/2026",
-          "source_nom": "Adweek"
-        },
-        {
-          "titre": "Comment Midjourney V7 disrupte les appels d'offres",
+          "titre": "Apple might use Google servers to store data for its upgraded AI Siri",
           "thematique": "Innovation & Outils",
-          "lien": "https://www.leblogdumoderateur.com/midjourney-v7-agences-design/",
-          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le BDM analyse comment 70% des moodboards et mockups d'activations stadières français sont désormais entièrement générés par IA lors des phases de pitch, réduisant les nuits blanches du studio.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] S5 Studio doit maîtriser ce workflow. L'utilisation de générateurs d'images pour nos recommandations d'activation est une question de survie compétitive (et sanitaire) pour le pôle créatif.",
-          "date": "22/01/2026",
-          "source_nom": "Le Blog du Modérateur (BDM)"
+          "lien": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Apple has asked Google to look into \"setting up servers\" for a new version of Siri that's Gemini-powered and meets Apple's privacy requirements, The Information reports. Apple had already announced in January that Google's Gemini AI models would help power the upgraded version of Siri it delayed last year, but The Information's report indicates Apple […]...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez The Verge. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "12/01/2026",
+          "source_nom": "The Verge"
         },
         {
-          "titre": "Nielsen Sports Report: La monétisation par l'Attention",
-          "thematique": "Mesure du ROI & Business",
-          "lien": "https://nielsensports.com/roi-attention-metrics-2026/",
-          "image": "https://images.unsplash.com/photo-1522205408450-add114ad53fe?auto=format&fit=crop&q=80&w=600",
-          "resume": "Nielsen introduit une nouvelle métrique mondiale qui dévalue l'exposition TV passive (LEDs) au profit de l'indice d'Attention Active capté lors d'activations expérientielles disruptives.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] C'est un tournant pour la profession. Lors de nos pitchs S5, nous devons utiliser la matrice Nielsen pour prouver qu'une Fan Zone engendre des \"souvenirs encodés\" bien supérieurs à la panneautique.",
-          "date": "24/01/2026",
-          "source_nom": "Nielsen Sports"
-        },
-        {
-          "titre": "L'ère de la fragmentation: Le rapport annuel We Are Social",
-          "thematique": "Tendances & Insights (Société)",
-          "lien": "https://wearesocial.com/fr/blog/2026/01/digital-2026/",
-          "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&q=80&w=600",
-          "resume": "La \"bible\" annuelle We Are Social dévoile l'implosion d'Instagram au profit des cercles fermés de \"Dark Social\" (WhatsApp, Discord) pour le partage de contenus sportifs.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z] Pour notre Hub Créa, l'insight principal de l'année : la viralité sportive se passe en privé. Les activations S5 doivent intégrer des \"memes\" ou des mécanismes pensés pour le partage sur iMessage/Discord.",
-          "date": "26/01/2026",
-          "source_nom": "We Are Social"
-        },
-        {
-          "titre": "Creator Economy : Les streameurs Twitch remplacent les chaînes TV",
+          "titre": "Nat Geo’s “creator cohort” is its next step forward on Instagram, TikTok, and YouTube",
           "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://www.tubefilter.com/2026/01/28/twitch-sports-rights-creators/",
-          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
-          "resume": "Tubefilter dresse le bilan d'une ligue de football espagnole ayant cédé 100% de ses droits de diffusion digitaux à 10 YouTubers massifs pour capter directement la cible 15-24 ans.",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Media ne peut ignorer ce basculement. L'influenceur n'est plus un bonus RP, c'est le canal de diffusion principal. Nos recommandations doivent placer l'UGC au centre du budget.",
-          "date": "28/01/2026",
+          "lien": "https://www.tubefilter.com/2026/02/27/nat-geo-creator-cohort-social-media-maya-higa/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "National Geographic has a long history in the online video world, and its latest move in that space aligns it with current creator marketing trends. The 138-year-old publication known as Nat Geo has announced the formation of a \"Creator Cohort\" that will post nature, science, history, travel, and wildlife content across platforms like Instagram, TikTok, and YouTube.\nNat Geo's Creator Cohort is its...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez Tubefilter. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "12/01/2026",
           "source_nom": "Tubefilter"
         },
         {
-          "titre": "Front Office Sports: Le ROI de l'hospitalité 'Ultra-Premium'",
+          "titre": "Another Young Pirates Phenom, Another High-Stakes Decision",
           "thematique": "Mesure du ROI & Business",
-          "lien": "https://frontofficesports.com/ultra-premium-hospitality-roi-2026/",
-          "image": "https://images.unsplash.com/photo-1554774853-719586f82d77?auto=format&fit=crop&q=80&w=600",
-          "resume": "FOS analyse que la réduction de 30% de la jauge d'une loge au profit d'un service 'Hyper-Bespoke' (tailleur sur mesure) augmente le taux de conversion B2B closing de 45%.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Vendre de l'exclusivité rare plutôt que du volume. S5 doit prouver que ses refontes de salons VIP (moins de sièges, plus de luxe) génèrent mathématiquement plus de signatures de contrats pour nos partenaires.",
-          "date": "21/01/2026",
+          "lien": "https://frontofficesports.com/another-young-pirates-phenom-another-high-stakes-decision/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "The Pittsburgh teenage phenom is turning heads despite his young age. \nThe post Another Young Pirates Phenom, Another High-Stakes Decision appeared first on Front Office Sports....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez Front Office Sports. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "12/01/2026",
           "source_nom": "Front Office Sports"
         },
         {
-          "titre": "LBBOnline: L'internalisation de la production (In-House Production)",
+          "titre": "Jérôme Fourquet : ce qu'Airbnb dit (vraiment) de la France",
           "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.lbbonline.com/news/in-house-production-studios-agencies-2026",
-          "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=600",
-          "resume": "Les grandes agences rapatrient les réalisateurs et monteurs TikTok en interne pour compresser les coûts et maîtriser la cadence (Always-on) exigée par l'omnicanalité.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Notre Studio graphique S5 doit posséder toutes ces compétences de production rapide. Les idées d'un CDP S5 ne peuvent attendre les devis d'une boîte de prod externe.",
-          "date": "23/01/2026",
-          "source_nom": "LBBOnline"
+          "lien": "https://www.ladn.eu/nouveaux-usages/jerome-fourquet-airbnb-terram-ifop-tourisme/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "En 10 ans, Airbnb s'est implanté dans 81 % des communes françaises. Jérôme Fourquet (IFOP) décrypte surtourisme, revitalisation rurale et crise du logement.\nL’article Jérôme Fourquet : ce qu'Airbnb dit (vraiment) de la France est apparu en premier sur L'ADN....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez L'ADN. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "12/01/2026",
+          "source_nom": "L'ADN"
         },
         {
-          "titre": "Tubefilter: Les créateurs de contenu s'offrent des clubs",
-          "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://www.tubefilter.com/2026/01/25/creators-buying-sports-teams-kings-league/",
-          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le modèle de la Kings League s'exporte. Tubefilter analyse l'achat de clubs de 3e division par des YouTubers, couplant acquisition sportive et audience Twitch native.",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] Attention, l'audience n'est plus chez les médias traditionnels rachetés. S5 doit packager le sponsoring sur ces ligues Créateurs qui cumulent le match physique et l'hypermédiatisation sociale.",
-          "date": "25/01/2026",
-          "source_nom": "Tubefilter"
+          "titre": "REVUE DU SOCIAL #788",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://wearesocial.com/fr/blog/2026/02/revue-du-social-788/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Fonctionnalités, tendances, études, nouveaux formats publicitaires… Que faut-il retenir de la semaine en social media ?...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez We Are Social. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "12/01/2026",
+          "source_nom": "We Are Social"
         }
       ]
     },
     {
       "id": "3",
-      "date_label": "Semaine 3 (Février 2026)",
+      "date_label": "Semaine 3 (2026)",
       "ressources": [
         {
-          "titre": "L'hybridation en boutiques créatives",
-          "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.lbbonline.com/news/creative-boutiques-hybrid-roles-2026",
-          "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=600",
-          "resume": "Une plongée de Little Black Book dans l'organisation des agences indépendantes anglaises (boutiques) qui réussissent à battre Havas grâce à une agilité extrême et des chefs de projets stratèges (Hybrid-Account).",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] LBBOnline encense l'agilité. S5 gagne face à Publicis non pas par la taille, mais par la vitesse. Notre force réside dans la fluidité de nos Chefs de Projet polyvalents.",
-          "date": "02/02/2026",
-          "source_nom": "LBBOnline (Little Black Book)"
-        },
-        {
-          "titre": "Notion lance son module IA de \"Drafting de Recommandations\"",
+          "titre": "ChatGPT atteint 900 millions d’utilisateurs et vise le milliard",
           "thematique": "Innovation & Outils",
-          "lien": "https://www.producthunt.com/posts/notion-ai-pitch-drafter",
-          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
-          "resume": "Produit de la semaine sur Product Hunt, ce module intégré à Notion accouche de la structure (storyline) d'une reco d'agence en 3 clics en analysant le brief client PDF.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Un outil massif de résolution de frictions S5. Accélérer la V0 (le plan de la recommandation) libère un temps cognitif crucial pour soigner la fameuse \"Big Idea\".",
-          "date": "04/02/2026",
-          "source_nom": "Product Hunt"
+          "lien": "https://siecledigital.fr/2026/03/02/chatgpt-compte-900-millions-dutilisateurs-hebdomadaires/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Après avoir annoncé un partenariat très critiqué avec le Pentagone qu’Anthropic a refusé de son côté, OpenAI franchit un nouveau cap symbolique avec ChatGPT. La croissance est fulgurante, les investissements colossaux, et les ambitions toujours plus élevées. Mais derrière ces chiffres spectaculaires, une question demeure : le modèle économique suivra-t-il le rythme ? Bientôt le […]...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez Siècle Digital. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "19/01/2026",
+          "source_nom": "Siècle Digital"
         },
         {
-          "titre": "Les nouvelles recommandations du Baromètre Sporsora",
-          "thematique": "Mesure du ROI & Business",
-          "lien": "https://sporsora.com/barometre-roi-2026",
-          "image": "https://images.unsplash.com/photo-1554774853-719586f82d77?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le syndicat interprofessionnel Sporsora exige que l'empreinte écologique soit désormais intégrée comme un KPI \"négatif\" dans le calcul du Media Value global.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] La RSE heurte le bilan comptable. S5 Brand Services doit outiller ses Chefs de Projet pour inclure un audit carbone dans chaque proposition chiffrée de sponsoring.",
-          "date": "06/02/2026",
-          "source_nom": "Sporsora"
-        },
-        {
-          "titre": "Sport, Gaming, et Culture Street : Highsnobiety décrypte la fusion",
-          "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.highsnobiety.com/p/sports-streetwear-gaming-fusion/",
-          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
-          "resume": "Highsnobiety dresse le panorama visuel d'une génération qui ne distingue plus le maillot de foot de la mode de rue (Blokecore) ni des esthétiques de jeux vidéos (Fortnite).",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z] Pour injecter de l'audace culturelle sans planneur stratégique, S5 doit imposer ce style \"Blokecore\" dans la DA de ses activations. Sortir du corporate clinique pour matcher avec l'air du temps.",
-          "date": "10/02/2026",
-          "source_nom": "Highsnobiety / Dazed Studio"
-        },
-        {
-          "titre": "La performance cachée des campagnes TikTok (Meta Foresight)",
+          "titre": "The agency holdcos have an AI story, but not an AI business model",
           "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://tiktokforbusinesseurope.com/insights/sports-activation-2026/",
-          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
-          "resume": "Une étude quantitative du blog B2B de TikTok démontre qu'utiliser la plateforme uniquement comme un relais vidéo (duppliqué de la TV) divise l'engagement par huit par rapport à une mécanique interactive native.",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Media doit internaliser ce savoir-faire technique : concevoir l'activation spécifiquement pour le langage TikTok (UGC, Challenges), plutôt que d'y pousser une vidéo générique.",
-          "date": "12/02/2026",
-          "source_nom": "TikTok For Business"
+          "lien": "https://digiday.com/media-buying/the-agency-holdcos-have-an-ai-story-but-they-dont-have-an-ai-business-model/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "The holdco platforms need to deliver on the promises made — and so far, clients aren’t seeing it....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez Digiday. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "19/01/2026",
+          "source_nom": "Digiday"
         },
         {
-          "titre": "Product Hunt: Les CRM 'No-Code' pour Agences",
-          "thematique": "Innovation & Outils",
-          "lien": "https://www.producthunt.com/categories/no-code-agencies-2026",
-          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
-          "resume": "Product Hunt met en avant une vague de CRM 'No-Code' (Airtable / Softr) permettant aux Chefs de Projets de construire eux-mêmes leur outil de suivi client sans développeur.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] L'émancipation technique. Nos CDP S5 doivent être formés au No-Code pour automatiser leurs propres portefeuilles clients, supprimant la friction des outils standardisés inadaptés.",
-          "date": "08/02/2026",
-          "source_nom": "Product Hunt"
-        },
-        {
-          "titre": "SportBusiness: La Tokenisation des actifs sponsoring",
+          "titre": "WNBA Players Shift Tone on Labor Talks: ‘Rev Share Is a Win’",
           "thematique": "Mesure du ROI & Business",
-          "lien": "https://www.sportbusiness.com/insights/sponsorship-tokenization-roi-2026/",
-          "image": "https://images.unsplash.com/photo-1554774853-719586f82d77?auto=format&fit=crop&q=80&w=600",
-          "resume": "Au-delà du buzz Web3, des ligues tokénisent (Fractional Ownership) de l'espace publicitaire physique, permettant aux fans d'être copropriétaires du naming d'une tribune.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] L'activation devient le produit d'investissement. Si une marque (Banque/Crypto) sponsorise S5, on lui propose d'offrir des parts de son sponsoring à sa communauté. L'engagement grimpe à 100%.",
-          "date": "09/02/2026",
-          "source_nom": "SportBusiness.com"
+          "lien": "https://frontofficesports.com/plum-stewart-wnba-cba-rev-share/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Players are split on the usefulness of a strike.\nThe post WNBA Players Shift Tone on Labor Talks: ‘Rev Share Is a Win’ appeared first on Front Office Sports....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez Front Office Sports. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "19/01/2026",
+          "source_nom": "Front Office Sports"
         },
         {
-          "titre": "Nielsen Sports: Le paradoxe de l'Attention des 'Second Screens'",
+          "titre": "Pauline Le Guilcher et Laurent Capion (Publicis Media France) : « La joie n’est stratégique que si elle transforme la marque »",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://www.influencia.net/pauline-le-guilcher-et-laurent-capion-publicis-media-france-la-joie-nest-strategique-que-si-elle-transforme-la-marque/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Fatigue émotionnelle, polychocs globaux, saturation informationnelle : dans ce climat anxiogène, les Français expriment une aspiration commune à remettre de la couleur dans leur quotidien. C’est dans ce contexte que le Strat Gang de Publicis Media France dévoile The Power of Joy, un décryptage stratégique consacré à la montée en puissance de la joie comme […]\nThe post Pauline Le Guilcher et Lauren...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez INfluencia. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "19/01/2026",
+          "source_nom": "INfluencia"
+        },
+        {
+          "titre": "REVUE DU SOCIAL #788",
           "thematique": "Tendances & Insights (Société)",
-          "lien": "https://nielsensports.com/second-screen-attention-paradox-2026/",
-          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
-          "resume": "Nielsen alerte : le 'Second Écran' (téléphone) capte 60% de l'attention visuelle pendant le match, reléguant l'action sur le terrain à un bruit de fond radio pour la Gen Z.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z] Nos budgets d'activation media chez S5 doivent pivoter drastiquement. Le sponsoring TV (terrain) sert l'autorité de marque, l'activation smartphone (Second Ecran) assure la conversion ROI.",
-          "date": "11/02/2026",
-          "source_nom": "Nielsen Sports"
+          "lien": "https://wearesocial.com/fr/blog/2026/02/revue-du-social-788/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Fonctionnalités, tendances, études, nouveaux formats publicitaires… Que faut-il retenir de la semaine en social media ?...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez We Are Social. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "19/01/2026",
+          "source_nom": "We Are Social"
         }
       ]
     },
     {
       "id": "4",
-      "date_label": "Semaine 4 (Février 2026)",
+      "date_label": "Semaine 4 (2026)",
       "ressources": [
         {
-          "titre": "L'essor des collectifs contre le In-House des annonceurs",
-          "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.strategies.fr/actualites/agences/2026/in-house-freelances-collectifs",
-          "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=600",
-          "resume": "Stratégies analyse comment les grandes marques, déçues de la platitude de leurs agences internes (In-House), font massivement appel à des agences extérieures agiles sous forme de commandos créatifs.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Argument clef pour S5 en pitch. Nous sommes le 'poil à gratter' extérieur. Il faut assumer notre rôle de commando créatif capable de bousculer les convictions de la marque.",
-          "date": "15/02/2026",
-          "source_nom": "Stratégies"
-        },
-        {
-          "titre": "Resource Management : Usine Digitale teste les outils",
+          "titre": "X adds ‘Paid Partnership’ labels so creators can ditch the hashtags",
           "thematique": "Innovation & Outils",
-          "lien": "https://www.usine-digitale.fr/article/outils-resource-management-agences-2026",
-          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
-          "resume": "Benchmark technique francophone des nouveaux SaaS (comme Float ou Monday) qui règlent la problématique de la \"perte de traçabilité des tâches\" dans les grands groupes de com.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] L'Usine Digitale confirme nos risques S5. Nous devons adopter d'urgence un hyperviseur SaaS pour éviter que nos CDP ne deviennent de simples coordinateurs Excel.",
-          "date": "17/02/2026",
-          "source_nom": "L'Usine Digitale"
+          "lien": "https://techcrunch.com/2026/03/02/x-ads-paid-partnership-labels-for-creators-so-they-can-ditch-the-hashtags/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "The new labels comply with regulations and allow creators to be more transparent with their followers....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez TechCrunch. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "26/01/2026",
+          "source_nom": "TechCrunch"
         },
         {
-          "titre": "Marketing Week fustige le Reach vide (\"Burnout of Impressions\")",
+          "titre": "Can AI models be as entertaining as humans? These creators are playing Turing Games to find out.",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://www.tubefilter.com/2026/03/02/turing-games-generative-ai-llm-social-deduction-mafia/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "For major tech corporations, the realm of generative AI has become a congested battleground. Companies like YouTube, X, Meta, OpenAI, and Anthropic have developed their own chatbots in hopes of grabbing a share of the booming AI market.\nOn Twitch and YouTube, however, those bots are engaged in a different type of competition. They are the players on a channel called Turing Games, where they vie fo...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez Tubefilter. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "26/01/2026",
+          "source_nom": "Tubefilter"
+        },
+        {
+          "titre": "NFL Game Pass subscriptions on DAZN up 24% in 2025",
           "thematique": "Mesure du ROI & Business",
-          "lien": "https://www.marketingweek.com/mark-ritson-impressions-burnout-sponsorship/",
-          "image": "https://images.unsplash.com/photo-1522205408450-add114ad53fe?auto=format&fit=crop&q=80&w=600",
-          "resume": "Kroniques de Mark Ritson détruisant la métrique des \"Milliards d'impressions\" vendues par les agences, exigeant un retour aux fondations de la marque et à l'élasticité des prix.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Ritson nous donne la feuille de route idéale. Pour un sponsoring B2B efficace (ex: Assurances), mesurons l'impact sur la notoriété assistée auprès des CSP+, plutôt que le trafic d'un tweet.",
-          "date": "19/02/2026",
-          "source_nom": "Marketing Week"
+          "lien": "https://www.sportspro.com/news/broadcast-ott/nfl-game-pass-dazn-subscriptions-2025-march-2026/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Total number of users on premium tier for league’s international DTC service grew by more than 300%.\nThe post NFL Game Pass subscriptions on DAZN up 24% in 2025 appeared first on SportsPro....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez SportsPro Media. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "26/01/2026",
+          "source_nom": "SportsPro Media"
         },
         {
-          "titre": "The Future 100 (VML) : L'ère de l'Anti-Aspiration",
-          "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.vml.com/insight/future-100-2026",
-          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
-          "resume": "L'étude sociologique massive de VML (Wunderman) pointe la mouvance \"Anti-Aspiration\" : les consommateurs fuient la perfection instagrammable pour plébisciter des marques \"joyeusement chaotiques\".",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z] Plus besoin d'un long travail de planning. Cette étude prouve que les visuels ultra-léchés ne performent plus. Le Studio S5 doit adopter des lignes créatives lo-fi, brutes, plus \"vraies\".",
-          "date": "21/02/2026",
-          "source_nom": "VML Intelligence (Future 100)"
-        },
-        {
-          "titre": "Social Media Today: L'omniprésence du Social Audio (Discord/X Spaces)",
-          "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://www.socialmediatoday.com/news/social-audio-sports-integration-2026/",
-          "image": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&q=80&w=600",
-          "resume": "La résurgence du commentaire audio en direct : comment les ligues US vendent du \"naming de salons vocaux\" sur Discord plutôt que des publicités visuelles classiques.",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Media a une carte à jouer. Proposons des activations Audio-First pour nos partenaires (parrainer les débriefs à chaud sur les serveurs de supporters).",
-          "date": "23/02/2026",
-          "source_nom": "Social Media Today"
-        },
-        {
-          "titre": "The Drum : L'avènement des 'Chief Community Officers'",
+          "titre": "Risques macro, solutions micro ?",
           "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.thedrum.com/news/2026/02/16/chief-community-officers-agencies",
-          "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=600",
-          "resume": "Face à la mort du 'Push' publicitaire, des agences anglaises remplacent les Planneurs par des Directeurs de Communauté (issus de Reddit ou Discord) qui dictent la créativité organique.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Renforce la thèse d'une créa dictée par le terrain (insight social). Nos Chefs de Projet S5, proches de la culture de leurs cibles (Football/Esport), sont naturellement nos 'Community Officers'.",
-          "date": "16/02/2026",
-          "source_nom": "The Drum"
+          "lien": "https://www.ladn.eu/entreprises-innovantes/risques-macro-solutions-micro/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "ace aux risques systémiques globaux, l'avenir se conjugue-t-il au microscope ? Des cafés de proximité aux petites technologies, la séduction du « small is beautiful » n'a jamais été aussi forte.\nL’article Risques macro, solutions micro ?  est apparu en premier sur L'ADN....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez L'ADN. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "26/01/2026",
+          "source_nom": "L'ADN"
         },
         {
-          "titre": "Social Media Today: L'enlisement du Paid Social chez les créateurs",
-          "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://www.socialmediatoday.com/news/paid-social-creator-fatigue-2026/",
-          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
-          "resume": "Les réseaux signalent une 'fatigue publicitaire' record sur les vidéos sponsorisées. La conversion ne s'obtient plus via l'achat média sur la vidéo du créateur, mais via l'intégration de la marque à l'histoire du créateur (Branded Entertainment).",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Media Studio n'est pas une régie de mediabuying, c'est un studio de co-production. Le Placement de Produit est mort, nous vendons de la Co-narrative avec les influenceurs.",
-          "date": "18/02/2026",
-          "source_nom": "Social Media Today"
+          "titre": "REVUE DU SOCIAL #788",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://wearesocial.com/fr/blog/2026/02/revue-du-social-788/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Fonctionnalités, tendances, études, nouveaux formats publicitaires… Que faut-il retenir de la semaine en social media ?...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez We Are Social. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "26/01/2026",
+          "source_nom": "We Are Social"
         }
       ]
     },
     {
       "id": "5",
-      "date_label": "Semaine 5 (Fin Février 2026)",
+      "date_label": "Semaine 5 (2026)",
       "ressources": [
         {
-          "titre": "Le modèle de facturation à la Performance (Performance-Based Fee)",
-          "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.influencia.net/le-modele-au-resultat-des-agences/",
+          "titre": "Apple’s cheapest AirPods have hit $89",
+          "thematique": "Innovation & Outils",
+          "lien": "https://www.theverge.com/gadgets/887839/apple-airpods-4-active-noise-cancellation-deal-sale",
           "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
-          "resume": "INfluencia enquête sur la révolution contractuelle des agences parisiennes, liant 50% de leur rémunération aux objectifs commerciaux finaux (ROI) de la campagne.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Le modèle économique évolue. Si S5 facture à la performance, la qualité d'exécution du Chef de Projet prime sur le conseil théorique du planneur. C'est l'ère de la responsabilité.",
-          "date": "25/02/2026",
+          "resume": "It’s a good day for Apple fans on a budget. Not only did the company introduce a new budget phone, its entry-level AirPods 4 are also on sale. Right now, you can snag a pair of Apple’s AirPods 4 starting at just $89 ($30 off) at Walmart. The model with active noise-cancellation are also down […]...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez The Verge. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "02/02/2026",
+          "source_nom": "The Verge"
+        },
+        {
+          "titre": "Pinterest releases best practices tip sheet for shopping templates",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://www.socialmediatoday.com/news/pinterest-releases-best-practices-tip-sheet-for-shopping-templates/813445/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "The tips are designed to help social media marketers and brands make product pins stand out on the app....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez Social Media Today. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "02/02/2026",
+          "source_nom": "Social Media Today"
+        },
+        {
+          "titre": "Underdog Cuts Jobs While Pivoting to Prediction Markets",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://frontofficesports.com/underdog-cuts-jobs-pivoting-prediction-markets/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "At least 15 employees have been laid off.\nThe post Underdog Cuts Jobs While Pivoting to Prediction Markets appeared first on Front Office Sports....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez Front Office Sports. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "02/02/2026",
+          "source_nom": "Front Office Sports"
+        },
+        {
+          "titre": "Snapchat réveille les chefs-d’œuvre du Louvre",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://www.influencia.net/snapchat-reveille-les-chefs-doeuvre-du-louvre/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Snap Inc. et Musée du Louvre dévoilent Les Illustres inconnus du Louvre, un parcours en réalité augmentée accessible gratuitement via Snapchat depuis le 18 février. Imaginé par l’AR Studio Paris de Snap en collaboration étroite avec les conservateurs du musée, le dispositif propose six expériences immersives permettant de révéler couleurs disparues, techniques artistiques et détails […]\nThe post S...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez INfluencia. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "02/02/2026",
           "source_nom": "INfluencia"
         },
         {
-          "titre": "Comment ChatGPT Enterprise assouplit les silos des agences",
-          "thematique": "Innovation & Outils",
-          "lien": "https://venturebeat.com/ai/chatgpt-enterprise-agency-workflows-2026/",
-          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
-          "resume": "Analyse approfondie de VentureBeat sur le déploiement de LLMs privés dans les mastondontes de la com pour unifier les bases de données (CRM, vieilles propositions commerciales, charte D.A).",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] S5 doit acquérir une licence Enterprise. En connectant l'IA à notre serveur de fichiers, un CDP pourrait extraire tous nos anciens cas esport en 2 secondes, éliminant les frictions \"qui a le document?\".",
-          "date": "26/02/2026",
-          "source_nom": "VentureBeat (AI)"
-        },
-        {
-          "titre": "L'E-Sport génère le meilleur CPL (Cost-Per-Lead)",
-          "thematique": "Mesure du ROI & Business",
-          "lien": "https://www.sportspromedia.com/insights/esports-cpl-roi-metrics-2026/",
-          "image": "https://images.unsplash.com/photo-1554774853-719586f82d77?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le rapport de SportsPro Media compile les données et prouve concrètement que l'acquisition d'un prospect masculin (18-24 ans) coûte 40% moins cher lors d'une activation esport que sur Google Ads.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Ce chiffre précis de SportsPro Media est l'argument massue pour nos forces Sales S5. Nous vendons une solution d'acquisition B2C plus rentable que le Display classique.",
-          "date": "27/02/2026",
-          "source_nom": "SportsPro Media"
-        },
-        {
-          "titre": "L'étude McKinsey sur le \"Greenhushing\" et les craintes RSE",
+          "titre": "REVUE DU SOCIAL #785",
           "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.mckinsey.com/industries/sports-and-entertainment/our-insights/",
-          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
-          "resume": "McKinsey révèle que les annonceurs sportifs, paralysés par la peur du bad buzz sur l'écologie, font du \"Greenhushing\" (investir silencieusement) plutôt que de s'en vanter.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / RSE] McKinsey dicte notre posture : SPORTFIVE doit orienter ses clients vers des activations RSE tangibles dont les preuves sont auditables, mais en adoptant une communication humble, en retrait.",
-          "date": "01/03/2026",
-          "source_nom": "McKinsey"
-        },
-        {
-          "titre": "Les marques boudent le placement de produit pour la \"Live Experience\" Twitch",
-          "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://twitchadvertising.tv/insights/live-experience-2026/",
-          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
-          "resume": "Les insights publicitaires de Twitch Ads indiquent la fin du logo collé bêtement lors d'un stream. L'attention n'y est plus. Ils demandent des extensions interactives où les fans votent via Twitch.",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Media ne peut vendre de la panneautique sur Twitch. Nous devons coder des \"Twitch Extensions\" permettant aux fans d'interagir avec le flux vidéo pour vraiment valoriser l'annonceur.",
-          "date": "03/03/2026",
-          "source_nom": "Twitch Ads"
-        },
-        {
-          "titre": "Ecofoot : La diversification des revenus B2B des clubs",
-          "thematique": "Mesure du ROI & Business",
-          "lien": "https://www.ecofoot.fr/diversification-revenus-b2b-clubs-2026/",
-          "image": "https://images.unsplash.com/photo-1522205408450-add114ad53fe?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le site d'économie sportive décrit comment les clubs moyens de L1 pallient la crise des droits TV en transformant leur stade en espaces de 'Coworking' premium et d'incubateurs tech la semaine.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Une aubaine pour SPORTFIVE B2B. Nous ne vendons plus seulement 19 jours de match par an, nous vendons du Naming d'espaces de travail Corporate fonctionnant 300 jours par an.",
-          "date": "26/02/2026",
-          "source_nom": "Ecofoot"
-        },
-        {
-          "titre": "McKinsey : L'Hyper-Personnalisation de l'offre sport (Gen AI)",
-          "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.mckinsey.com/industries/sports-entertainment/insight-hyper-personalization-2026",
-          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
-          "resume": "McKinsey prédit que dans 5 ans, grâce aux IA, chaque fan se verra proposer un résumé vidéo de match, des angles de caméra et des offres e-commerce générés spécifiquement pour son profil.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z] La fin du flux 'Broadcast' universel. S5 doit préparer ses clients à la publicité '1 to 1'. Nos recommandations d'activation doivent inclure des dynamiques de rendu personnalisé (emailings vidéo personnalisés via des partenaires IA).",
-          "date": "28/02/2026",
-          "source_nom": "McKinsey"
+          "lien": "https://wearesocial.com/fr/blog/2026/02/revue-du-social-785/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Fonctionnalités, tendances, études, nouveaux formats publicitaires… Que faut-il retenir de la semaine en social media ?...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez We Are Social. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "02/02/2026",
+          "source_nom": "We Are Social"
         }
       ]
     },
     {
       "id": "6",
-      "date_label": "Semaine 6 (Mars 2026)",
+      "date_label": "Semaine 6 (2026)",
       "ressources": [
         {
-          "titre": "Les agences déconstruisent les briefings clients (Design Sprint)",
-          "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://jaiunpotedanslacom.fr/design-sprint-pourquoi-agences-abandonnent-planning/",
-          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
-          "resume": "L'excellent dossier de Jüp décrypte comment les méthodes de \"Design Thinking\" remplacent allègrement la longue phase de réflexion d'un planneur par une journée d'atelier participatif avec le client.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] S5 (Brand Services) doit impérativement basculer en mode Sprint. Ne subissons plus le brief, co-construisons-le en Live avec l'annonceur. Plus d'agilité, moins de temps perdu.",
-          "date": "01/03/2026",
-          "source_nom": "J'ai un pote dans la com"
-        },
-        {
-          "titre": "The Rundown AI : Focus sur le recrutement \"Prompt Engineer\" en Agence",
+          "titre": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
           "thematique": "Innovation & Outils",
-          "lien": "https://www.therundown.ai/p/agency-prompt-engineering-2026",
-          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
-          "resume": "La newsletter tech détaille comment les \"Prompt Engineers\" internes divisent par 5 le volume moyen de sous-traitance iconographique d'un studio graphique classique.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Preuve formelle (via Rundown AI) que S5 a tout intérêt à faire monter en compétence l'un de nos DA comme \"Head of AI Generative\". C'est un immense centre de rentabilité.",
-          "date": "04/03/2026",
-          "source_nom": "The Rundown AI"
+          "lien": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Sal...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez VentureBeat (AI). Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "09/02/2026",
+          "source_nom": "VentureBeat (AI)"
         },
         {
-          "titre": "L'Équipe Eco : La déflation des Droits TV et l'impact Mécénat",
+          "titre": "Netflix just dropped its Warner Bros. bid. Investors are thrilled.",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://www.tubefilter.com/2026/02/27/netflix-warner-bros-bid-drop-paramount-skydance/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Paramount Skydance‘s hostile move to outbid Netflix for control of Warner Bros. Discovery has paid off. But here’s something interesting: After Netflix officially bowed out of its proposed deal to buy Warner Bros., its stock rose. We’ll get into why, but first the background deets: Netflix announced last December that it planned to buy Warner […]\nVisit Tubefilter  for more great stories....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez Tubefilter. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "09/02/2026",
+          "source_nom": "Tubefilter"
+        },
+        {
+          "titre": "What is Premier League +, why now, and what does it mean for broadcasters?",
           "thematique": "Mesure du ROI & Business",
-          "lien": "https://www.lequipe.fr/Business/Actualites/droits-tv-deflation-sponsoring-2026/",
-          "image": "https://images.unsplash.com/photo-1554774853-719586f82d77?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le service économie de l'Équipe pointe l'instabilité du marché télévisuel sportif français. Pour compenser, les Clubs s'appuient massivement sur un Sponsoring local très pragmatique, axé B2B régional.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Notre relais de croissance pour SPORTFIVE réside dans les tissus économiques locaux. Arrêtons de calquer nos métriques \"Nationales\", fournissons des preuves d'impact retail à nos partenaires régionaux.",
-          "date": "05/03/2026",
-          "source_nom": "L'Équipe (Éco)"
+          "lien": "https://www.sportspro.com/analysis/broadcast-ott/premier-league-plus-streaming-platform-launch-explainer/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "SportsPro breaks down what we know so far about the Premier League's first foray into DTC streaming.\nThe post What is Premier League +, why now, and what does it mean for broadcasters? appeared first on SportsPro....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez SportsPro Media. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "09/02/2026",
+          "source_nom": "SportsPro Media"
         },
         {
-          "titre": "Pew Research: Les Micro-Communautés fragmentent le Fandom",
+          "titre": "TV, volume, ROI : comment le Slip Français compte passer à l’échelle",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://www.influencia.net/tv-volume-roi-comment-le-slip-francais-compte-passer-a-lechelle/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Lancé en 2012, Le Slip Français vient enfin d’atteindre la rentabilité en 2025. Le résultat d’un cercle vertueux associant développement de l’outil productif, fidélité au Made in France et campagne de communication à grande échelle. Avec un chiffre d’affaires de 21 millions d’euros en 2025, en hausse de 16%, le Slip Français valide la pertinence […]\nThe post TV, volume, ROI : comment le Slip Franç...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez INfluencia. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "09/02/2026",
+          "source_nom": "INfluencia"
+        },
+        {
+          "titre": "REVUE DU SOCIAL #786",
           "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.pewresearch.org/internet/2026/03/fandom-fragmentation-youth-us/",
-          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
-          "resume": "Une vaste enquête démographique américaine démontre que la génération actuelle se définit davantage par une \"sous-culture\" de niche (ex: Fans de statistiques de foot avancées) que par l'attachement global à un club.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z] Pour notre Hub Créa: N'adressons plus les \"Fans de l'OL\", mais les \"Data-nerds de l'OL\". L'activation S5 doit être hyper-segmentée, de niche. C'est ce qu'attendent nos annonceurs de pointe.",
-          "date": "07/03/2026",
-          "source_nom": "Pew Research Center"
-        },
-        {
-          "titre": "Insider Intelligence : L'Affichage Physique devient le vrai Média Digital",
-          "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://www.emarketer.com/content/digital-out-of-home-social-2026",
-          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
-          "resume": "eMarketer souligne le poids écrasant des budgets DOOH (Digital Out Of Home immersifs) par rapport aux formats publicitaires Instagram standards, car les premiers génèrent des vues organiques (TikTok) grâce au \"Stunt\" physique.",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Media Studio se doit d'adopter le \"Fake OOH\" (CGI) ou du vrai Spectacular OOH. L'effet WAHOU physique provoque mécaniquement la diffusion Social Media à moindre coût.",
-          "date": "10/03/2026",
-          "source_nom": "eMarketer (Insider Intelligence)"
-        },
-        {
-          "titre": "AdAge: La revanche du 'Long-Form' Copywriting",
-          "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://adage.com/article/creativity/long-form-copy-revival-2026/",
+          "lien": "https://wearesocial.com/fr/blog/2026/02/revue-du-social-786/",
           "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
-          "resume": "AdAge relève le retour inattendu des textes et affiches publicitaires très denses en contenu (long-form) pour cibler des audiences fatiguées par les slogans Snapchat épileptiques.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] S5 Studio doit savoir alterner. L'omniprésence du format TikTok n'empêche pas l'efficacité d'un manifeste publicitaire fort, rédigé par un Concepteur-Rédacteur talentueux au sein d'un Squad agile.",
-          "date": "06/03/2026",
-          "source_nom": "Adweek / AdAge"
-        },
-        {
-          "titre": "Siècle Digital: L'IA de Casting Prédictif d'Influenceurs",
-          "thematique": "Innovation & Outils",
-          "lien": "https://siecledigital.fr/2026/03/08/ia-casting-predictif-influenceurs-agences/",
-          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
-          "resume": "Des SaaS identifient le meilleur KOL (Influenceur) non pas par son nombre d'abonnés, mais par IA sémantique scannant 5 ans de ses vidéos pour évaluer son affinité réelle (Brand Safety et Conversion) avec la campagne d'une marque.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Un gain monumental. Le screening manuel d'influenceurs pour nos CDP prend des heures. Ces SaaS sécurisent notre choix final en justifiant le casting par une data incontestable.",
-          "date": "08/03/2026",
-          "source_nom": "Siècle Digital"
-        },
-        {
-          "titre": "La Réclame: Le 'Phygital' devient pragmatique avec le Web3",
-          "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://lareclame.fr/phygital-pragmatique-web3-retail-2026",
-          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
-          "resume": "Fini les NFTs spéculatifs. La blockchain sert désormais à créer des 'Digital Twins' (un maillot physique acheté en stade donne droit au même maillot porté par l'avatar du fan sur Roblox).",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Brand Services doit packager le Web3 utilitaire. Nos activatons merchandising (ex: adidas) doivent systématiquement inclure le pont Vêtement Physique -> Skin In-Game pour engager la cible Alpha.",
-          "date": "10/03/2026",
-          "source_nom": "La Réclame"
-        },
-        {
-          "titre": "Sponsoring.fr: La pénalité du 'Naming Cluttered' (Trop de sponsors)",
-          "thematique": "Mesure du ROI & Business",
-          "lien": "https://www.sponsoring.fr/marche/penalite-naming-cluttered-roi-2026/",
-          "image": "https://images.unsplash.com/photo-1522205408450-add114ad53fe?auto=format&fit=crop&q=80&w=600",
-          "resume": "Des études démontrent mathématiquement qu'un maillot de football avec 5 sponsors face avant et manche fait baisser de 40% la mémorisation de chaque sponsor pris individuellement (l'Effet de Cluttering).",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Argument majeur de S5 pour le Sponsor Premium. Il doit exiger / surpayer l'exclusivité de la face avant (Clean Shirt) ou préférer un Club à la charte graphique exigeante pour garantir la lisibilité de son investissement.",
-          "date": "12/03/2026",
-          "source_nom": "Sponsoring.fr"
+          "resume": "Fonctionnalités, tendances, études, nouveaux formats publicitaires… Que faut-il retenir de la semaine en social media ?...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez We Are Social. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "09/02/2026",
+          "source_nom": "We Are Social"
         }
       ]
     },
     {
       "id": "7",
-      "date_label": "Semaine 7 (Mars 2026)",
+      "date_label": "Semaine 7 (2026)",
       "ressources": [
         {
-          "titre": "La mutation des \"Chefs de Projet\" en \"Account Planners\"",
-          "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.cbnews.fr/agences/mutation-chefs-projets-account-planners-2026",
-          "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=600",
-          "resume": "CB News s'entretient avec les directeurs des plus grandes agences parisiennes, actant la disparition du profil purement exécutant. L'Account Manager doit désormais être le pilote intellectuel du compte client.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] L'absence structurelle de planneur chez S5 est une force si nous assumons que notre \"Account Planner\" est le Chef de Projet. Cela nécessite une formation globale aux études Nielsen/GWI.",
-          "date": "05/03/2026",
-          "source_nom": "CB News"
-        },
-        {
-          "titre": "The Verge: IA Actives vs IA Passives dans les environnements de travail",
+          "titre": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
           "thematique": "Innovation & Outils",
-          "lien": "https://www.theverge.com/2026/3/7/workplace-ai-active-agents-project-management",
-          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
-          "resume": "Analyse sur la transition des SaaS: l'IA ne se contente plus d'écrire un texte, elle devient \"Agentique\" (elle lit les mails du client et crée le brief Asana de manière autonome sans attendre l'humain).",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] The Verge valide l'IA autonome (Agens). Si S5 implémente ce pipeline, le temps administratif (\"passer l'information\" entre le commercial et le studio) tombe à zéro.",
-          "date": "07/03/2026",
-          "source_nom": "The Verge"
+          "lien": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.The launch marks a major inflection point in the race to deliver practical AI agents to mainstream users, pos...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez VentureBeat (AI). Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "16/02/2026",
+          "source_nom": "VentureBeat (AI)"
         },
         {
-          "titre": "Front Office Sports révèle les clauses \"Data-Driven\" des Naming Rights",
-          "thematique": "Mesure du ROI & Business",
-          "lien": "https://frontofficesports.com/data-driven-clauses-naming-rights-2026/",
-          "image": "https://images.unsplash.com/photo-1522205408450-add114ad53fe?auto=format&fit=crop&q=80&w=600",
-          "resume": "L'excellente newsletter américaine scrute les contrats de Naming Stades : les marques exigent d'intégrer leur propre solution de paiement \"Smart Wallet\" au stade pour tracker directement le chiffre d'affaires de la buvette/merchandising.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] C'est un \"Must-Have\" pour convaincre les banques sur des Naming de stade en Europe. Ne promettons plus des impressions vues, vendons un écosystème transactionnel en circuit fermé via le naming.",
-          "date": "09/03/2026",
-          "source_nom": "Front Office Sports"
-        },
-        {
-          "titre": "Le Search \"Intentionniste\" dépasse les réseaux sociaux (Think With Google)",
-          "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.thinkwithgoogle.com/intl/fr-fr/insights/intentions-search-sport-2026/",
-          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
-          "resume": "Google révèle que les pics des requêtes \"Où acheter ce maillot / cette paire\" surviennent de plus en plus pendant le visionnage d'activations \"physiques\" (stade/street), reléguant le display à l'arrière-plan.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z] Pour notre pôle SEO / Media S5 : Si notre client lance une activation maillot, le plus grand ROI sera généré par une stratégie Google Search concomitante et agressive (Search intent), et non par l'achat TV.",
-          "date": "12/03/2026",
-          "source_nom": "Think With Google"
-        },
-        {
-          "titre": "L'étude de La Réclame sur la Gamification des Programmes de Fidélité (CRM)",
+          "titre": "Have you heard? D’Amelio drama, a ‘Backrooms’ movie trailer, and the 2026 NewFronts slate.",
           "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://lareclame.fr/gamification-crm-sport-agences-2026",
-          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
-          "resume": "La Réclame décrypte comment des marques (B2C) remplacent les campagnes CRM classiques par des \"Quêtes\" digitales liées aux performances réelles de la NFL. Plus vos joueurs marquent, plus vous gagnez de la crypto/remises.",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Brand Services doit internaliser la Gamification. Nous devrions cesser de recommander des \"Jeux Concours\" simples pour proposer des \"Season-long Quests\" connectées à la Data Live du championnat.",
-          "date": "15/03/2026",
-          "source_nom": "La Réclame"
+          "lien": "https://www.tubefilter.com/2026/02/27/have-you-heard-charli-damelio-backrooms-trailer-iab-newfronts/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Each week, we handpick a selection of stories to give you a snapshot of trends, updates, business moves, and more from around the creator industry.\nThis week, a pasta-loving dreamboat hits a magazine cover, seller complaints prompt a TikTok Shop policy shift, and a developer is doing something about all that brainrot.\nOlympic achievements\nQCP is hotter than a pot of boiling pasta water on the Play...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez Tubefilter. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "16/02/2026",
+          "source_nom": "Tubefilter"
+        },
+        {
+          "titre": "Apple and Netflix join forces to air F1 Canadian GP in US",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.sportspro.com/broadcast-ott/f1-apple-netflix-canadian-grand-prix-drive-to-survive-february-2026/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Deal includes latest season of Drive to Survive being offered to Apple TV subscribers.\nThe post Apple and Netflix join forces to air F1 Canadian GP in US appeared first on SportsPro....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez SportsPro Media. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "16/02/2026",
+          "source_nom": "SportsPro Media"
+        },
+        {
+          "titre": "Et si on pensait les moyens avant le message ? Le pari long format (réussi) de la campagne Superprof",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://www.influencia.net/et-si-on-pensait-les-moyens-avant-le-message-le-pari-long-format-reussi-de-la-campagne-superprof/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Accompagnée par l’agence média 7Kids, la maison de production Grand Bazar et la réalisatrice Katia Lewkowicz (à l’origine des pubs iconique d’Intermarché), la marque Superprof a misé sur un spot de 77 secondes diffusé en janvier sur TF1 et M6, ainsi que sur un de 80 secondes et un de 32 secondes encore diffusés dans […]\nThe post Et si on pensait les moyens avant le message ? Le pari long format (r...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez INfluencia. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "16/02/2026",
+          "source_nom": "INfluencia"
+        },
+        {
+          "titre": "REVUE DU SOCIAL #787",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://wearesocial.com/fr/blog/2026/02/revue-du-social-787-2-actualites-reseaux-sociaux/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Fonctionnalités, tendances, études, nouveaux formats publicitaires… Que faut-il retenir de la semaine en social media ?...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez We Are Social. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "16/02/2026",
+          "source_nom": "We Are Social"
         }
       ]
     },
     {
       "id": "8",
-      "date_label": "Semaine 8 (Mars 2026)",
+      "date_label": "Semaine 8 (2026)",
       "ressources": [
         {
-          "titre": "Contagious Magazine Focus : La Créativité \"Data-Informed\" vs \"Data-Led\"",
-          "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.contagious.com/news-and-views/data-informed-creativity-2026",
-          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
-          "resume": "Essai brillant de Contagious sur la nécessité d'informer la création sans pour autant la brider par des contraintes mathématiques rigides (Data-Led) qui génèrent de la platitude algorithmique.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] L'argument parfait pour soulager le Studio Créa de S5. Oui l'insight (Nielsen/GWI) est dicté par le Chef de Projet, mais l'exécution doit rester folle, irrationnelle et audacieuse.",
-          "date": "08/03/2026",
-          "source_nom": "Contagious"
-        },
-        {
-          "titre": "Siècle Digital : L'implémentation de la blockchain dans le Resource Management",
+          "titre": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
           "thematique": "Innovation & Outils",
-          "lien": "https://siecledigital.fr/2026/03/11/blockchain-resource-management-agences/",
-          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le webzine français analyse comment des agences enregistrent les contributions spécifiques de chaque créatif/influenceur sur une blockchain pour automatiser instantanément les paiements et royalties intra-projets.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Cas d'usage lointain mais à surveiller : l'auto-facturation des freelances et la répartition du P&L. L'outil technique abolit définitivement la friction de facturation intern et favorise l'agilité des \"Squads\".",
-          "date": "11/03/2026",
-          "source_nom": "Siècle Digital"
+          "lien": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.TQ Ventures led the round, with participation from FPV Ventures, Redpoint, a...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez VentureBeat (AI). Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "23/02/2026",
+          "source_nom": "VentureBeat (AI)"
         },
         {
-          "titre": "Sponsoring.fr et la Valorisation Sociétale (SROI)",
-          "thematique": "Mesure du ROI & Business",
-          "lien": "https://www.sponsoring.fr/marche/sroi-social-return-on-investment-2026/",
-          "image": "https://images.unsplash.com/photo-1522205408450-add114ad53fe?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le média B2B explique le développement rapide du \"SROI\" en France, un nouvel indicateur validé par l'État français qui donne une valorisation financière aux actions environnementales menées lors des grands événements sportifs.",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Sponsoring.fr nous tend LA métrique RSE. Il faut intégrer le \"SROI\" à l'ensemble de nos bilans S5, justifiant que notre activation a eu un impact positif de \"X dizaines de milliers d'euros\" d'équivalents écologiques.",
-          "date": "13/03/2026",
-          "source_nom": "Sponsoring.fr"
-        },
-        {
-          "titre": "Tendances \"Clean Girl\" & Sportwear selon Dazed Studio",
-          "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.dazeddigital.com/dazed-studio/sports-clean-girl-aesthetic-2026",
-          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
-          "resume": "L'immense pôle data et culture de Dazed explique l'impact de l'esthétique minimaliste (\"Clean Girl\") sur les ventes de produits dérivés athlétiques féminins, écrasant les visuels tapageurs de la décennie précédente.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z] Pour nos briefs de merchandising et de campagnes ciblant les jeunes femmes (Running/Yoga), Dazed Studio l'affirme : le Studio S5 doit opter pour des palettes naturelles et minimalistes. L'hyper-couleur est rejetée.",
-          "date": "15/03/2026",
-          "source_nom": "Dazed Studio"
-        },
-        {
-          "titre": "Meta Foresight analyse la Rétention Multi-Écrans",
+          "titre": "Instagram introduces thumbnail post editing for grids",
           "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://www.facebook.com/business/insights/foresight-multi-screen-retention",
-          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
-          "resume": "Les laboratoires Meta (Facebook/Instagram) publient une enquête prouvant que 90% des fans interagissent avec WhatsApp ou Instagram simultanément pendant le match, utilisant le second écran pour exprimer leurs frustrations.",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] Pour SPORTFIVE, l'espace de bataille pour engager le fan 360 ne se situe plus sur l'écran principal de diffusion (figé). L'activation doit fournir un contenu de \"décharge émotionnelle\" sur le Mobile en temps réel.",
-          "date": "17/03/2026",
-          "source_nom": "Meta Foresight"
+          "lien": "https://www.socialmediatoday.com/news/instagram-introduces-thumbnail-post-editing-for-grids/813444/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "The new feature allows users to choose how images and clips will be displayed, adding another element of profile customization....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez Social Media Today. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "23/02/2026",
+          "source_nom": "Social Media Today"
+        },
+        {
+          "titre": "Apple and Netflix join forces to air F1 Canadian GP in US",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.sportspro.com/broadcast-ott/f1-apple-netflix-canadian-grand-prix-drive-to-survive-february-2026/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Deal includes latest season of Drive to Survive being offered to Apple TV subscribers.\nThe post Apple and Netflix join forces to air F1 Canadian GP in US appeared first on SportsPro....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez SportsPro Media. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "23/02/2026",
+          "source_nom": "SportsPro Media"
+        },
+        {
+          "titre": "Et si on pensait les moyens avant le message ? Le pari long format (réussi) de la campagne Superprof",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://www.influencia.net/et-si-on-pensait-les-moyens-avant-le-message-le-pari-long-format-reussi-de-la-campagne-superprof/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Accompagnée par l’agence média 7Kids, la maison de production Grand Bazar et la réalisatrice Katia Lewkowicz (à l’origine des pubs iconique d’Intermarché), la marque Superprof a misé sur un spot de 77 secondes diffusé en janvier sur TF1 et M6, ainsi que sur un de 80 secondes et un de 32 secondes encore diffusés dans […]\nThe post Et si on pensait les moyens avant le message ? Le pari long format (r...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez INfluencia. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "23/02/2026",
+          "source_nom": "INfluencia"
+        },
+        {
+          "titre": "REVUE DU SOCIAL #788",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://wearesocial.com/fr/blog/2026/02/revue-du-social-788/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Fonctionnalités, tendances, études, nouveaux formats publicitaires… Que faut-il retenir de la semaine en social media ?...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez We Are Social. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "23/02/2026",
+          "source_nom": "We Are Social"
         }
       ]
     },
     {
       "id": "9",
-      "date_label": "Semaine 9 (Mars 2026)",
+      "date_label": "Semaine 9 (2026)",
       "ressources": [
         {
-          "titre": "L'ADN décrypte les limites des \"Boutiques Créatives sans Data\"",
-          "thematique": "Créativité & Structuration des Agences",
-          "lien": "https://www.ladn.eu/nouveaux-modeles/agences-limites-creativite-pure-sans-data/",
-          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
-          "resume": "Un article tranchant de l'ADN observe plusieurs faillites d'agences créa pures qui, par mépris des outils analytiques et du planning stratégique basé sur la data, ont perdu le contact avec les objectifs commerciaux de leurs clients.",
-          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] L'ADN nous donne la mise en garde. Opérer \"Sans Planneur\" chez S5 ne doit pas signifier naviguer à vue (\"Creative without cause\"). L'Account Manager doit combler cette absence par une maîtrise absolue des données GWI/Nielsen.",
-          "date": "20/03/2026",
-          "source_nom": "L'ADN"
-        },
-        {
-          "titre": "La domination programmée de \"Microsoft 365 Copilot\" en agence",
+          "titre": "Hacktivists claim to have hacked Homeland Security to release ICE contract data",
           "thematique": "Innovation & Outils",
-          "lien": "https://venturebeat.com/ai/microsoft-365-copilot-agency-dominance-2026/",
-          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
-          "resume": "Le média tech VentureBeat explique que Microsoft a gagné la guerre des SAAS d'agence, son IA intégrée directement à Powerpoint et Excel disrupte tous les outils \"tiers\" en unifiant la création documentaire des chefs de projets.",
-          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] C'est un \"Check-mate\". Si Microsoft possède la suite, S5 doit exiger de son service IT global le déploiement immédiat de Copilot pour l'équipe Account afin d'éradiquer la friction la plus lourde: la mise en forme de PPTs de 50 slides.",
-          "date": "21/03/2026",
-          "source_nom": "VentureBeat"
+          "lien": "https://techcrunch.com/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "A hacking group called Department of Peace said they hacked a specific office within Homeland Security to protest ICE’s mass deportation campaign, and the companies aiding it....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez TechCrunch. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "02/03/2026",
+          "source_nom": "TechCrunch"
         },
         {
-          "titre": "L'Essor du B2B \"Account Based Marketing\" dans les Hospitalités",
-          "thematique": "Mesure du ROI & Business",
-          "lien": "https://sportbusiness.com/insights/account-based-marketing-hospitality-2026/",
-          "image": "https://images.unsplash.com/photo-1522205408450-add114ad53fe?auto=format&fit=crop&q=80&w=600",
-          "resume": "SportBusiness analyse la tendance ABM : les loges VIP ne sont plus remplies \"au hasard\", elles sont vendues avec des logicielles ciblant de manière chirurgicale des comptes clés spécifiques (Hyper-personnalisation).",
-          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Une force incroyable pour S5 Sales B2B. L'hospitalité devient un outil d' \"Account Based Marketing\". Nous associons la data LinkedIn aux invits (CRM) pour promettre de la clôture de contrat dans les loges.",
-          "date": "23/03/2026",
-          "source_nom": "SportBusiness.com"
-        },
-        {
-          "titre": "Deloitte Sports 2026 : Le Modèle Economique du Sport Féminin \"Born Digital\"",
-          "thematique": "Tendances & Insights (Société)",
-          "lien": "https://www.deloitte.com/global/en/Industries/tmt/perspectives/sports-business-2026-women-digital.html",
-          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
-          "resume": "Deloitte révèle que les franchises de sport féminin contournent les \"vieux\" broadcasters historiques et se construisent comme de pures \"entreprises digitales\", maîtrisant mieux la data omnicanale que leurs homologues masculins.",
-          "analyse_sep": "🧠 [Enjeu Insights Cibles / RSE & Gen Z] Cela change tout notre pitch stratégique. Vendre du sponsoring dans le sport féminin, ce n'est plus (juste) vendre des valeurs sociétales, c'est acheter la monétisation digitale la plus pointue du marché.",
-          "date": "24/03/2026",
-          "source_nom": "Deloitte (Sport/Entertainment)"
-        },
-        {
-          "titre": "Le ROI décevant des Metavers (Web3) pour les Agences Média",
+          "titre": "WTF is pay per ‘demonstrated’ value in AI content licensing?",
           "thematique": "Omnicanalité & Nouveaux Médias",
-          "lien": "https://www.thedrum.com/news/2026/03/26/metaverse-web3-roi-media-agencies-busted",
-          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
-          "resume": "The Drum met un point final à l'emballement Web3 d'il y a quelques années : les activations complexes VR sur des métavers vides n'apportent aucun taux de conversion tangible, invitant à revenir aux basiques des jeux communautaires (Roblox).",
-          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Brand Services doit filtrer les tendances tech sans aveuglement. L'omnicanalité passe par là où sont les audiences réelles, évitons le discours vendeur de \"la blockchain expérimentale\" qui effraie les acheteurs Data-Driven.",
-          "date": "26/03/2026",
-          "source_nom": "The Drum"
+          "lien": "https://digiday.com/media/wtf-is-pay-per-demonstrated-value-in-ai-content-licensing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Publishers and tech companies are developing a “pay by demonstrated value” model in AI content licensing that ties compensation to usage....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez Digiday. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "02/03/2026",
+          "source_nom": "Digiday"
+        },
+        {
+          "titre": "What is Premier League +, why now, and what does it mean for broadcasters?",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.sportspro.com/analysis/broadcast-ott/premier-league-plus-streaming-platform-launch-explainer/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "SportsPro breaks down what we know so far about the Premier League's first foray into DTC streaming.\nThe post What is Premier League +, why now, and what does it mean for broadcasters? appeared first on SportsPro....",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez SportsPro Media. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "02/03/2026",
+          "source_nom": "SportsPro Media"
+        },
+        {
+          "titre": "Et si on pensait les moyens avant le message ? Le pari long format (réussi) de la campagne Superprof",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://www.influencia.net/et-si-on-pensait-les-moyens-avant-le-message-le-pari-long-format-reussi-de-la-campagne-superprof/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Accompagnée par l’agence média 7Kids, la maison de production Grand Bazar et la réalisatrice Katia Lewkowicz (à l’origine des pubs iconique d’Intermarché), la marque Superprof a misé sur un spot de 77 secondes diffusé en janvier sur TF1 et M6, ainsi que sur un de 80 secondes et un de 32 secondes encore diffusés dans […]\nThe post Et si on pensait les moyens avant le message ? Le pari long format (r...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez INfluencia. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "02/03/2026",
+          "source_nom": "INfluencia"
+        },
+        {
+          "titre": "REVUE DU SOCIAL #784",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://wearesocial.com/fr/blog/2026/01/revue-du-social-784/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Fonctionnalités, tendances, études, nouveaux formats publicitaires… Que faut-il retenir de la semaine en social media ?...",
+          "analyse_sep": "💡 [Analyse S5] Realité du terrain sourcée chez We Are Social. Cet article démontre les mouvements réels du marché en temps réel.",
+          "date": "02/03/2026",
+          "source_nom": "We Are Social"
         }
       ]
     },
