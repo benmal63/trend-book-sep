@@ -13,16 +13,6 @@
       "source_nom": "Deloitte Business Group (Janvier 2026)"
     },
     {
-      "titre": "NBCUniversal fait le plein pour les JO d'Hiver de 2026",
-      "thematique": "Mesure du ROI & Business",
-      "lien": "https://www.nbcsports.com/",
-      "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?auto=format&fit=crop&q=80&w=600",
-      "resume": "Janvier 2026 sonne l'alarme pour les JO de Milan-Cortina : NBCUniversal a annoncé l'épuisement total de ses espaces publicitaires (sold out). Plus de 85% des investissements publicitaires se font désormais sur le digital (Peacock).",
-      "analyse_sep": "Les TV linéaires sont mortes pour l'activation pure. Nos recommandations SPORTFIVE doivent forcer sur le paid social, le programmatique et le brand content pour contourner ce verrouillage publicitaire massif par une poignée d'annonceurs.",
-      "date": "06/01/2026",
-      "source_nom": "NBC Sports (Janvier 2026)"
-    },
-    {
       "titre": "CVC Capital s'offre Equine Network : La montée des sports de niche",
       "thematique": "Tendances & Insights (Société)",
       "lien": "https://www.sportspromedia.com/news/cvc-global-sport-group-equine-network-acquisition/",
@@ -33,24 +23,34 @@
       "source_nom": "SportsPro Media (Janvier 2026)"
     },
     {
-      "titre": "Marché des transferts : Hausse spectaculaire post-2025",
-      "thematique": "Innovation & Outils",
-      "lien": "https://inside.fifa.com/legal/football-regulatory/player-transfers",
+      "titre": "Lancement de 'WPP Media Sports' : La fin des silos en agence",
+      "thematique": "Créativité & Modèles d'Agences",
+      "lien": "https://www.sportbusiness.com/",
       "image": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?auto=format&fit=crop&q=80&w=600",
-      "resume": "La FIFA vient de publier son Snapshot final de transferts mondiaux de Janvier 2026 : Le sport féminin et la nouvelle ligue professionnelle d'Océanie ont tiré les chiffres de manière fracassante avec près de 2 milliards de dollars échangés à la clôture du mercato hivernal.",
-      "analyse_sep": "Le foot féminin a dépassé les 10 millions de fees sur ce simple mois de janvier, brisant tous les records. Nos 'Brands Services' doivent systématiquement pitcher le sponsoring féminin en 2026.",
-      "date": "31/01/2026",
-      "source_nom": "FIFA (Janvier 2026)"
+      "resume": "En janvier 2026, l'immense réseau WPP lance une nouvelle branche unifiée 'WPP Media Sports' pour fusionner achat média, création de contenu, partenariats et gaming sous un même toit face aux nouvelles exigences des annonceurs.",
+      "analyse_sep": "Cela confirme notre positionnement 'Full-Service'. Les clients refusent de traiter avec 4 agences (Relations Presse, Sponsoring, Créa, Achat Média). SPORTFIVE doit capitaliser sur son agilité pour offrir le même guichet unique que les immenses groupes.",
+      "date": "08/01/2026",
+      "source_nom": "SportBusiness (Janvier 2026)"
     },
     {
-      "titre": "Super Bowl LX vs F1 : Nouveaux Deals Média",
-      "thematique": "Omnicanalité & Nouveaux Médias",
-      "lien": "https://www.forbes.com/sportsmoney/",
+      "titre": "FIFA & Lenovo dévoilent l'IA 'Football AI Pro'",
+      "thematique": "Innovation & Outils",
+      "lien": "https://inside.fifa.com/about-fifa/commercial",
       "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=600",
-      "resume": "La folie du Super Bowl de Février 2026 a fait plier les marchés en Janvier, avec des tickets pub touchant les 10 millions. Forbes rapporte que les sponsors exigent de l'IA et de l'activation 'live' omnicanale pour la Formule 1 2026 face à ces prix exorbitants de la NFL.",
-      "analyse_sep": "Il faut pivoter nos offres : vendre de la technologie (Fanzone Virtuelle, Second Ecran, IA) pour justifier les KPIs de nos partenaires qui se sentent étouffés par les tarifs médiatiques nord-américains.",
-      "date": "22/01/2026",
-      "source_nom": "Forbes SportsMoney (Janvier 2026)"
+      "resume": "Pour lancer l'année de sa Coupe du Monde 2026, la FIFA s'associe à Lenovo pour présenter 'Football AI Pro', une intelligence artificielle générative fournissant aux sélections des millions de datas en temps réel pour l'analyse tactique et l'engagement fan.",
+      "analyse_sep": "L'IA n'est plus un 'gadget' mais un levier opérationnel en plein Mondial. Nous devons intégrer des packages de datas enrichies à l'IA dans nos offres de conseil pour les clubs partenaires (Olympique Lyonnais, etc).",
+      "date": "20/01/2026",
+      "source_nom": "FIFA Commercial (Janvier 2026)"
+    },
+    {
+      "titre": "NBCUniversal fait le plein numérique pour les JO d'Hiver",
+      "thematique": "Omnicanalité & Nouveaux Médias",
+      "lien": "https://www.nbcsports.com/",
+      "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?auto=format&fit=crop&q=80&w=600",
+      "resume": "Janvier 2026 marque un tournant pour les JO de Milan-Cortina : NBCUniversal annonce l'épuisement total de ses espaces publicitaires (sold out), dont 85% d'investissements qui ont migré spécifiquement vers le streaming (Peacock) et le digital omnicanal.",
+      "analyse_sep": "La TV linéaire n'est plus l'Alpha et l'Oméga des grands événements. Nos recommandations doivent forcer sur le 'Second Écran' (Twitch, TikTok) pour contourner le verrouillage publicitaire du streaming premium par de très gros annonceurs.",
+      "date": "06/01/2026",
+      "source_nom": "NBC Sports (Janvier 2026)"
     }
   ]
 }
