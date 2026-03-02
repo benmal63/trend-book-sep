@@ -53,6 +53,26 @@
           "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] Digiday résume notre ambition : être l'agence pivot. Une activation S5 doit faire le pont entre l'expérience physique (match) et la monétisation media (TikTok) sans rupture de tracking.",
           "date": "14/01/2026",
           "source_nom": "Digiday"
+        },
+        {
+          "titre": "CB News: L'effondrement du modèle des honoraires horaires",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://www.cbnews.fr/agences/fin-taux-horaire-agences-2026",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "Le magazine décrypte l'abandon massif de la facturation au temps passé (TJM) au profit de la tarification à la valeur perçue (Value-Based Pricing) chez les agences créatives.",
+          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Si nous facturons à l'idée et non au temps passé, l'agilité d'un Chef de Projet S5 qui accouche d'une Big Idea en un jour via du Sprint Design devient le modèle le plus rentable possible.",
+          "date": "07/01/2026",
+          "source_nom": "CB News"
+        },
+        {
+          "titre": "VentureBeat: Le RAG (Retrieval-Augmented Generation) en pôle conseil",
+          "thematique": "Innovation & Outils",
+          "lien": "https://venturebeat.com/ai/rag-consulting-agencies-2026/",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
+          "resume": "Les agences de conseil intègrent des IA 'RAG' qui scannent les documents PDF du client (Rapports Annuels) pour générer des insights immédiats et sourcés.",
+          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Un CDP S5 entrant sur un pitch complexe n'a plus à lire les 200 pages du bilan financier du sponsor. L'IA RAG le fait et extrait l'insight de croissance. Gain de productivité massif.",
+          "date": "09/01/2026",
+          "source_nom": "VentureBeat (AI)"
         }
       ]
     },
@@ -108,6 +128,36 @@
           "resume": "Tubefilter dresse le bilan d'une ligue de football espagnole ayant cédé 100% de ses droits de diffusion digitaux à 10 YouTubers massifs pour capter directement la cible 15-24 ans.",
           "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Media ne peut ignorer ce basculement. L'influenceur n'est plus un bonus RP, c'est le canal de diffusion principal. Nos recommandations doivent placer l'UGC au centre du budget.",
           "date": "28/01/2026",
+          "source_nom": "Tubefilter"
+        },
+        {
+          "titre": "Front Office Sports: Le ROI de l'hospitalité 'Ultra-Premium'",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://frontofficesports.com/ultra-premium-hospitality-roi-2026/",
+          "image": "https://images.unsplash.com/photo-1554774853-719586f82d77?auto=format&fit=crop&q=80&w=600",
+          "resume": "FOS analyse que la réduction de 30% de la jauge d'une loge au profit d'un service 'Hyper-Bespoke' (tailleur sur mesure) augmente le taux de conversion B2B closing de 45%.",
+          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Vendre de l'exclusivité rare plutôt que du volume. S5 doit prouver que ses refontes de salons VIP (moins de sièges, plus de luxe) génèrent mathématiquement plus de signatures de contrats pour nos partenaires.",
+          "date": "21/01/2026",
+          "source_nom": "Front Office Sports"
+        },
+        {
+          "titre": "LBBOnline: L'internalisation de la production (In-House Production)",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://www.lbbonline.com/news/in-house-production-studios-agencies-2026",
+          "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=600",
+          "resume": "Les grandes agences rapatrient les réalisateurs et monteurs TikTok en interne pour compresser les coûts et maîtriser la cadence (Always-on) exigée par l'omnicanalité.",
+          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Notre Studio graphique S5 doit posséder toutes ces compétences de production rapide. Les idées d'un CDP S5 ne peuvent attendre les devis d'une boîte de prod externe.",
+          "date": "23/01/2026",
+          "source_nom": "LBBOnline"
+        },
+        {
+          "titre": "Tubefilter: Les créateurs de contenu s'offrent des clubs",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://www.tubefilter.com/2026/01/25/creators-buying-sports-teams-kings-league/",
+          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
+          "resume": "Le modèle de la Kings League s'exporte. Tubefilter analyse l'achat de clubs de 3e division par des YouTubers, couplant acquisition sportive et audience Twitch native.",
+          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] Attention, l'audience n'est plus chez les médias traditionnels rachetés. S5 doit packager le sponsoring sur ces ligues Créateurs qui cumulent le match physique et l'hypermédiatisation sociale.",
+          "date": "25/01/2026",
           "source_nom": "Tubefilter"
         }
       ]
@@ -165,6 +215,36 @@
           "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Media doit internaliser ce savoir-faire technique : concevoir l'activation spécifiquement pour le langage TikTok (UGC, Challenges), plutôt que d'y pousser une vidéo générique.",
           "date": "12/02/2026",
           "source_nom": "TikTok For Business"
+        },
+        {
+          "titre": "Product Hunt: Les CRM 'No-Code' pour Agences",
+          "thematique": "Innovation & Outils",
+          "lien": "https://www.producthunt.com/categories/no-code-agencies-2026",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
+          "resume": "Product Hunt met en avant une vague de CRM 'No-Code' (Airtable / Softr) permettant aux Chefs de Projets de construire eux-mêmes leur outil de suivi client sans développeur.",
+          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] L'émancipation technique. Nos CDP S5 doivent être formés au No-Code pour automatiser leurs propres portefeuilles clients, supprimant la friction des outils standardisés inadaptés.",
+          "date": "08/02/2026",
+          "source_nom": "Product Hunt"
+        },
+        {
+          "titre": "SportBusiness: La Tokenisation des actifs sponsoring",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.sportbusiness.com/insights/sponsorship-tokenization-roi-2026/",
+          "image": "https://images.unsplash.com/photo-1554774853-719586f82d77?auto=format&fit=crop&q=80&w=600",
+          "resume": "Au-delà du buzz Web3, des ligues tokénisent (Fractional Ownership) de l'espace publicitaire physique, permettant aux fans d'être copropriétaires du naming d'une tribune.",
+          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] L'activation devient le produit d'investissement. Si une marque (Banque/Crypto) sponsorise S5, on lui propose d'offrir des parts de son sponsoring à sa communauté. L'engagement grimpe à 100%.",
+          "date": "09/02/2026",
+          "source_nom": "SportBusiness.com"
+        },
+        {
+          "titre": "Nielsen Sports: Le paradoxe de l'Attention des 'Second Screens'",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://nielsensports.com/second-screen-attention-paradox-2026/",
+          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
+          "resume": "Nielsen alerte : le 'Second Écran' (téléphone) capte 60% de l'attention visuelle pendant le match, reléguant l'action sur le terrain à un bruit de fond radio pour la Gen Z.",
+          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z] Nos budgets d'activation media chez S5 doivent pivoter drastiquement. Le sponsoring TV (terrain) sert l'autorité de marque, l'activation smartphone (Second Ecran) assure la conversion ROI.",
+          "date": "11/02/2026",
+          "source_nom": "Nielsen Sports"
         }
       ]
     },
@@ -220,6 +300,26 @@
           "resume": "La résurgence du commentaire audio en direct : comment les ligues US vendent du \"naming de salons vocaux\" sur Discord plutôt que des publicités visuelles classiques.",
           "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Media a une carte à jouer. Proposons des activations Audio-First pour nos partenaires (parrainer les débriefs à chaud sur les serveurs de supporters).",
           "date": "23/02/2026",
+          "source_nom": "Social Media Today"
+        },
+        {
+          "titre": "The Drum : L'avènement des 'Chief Community Officers'",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://www.thedrum.com/news/2026/02/16/chief-community-officers-agencies",
+          "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=600",
+          "resume": "Face à la mort du 'Push' publicitaire, des agences anglaises remplacent les Planneurs par des Directeurs de Communauté (issus de Reddit ou Discord) qui dictent la créativité organique.",
+          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] Renforce la thèse d'une créa dictée par le terrain (insight social). Nos Chefs de Projet S5, proches de la culture de leurs cibles (Football/Esport), sont naturellement nos 'Community Officers'.",
+          "date": "16/02/2026",
+          "source_nom": "The Drum"
+        },
+        {
+          "titre": "Social Media Today: L'enlisement du Paid Social chez les créateurs",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://www.socialmediatoday.com/news/paid-social-creator-fatigue-2026/",
+          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
+          "resume": "Les réseaux signalent une 'fatigue publicitaire' record sur les vidéos sponsorisées. La conversion ne s'obtient plus via l'achat média sur la vidéo du créateur, mais via l'intégration de la marque à l'histoire du créateur (Branded Entertainment).",
+          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Media Studio n'est pas une régie de mediabuying, c'est un studio de co-production. Le Placement de Produit est mort, nous vendons de la Co-narrative avec les influenceurs.",
+          "date": "18/02/2026",
           "source_nom": "Social Media Today"
         }
       ]
@@ -277,6 +377,26 @@
           "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Media ne peut vendre de la panneautique sur Twitch. Nous devons coder des \"Twitch Extensions\" permettant aux fans d'interagir avec le flux vidéo pour vraiment valoriser l'annonceur.",
           "date": "03/03/2026",
           "source_nom": "Twitch Ads"
+        },
+        {
+          "titre": "Ecofoot : La diversification des revenus B2B des clubs",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.ecofoot.fr/diversification-revenus-b2b-clubs-2026/",
+          "image": "https://images.unsplash.com/photo-1522205408450-add114ad53fe?auto=format&fit=crop&q=80&w=600",
+          "resume": "Le site d'économie sportive décrit comment les clubs moyens de L1 pallient la crise des droits TV en transformant leur stade en espaces de 'Coworking' premium et d'incubateurs tech la semaine.",
+          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Une aubaine pour SPORTFIVE B2B. Nous ne vendons plus seulement 19 jours de match par an, nous vendons du Naming d'espaces de travail Corporate fonctionnant 300 jours par an.",
+          "date": "26/02/2026",
+          "source_nom": "Ecofoot"
+        },
+        {
+          "titre": "McKinsey : L'Hyper-Personnalisation de l'offre sport (Gen AI)",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://www.mckinsey.com/industries/sports-entertainment/insight-hyper-personalization-2026",
+          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
+          "resume": "McKinsey prédit que dans 5 ans, grâce aux IA, chaque fan se verra proposer un résumé vidéo de match, des angles de caméra et des offres e-commerce générés spécifiquement pour son profil.",
+          "analyse_sep": "🧠 [Enjeu Insights Cibles / Gen Z] La fin du flux 'Broadcast' universel. S5 doit préparer ses clients à la publicité '1 to 1'. Nos recommandations d'activation doivent inclure des dynamiques de rendu personnalisé (emailings vidéo personnalisés via des partenaires IA).",
+          "date": "28/02/2026",
+          "source_nom": "McKinsey"
         }
       ]
     },
@@ -333,6 +453,46 @@
           "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Media Studio se doit d'adopter le \"Fake OOH\" (CGI) ou du vrai Spectacular OOH. L'effet WAHOU physique provoque mécaniquement la diffusion Social Media à moindre coût.",
           "date": "10/03/2026",
           "source_nom": "eMarketer (Insider Intelligence)"
+        },
+        {
+          "titre": "AdAge: La revanche du 'Long-Form' Copywriting",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://adage.com/article/creativity/long-form-copy-revival-2026/",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "AdAge relève le retour inattendu des textes et affiches publicitaires très denses en contenu (long-form) pour cibler des audiences fatiguées par les slogans Snapchat épileptiques.",
+          "analyse_sep": "🎯 [Enjeu Orga 'Sans Planneur'] S5 Studio doit savoir alterner. L'omniprésence du format TikTok n'empêche pas l'efficacité d'un manifeste publicitaire fort, rédigé par un Concepteur-Rédacteur talentueux au sein d'un Squad agile.",
+          "date": "06/03/2026",
+          "source_nom": "Adweek / AdAge"
+        },
+        {
+          "titre": "Siècle Digital: L'IA de Casting Prédictif d'Influenceurs",
+          "thematique": "Innovation & Outils",
+          "lien": "https://siecledigital.fr/2026/03/08/ia-casting-predictif-influenceurs-agences/",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
+          "resume": "Des SaaS identifient le meilleur KOL (Influenceur) non pas par son nombre d'abonnés, mais par IA sémantique scannant 5 ans de ses vidéos pour évaluer son affinité réelle (Brand Safety et Conversion) avec la campagne d'une marque.",
+          "analyse_sep": "⚙️ [Enjeu Gain de Temps / Anti-Friction Orga] Un gain monumental. Le screening manuel d'influenceurs pour nos CDP prend des heures. Ces SaaS sécurisent notre choix final en justifiant le casting par une data incontestable.",
+          "date": "08/03/2026",
+          "source_nom": "Siècle Digital"
+        },
+        {
+          "titre": "La Réclame: Le 'Phygital' devient pragmatique avec le Web3",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://lareclame.fr/phygital-pragmatique-web3-retail-2026",
+          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
+          "resume": "Fini les NFTs spéculatifs. La blockchain sert désormais à créer des 'Digital Twins' (un maillot physique acheté en stade donne droit au même maillot porté par l'avatar du fan sur Roblox).",
+          "analyse_sep": "📱 [Enjeu Activation 360° / Nouveaux Canaux] S5 Brand Services doit packager le Web3 utilitaire. Nos activatons merchandising (ex: adidas) doivent systématiquement inclure le pont Vêtement Physique -> Skin In-Game pour engager la cible Alpha.",
+          "date": "10/03/2026",
+          "source_nom": "La Réclame"
+        },
+        {
+          "titre": "Sponsoring.fr: La pénalité du 'Naming Cluttered' (Trop de sponsors)",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.sponsoring.fr/marche/penalite-naming-cluttered-roi-2026/",
+          "image": "https://images.unsplash.com/photo-1522205408450-add114ad53fe?auto=format&fit=crop&q=80&w=600",
+          "resume": "Des études démontrent mathématiquement qu'un maillot de football avec 5 sponsors face avant et manche fait baisser de 40% la mémorisation de chaque sponsor pris individuellement (l'Effet de Cluttering).",
+          "analyse_sep": "💰 [Enjeu Preuve Business / Obligation de Résultats] Argument majeur de S5 pour le Sponsor Premium. Il doit exiger / surpayer l'exclusivité de la face avant (Clean Shirt) ou préférer un Club à la charte graphique exigeante pour garantir la lisibilité de son investissement.",
+          "date": "12/03/2026",
+          "source_nom": "Sponsoring.fr"
         }
       ]
     },
