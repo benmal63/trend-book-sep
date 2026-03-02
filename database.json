@@ -1,56 +1,60 @@
 {
-  "semaine": "1",
-  "annee": "2026",
-  "ressources": [
+  "semaines": [
     {
-      "titre": "Deloitte 2026 : Le Football face à la menace saoudienne et américaine",
-      "thematique": "Mesure du ROI & Business",
-      "lien": "https://www2.deloitte.com/uk/en/pages/sports-business-group/articles/deloitte-football-money-league.html",
-      "image": "https://images.unsplash.com/photo-1518605368461-1ee063d86f7b?auto=format&fit=crop&q=80&w=600",
-      "resume": "En ce mois de janvier 2026, Deloitte a publié son rapport annuel 'Football Money League'. Si les revenus globaux franchissent un nouveau cap, le cabinet alerte sur le fait que la domination européenne est sérieusement concurrencée par la Saudi Pro League et la MLS (boostée par l'effet pré-Coupe du Monde).",
-      "analyse_sep": "Enjeux stratégiques majeurs : les marques européennes devront repenser leur sponsoring football pour lutter contre ces 'nouveaux entrants' internationaux, ouvrant des budgets pour des agences comme SPORTFIVE.",
-      "date": "24/01/2026",
-      "source_nom": "Deloitte Business Group (Janvier 2026)"
-    },
-    {
-      "titre": "CVC Capital s'offre Equine Network : La montée des sports de niche",
-      "thematique": "Tendances & Insights (Société)",
-      "lien": "https://www.sportspromedia.com/news/cvc-global-sport-group-equine-network-acquisition/",
-      "image": "https://images.unsplash.com/photo-1598516091392-563d76295de8?auto=format&fit=crop&q=80&w=600",
-      "resume": "Le fonds CVC Capital a déboursé 300 millions de dollars en Janvier 2026 pour acquérir Equine Network, prouvant que les 'Private Equities' visent désormais la scalabilité massive de sports très spécifiques comme l'équitation, le volley-ball ou l'aviron.",
-      "analyse_sep": "SPORTFIVE a une opportunité de créer un 'desk sports alternatifs'. Puisque les droits du football ou de la F1 explosent, offrons du ROI prémium à nos petits clients sur l'équitation ou e-sports très ciblés.",
-      "date": "10/01/2026",
-      "source_nom": "SportsPro Media (Janvier 2026)"
-    },
-    {
-      "titre": "Lancement de 'WPP Media Sports' : La fin des silos en agence",
-      "thematique": "Créativité & Modèles d'Agences",
-      "lien": "https://www.sportbusiness.com/",
-      "image": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?auto=format&fit=crop&q=80&w=600",
-      "resume": "En janvier 2026, l'immense réseau WPP lance une nouvelle branche unifiée 'WPP Media Sports' pour fusionner achat média, création de contenu, partenariats et gaming sous un même toit face aux nouvelles exigences des annonceurs.",
-      "analyse_sep": "Cela confirme notre positionnement 'Full-Service'. Les clients refusent de traiter avec 4 agences (Relations Presse, Sponsoring, Créa, Achat Média). SPORTFIVE doit capitaliser sur son agilité pour offrir le même guichet unique que les immenses groupes.",
-      "date": "08/01/2026",
-      "source_nom": "SportBusiness (Janvier 2026)"
-    },
-    {
-      "titre": "FIFA & Lenovo dévoilent l'IA 'Football AI Pro'",
-      "thematique": "Innovation & Outils",
-      "lien": "https://inside.fifa.com/about-fifa/commercial",
-      "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=600",
-      "resume": "Pour lancer l'année de sa Coupe du Monde 2026, la FIFA s'associe à Lenovo pour présenter 'Football AI Pro', une intelligence artificielle générative fournissant aux sélections des millions de datas en temps réel pour l'analyse tactique et l'engagement fan.",
-      "analyse_sep": "L'IA n'est plus un 'gadget' mais un levier opérationnel en plein Mondial. Nous devons intégrer des packages de datas enrichies à l'IA dans nos offres de conseil pour les clubs partenaires (Olympique Lyonnais, etc).",
-      "date": "20/01/2026",
-      "source_nom": "FIFA Commercial (Janvier 2026)"
-    },
-    {
-      "titre": "NBCUniversal fait le plein numérique pour les JO d'Hiver",
-      "thematique": "Omnicanalité & Nouveaux Médias",
-      "lien": "https://www.nbcsports.com/",
-      "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?auto=format&fit=crop&q=80&w=600",
-      "resume": "Janvier 2026 marque un tournant pour les JO de Milan-Cortina : NBCUniversal annonce l'épuisement total de ses espaces publicitaires (sold out), dont 85% d'investissements qui ont migré spécifiquement vers le streaming (Peacock) et le digital omnicanal.",
-      "analyse_sep": "La TV linéaire n'est plus l'Alpha et l'Oméga des grands événements. Nos recommandations doivent forcer sur le 'Second Écran' (Twitch, TikTok) pour contourner le verrouillage publicitaire du streaming premium par de très gros annonceurs.",
-      "date": "06/01/2026",
-      "source_nom": "NBC Sports (Janvier 2026)"
+      "id": "1",
+      "date_label": "Semaine 1 (Janvier 2026)",
+      "ressources": [
+        {
+          "titre": "Deloitte 2026 : Le Football face à la menace saoudienne et américaine",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www2.deloitte.com/uk/en/pages/sports-business-group/articles/deloitte-football-money-league.html",
+          "image": "https://images.unsplash.com/photo-1518605368461-1ee063d86f7b?auto=format&fit=crop&q=80&w=600",
+          "resume": "En ce mois de janvier 2026, Deloitte a publié son rapport annuel 'Football Money League'. Si les revenus globaux franchissent un nouveau cap, le cabinet alerte sur le fait que la domination européenne est sérieusement concurrencée par la Saudi Pro League et la MLS (boostée par l'effet pré-Coupe du Monde).",
+          "analyse_sep": "Enjeux stratégiques majeurs : les marques européennes devront repenser leur sponsoring football pour lutter contre ces 'nouveaux entrants' internationaux, ouvrant des budgets pour des agences comme SPORTFIVE.",
+          "date": "24/01/2026",
+          "source_nom": "Deloitte Business Group"
+        },
+        {
+          "titre": "CVC Capital s'offre Equine Network : La montée des sports de niche",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://www.sportspromedia.com/news/cvc-global-sport-group-equine-network-acquisition/",
+          "image": "https://images.unsplash.com/photo-1598516091392-563d76295de8?auto=format&fit=crop&q=80&w=600",
+          "resume": "Le fonds CVC Capital a déboursé 300 millions de dollars en Janvier 2026 pour acquérir Equine Network, prouvant que les 'Private Equities' visent désormais la scalabilité massive de sports très spécifiques comme l'équitation, le volley-ball ou l'aviron.",
+          "analyse_sep": "SPORTFIVE a une opportunité de créer un 'desk sports alternatifs'. Puisque les droits du football ou de la F1 explosent, offrons du ROI prémium à nos petits clients sur l'équitation ou e-sports très ciblés.",
+          "date": "10/01/2026",
+          "source_nom": "SportsPro Media"
+        },
+        {
+          "titre": "Lancement de 'WPP Media Sports' : La fin des silos en agence",
+          "thematique": "Créativité & Modèles d'Agences",
+          "lien": "https://www.sportbusiness.com/",
+          "image": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?auto=format&fit=crop&q=80&w=600",
+          "resume": "En janvier 2026, l'immense réseau WPP lance une nouvelle branche unifiée 'WPP Media Sports' pour fusionner achat média, création de contenu, partenariats et gaming sous un même toit face aux nouvelles exigences des annonceurs.",
+          "analyse_sep": "Cela confirme notre positionnement 'Full-Service'. Les clients refusent de traiter avec 4 agences (Relations Presse, Sponsoring, Créa, Achat Média). SPORTFIVE doit capitaliser sur son agilité pour offrir le même guichet unique que les immenses groupes.",
+          "date": "08/01/2026",
+          "source_nom": "SportBusiness"
+        },
+        {
+          "titre": "FIFA & Lenovo dévoilent l'IA 'Football AI Pro'",
+          "thematique": "Innovation & Outils",
+          "lien": "https://inside.fifa.com/about-fifa/commercial",
+          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=600",
+          "resume": "Pour lancer l'année de sa Coupe du Monde 2026, la FIFA s'associe à Lenovo pour présenter 'Football AI Pro', une intelligence artificielle générative fournissant aux sélections des millions de datas en temps réel pour l'analyse tactique et l'engagement fan.",
+          "analyse_sep": "L'IA n'est plus un 'gadget' mais un levier opérationnel en plein Mondial. Nous devons intégrer des packages de datas enrichies à l'IA dans nos offres de conseil pour les clubs partenaires (Olympique Lyonnais, etc).",
+          "date": "20/01/2026",
+          "source_nom": "FIFA Commercial"
+        },
+        {
+          "titre": "NBCUniversal fait le plein numérique pour les JO d'Hiver",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://www.nbcsports.com/",
+          "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?auto=format&fit=crop&q=80&w=600",
+          "resume": "Janvier 2026 marque un tournant pour les JO de Milan-Cortina : NBCUniversal annonce l'épuisement total de ses espaces publicitaires (sold out), dont 85% d'investissements qui ont migré spécifiquement vers le streaming (Peacock) et le digital omnicanal.",
+          "analyse_sep": "La TV linéaire n'est plus l'Alpha et l'Oméga des grands événements. Nos recommandations doivent forcer sur le 'Second Écran' (Twitch, TikTok) pour contourner le verrouillage publicitaire du streaming premium par de très gros annonceurs.",
+          "date": "06/01/2026",
+          "source_nom": "NBC Sports"
+        }
+      ]
     }
   ]
 }
