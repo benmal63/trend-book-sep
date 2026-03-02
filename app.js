@@ -57,6 +57,25 @@ document.addEventListener('DOMContentLoaded', () => {
             filters.forEach(f => f.classList.remove('active'));
             document.querySelector('[data-filter="all"]').classList.add('active');
 
+            // Handle Weekly Analysis
+            const analysisSection = document.getElementById('weekly-analysis');
+            const analysisContent = document.getElementById('analysis-content');
+
+            if (selectedWeek.analyse_hebdo && Object.keys(selectedWeek.analyse_hebdo).length > 0) {
+                analysisSection.style.display = 'block';
+                let html = '';
+                for (const [theme, text] of Object.entries(selectedWeek.analyse_hebdo)) {
+                    html += `<div style="margin-bottom: 15px;">
+                                <h4 style="margin: 0 0 5px 0; color: #fff; font-size: 0.9rem; text-transform: uppercase;">${theme}</h4>
+                                <p style="margin: 0; color: #a0aec0;">${text}</p>
+                             </div>`;
+                }
+                analysisContent.innerHTML = html;
+            } else {
+                analysisSection.style.display = 'none';
+                analysisContent.innerHTML = '';
+            }
+
             renderCards(currentWeekTrends);
         }
     }
@@ -68,15 +87,13 @@ document.addEventListener('DOMContentLoaded', () => {
             const card = document.createElement('div');
             card.className = 'trend-card';
             card.innerHTML = `
-                <div class="card-image" style="background-image: url('${trend.image}')">
-                    <span class="card-tag">${trend.thematique}</span>
-                </div>
-                <div class="card-content">
-                    <h3>${trend.titre}</h3>
-                    <p>${trend.resume}</p>
-                    <div class="card-footer">
-                        <button class="btn-insight" data-id="${index}">Analyse SEP</button>
-                        <a href="${trend.lien}" class="source-link" target="_blank">Source : ${trend.source_nom} ↗</a>
+                <div class="card-content" style="padding: 25px;">
+                    <span class="card-tag" style="position: static; display: inline-block; margin-bottom: 12px; font-size: 0.75rem;">${trend.thematique}</span>
+                    <h3 style="margin-top: 0; font-size: 1.1rem; line-height: 1.4;">${trend.titre}</h3>
+                    <p style="font-size: 0.9rem; color: #a0aec0; margin-bottom: 20px;">${trend.resume}</p>
+                    <div class="card-footer" style="margin-top: auto;">
+                        <button class="btn-insight" data-id="${index}" style="padding: 8px 15px; font-size: 0.8rem;">Analyse SEP</button>
+                        <a href="${trend.lien}" class="source-link" target="_blank" style="font-size: 0.8rem;">Source : ${trend.source_nom} ↗</a>
                     </div>
                 </div>
             `;
