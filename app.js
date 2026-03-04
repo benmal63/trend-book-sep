@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const analysisSection = document.getElementById('weekly-analysis');
         if (analysisSection) analysisSection.style.display = 'none';
 
-        pageTitle.textContent = `Dossier Favoris (${favoritesList.length} articles) ★`;
+        pageTitle.textContent = `Dossier Favoris (${favoritesList.length} articles) ♥`;
         renderCards(favoritesList, true); // true = current view is favorites
     });
 
@@ -114,11 +114,14 @@ document.addEventListener('DOMContentLoaded', () => {
             const activeClass = isFav ? 'active' : '';
 
             card.innerHTML = `
-                <span class="star-btn ${activeClass}" data-index="${index}" title="Ajouter aux Favoris">★</span>
+                <span class="heart-btn ${activeClass}" data-index="${index}" title="Ajouter aux Favoris">♥</span>
                 <div class="card-content" style="padding: 25px;">
-                    <span class="card-tag" style="position: static; display: inline-block; margin-bottom: 12px; font-size: 0.75rem;">${trend.thematique}</span>
-                    <h3 style="margin-top: 0; font-size: 1.1rem; line-height: 1.4;">${trend.titre}</h3>
-                    <p style="font-size: 0.9rem; color: #a0aec0; margin-bottom: 20px;">${trend.resume}</p>
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+                        <span class="card-tag" style="position: static; display: inline-block; font-size: 0.75rem;">${trend.thematique}</span>
+                        <span style="font-size: 0.75rem; color: #64748b; font-weight: 500;">${trend.date}</span>
+                    </div>
+                    <h3 style="margin-top: 0; font-size: 1.15rem; line-height: 1.5; color: #f8fafc;">${trend.titre}</h3>
+                    <p style="font-size: 0.9rem; color: #94a3b8; margin-bottom: 20px; flex-grow: 1;">${trend.resume}</p>
                     <div class="card-footer" style="margin-top: auto;">
                         <button class="btn-insight" data-id="${index}">Analyse SEP</button>
                         <a href="${trend.lien}" class="source-link" target="_blank" style="font-size: 0.8rem;">Source : ${trend.source_nom} ↗</a>
@@ -136,8 +139,8 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         });
 
-        // Add event listeners to Star buttons (Favorites)
-        document.querySelectorAll('.star-btn').forEach(btn => {
+        // Add event listeners to Heart buttons (Favorites)
+        document.querySelectorAll('.heart-btn').forEach(btn => {
             btn.addEventListener('click', (e) => {
                 const id = e.target.getAttribute('data-index');
                 const selectedTrend = trends[id];
@@ -151,7 +154,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     // If we are currently in the favorites view, remove the card from DOM directly to update UI
                     if (isFavoritesView) {
                         e.target.closest('.trend-card').remove();
-                        pageTitle.textContent = `Dossier Favoris (${favoritesList.length} articles) ★`;
+                        pageTitle.textContent = `Dossier Favoris (${favoritesList.length} articles) ♥`;
                     }
                 } else {
                     // Add to favorites
