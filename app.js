@@ -11,6 +11,25 @@ document.addEventListener('DOMContentLoaded', () => {
     let allWeeksData = [];
     let currentWeekTrends = [];
 
+    // Initialiser les favoris depuis le cache du navigateur
+    let favoritesList = JSON.parse(localStorage.getItem('s5_favorites')) || [];
+
+    const btnFavorites = document.getElementById('btn-favorites');
+
+    btnFavorites.addEventListener('click', () => {
+        // Enlever la classe active des autres filtres
+        filters.forEach(f => f.classList.remove('active'));
+        btnFavorites.classList.add('active'); // optionnel si on veut un style différent
+        btnFavorites.style.color = '#ff0033'; // Highlight
+
+        // Cacher l'analyse hebdo
+        const analysisSection = document.getElementById('weekly-analysis');
+        if (analysisSection) analysisSection.style.display = 'none';
+
+        pageTitle.textContent = `Dossier Favoris (${favoritesList.length} articles) ★`;
+        renderCards(favoritesList, true); // true = current view is favorites
+    });
+
     // Fetch JSON Data (now an array of weeks)
     fetch('database.json')
         .then(response => response.json())
@@ -81,20 +100,27 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Render Cards Function
-    function renderCards(trends) {
+    function renderCards(trends, isFavoritesView = false) {
         grid.innerHTML = '';
         trends.forEach((trend, index) => {
             const card = document.createElement('div');
             card.className = 'trend-card';
             // Staggered animation delay
             card.style.animationDelay = `${index * 0.05}s`;
+
+            // Generate a simple ID based on title to check if in favorites
+            const trendId = btoa(unescape(encodeURIComponent(trend.titre.substring(0, 50))));
+            const isFav = favoritesList.some(f => f.titre === trend.titre);
+            const activeClass = isFav ? 'active' : '';
+
             card.innerHTML = `
+                <span class="star-btn ${activeClass}" data-index="${index}" title="Ajouter aux Favoris">★</span>
                 <div class="card-content" style="padding: 25px;">
                     <span class="card-tag" style="position: static; display: inline-block; margin-bottom: 12px; font-size: 0.75rem;">${trend.thematique}</span>
                     <h3 style="margin-top: 0; font-size: 1.1rem; line-height: 1.4;">${trend.titre}</h3>
                     <p style="font-size: 0.9rem; color: #a0aec0; margin-bottom: 20px;">${trend.resume}</p>
                     <div class="card-footer" style="margin-top: auto;">
-                        <button class="btn-insight" data-id="${index}" style="padding: 8px 15px; font-size: 0.8rem;">Analyse SEP</button>
+                        <button class="btn-insight" data-id="${index}">Analyse SEP</button>
                         <a href="${trend.lien}" class="source-link" target="_blank" style="font-size: 0.8rem;">Source : ${trend.source_nom} ↗</a>
                     </div>
                 </div>
@@ -102,11 +128,39 @@ document.addEventListener('DOMContentLoaded', () => {
             grid.appendChild(card);
         });
 
-        // Add event listeners to new buttons
+        // Add event listeners to new buttons (Modal)
         document.querySelectorAll('.btn-insight').forEach(btn => {
             btn.addEventListener('click', (e) => {
                 const id = e.target.getAttribute('data-id');
                 openModal(trends[id]);
+            });
+        });
+
+        // Add event listeners to Star buttons (Favorites)
+        document.querySelectorAll('.star-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                const id = e.target.getAttribute('data-index');
+                const selectedTrend = trends[id];
+
+                // Toggle Logic
+                const existingIndex = favoritesList.findIndex(f => f.titre === selectedTrend.titre);
+                if (existingIndex > -1) {
+                    // Remove from favorites
+                    favoritesList.splice(existingIndex, 1);
+                    e.target.classList.remove('active');
+                    // If we are currently in the favorites view, remove the card from DOM directly to update UI
+                    if (isFavoritesView) {
+                        e.target.closest('.trend-card').remove();
+                        pageTitle.textContent = `Dossier Favoris (${favoritesList.length} articles) ★`;
+                    }
+                } else {
+                    // Add to favorites
+                    favoritesList.push(selectedTrend);
+                    e.target.classList.add('active');
+                }
+
+                // Save to localStorage
+                localStorage.setItem('s5_favorites', JSON.stringify(favoritesList));
             });
         });
     }
