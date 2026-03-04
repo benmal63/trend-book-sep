@@ -86,6 +86,8 @@ document.addEventListener('DOMContentLoaded', () => {
         trends.forEach((trend, index) => {
             const card = document.createElement('div');
             card.className = 'trend-card';
+            // Staggered animation delay
+            card.style.animationDelay = `${index * 0.05}s`;
             card.innerHTML = `
                 <div class="card-content" style="padding: 25px;">
                     <span class="card-tag" style="position: static; display: inline-block; margin-bottom: 12px; font-size: 0.75rem;">${trend.thematique}</span>
