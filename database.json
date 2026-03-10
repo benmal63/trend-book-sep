@@ -1,6 +1,619 @@
 {
   "semaines": [
     {
+      "id": "fondations",
+      "date_label": "📚 Les Fondations Stratégiques (2015-2025)",
+      "ressources": [
+        {
+          "titre": "Skyrose Marketing Agency : Prédire la demande des consommateurs ^ W21220 - Harvard Business Review",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWFQ2cUFfYmFaUHNhT1YyMGhEMGdqZkRSWWlUZDNRdjFadFFVeXFWT3lRZXBGV1FxeVNjbEVHX2FmVXF3bGl2QjlaSmRCRkhnaDNJZmJkN3VjZFZodUZvVHdnTVFQWDZLZE16d1daOWo2ODBmWlRCeFhrb21sT2U0czI2dWk5X3lnVzlfSU9BMm5VUQ?oc=5",
+          "image": "none",
+          "resume": "Skyrose Marketing Agency : Prédire la demande des consommateurs ^ W21220  Harvard Business Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Harvard Business Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "20/08/2021",
+          "source_nom": "Harvard Business Review"
+        },
+        {
+          "titre": "Que faire et dire après une réorganisation difficile - Harvard Business Review",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ec2I3RmoycVJfUnNvQjFJY1FoWFMzam1xZjlHUlFLSExPMnJHV0FaU0JOaWNPV3pjQjl3S3hPdTJGSk1QMFljLVRDUVVValBSNVllUUdyLWkxRGV6QTdLOGFoV293WkZ0T1U4OC1MLWl4ZU03WnF2V29yOA?oc=5",
+          "image": "none",
+          "resume": "Que faire et dire après une réorganisation difficile  Harvard Business Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Harvard Business Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "23/10/2015",
+          "source_nom": "Harvard Business Review"
+        },
+        {
+          "titre": "Étude de cas : un hôtelier devrait-il investir dans un nouveau type d'agence de voyages en ligne ? - Revue des affaires de Harvard",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbjlyMDlZakcxVEdzZVBGV0RmcmtldHpwS2RRdVVjU21jVjdQbjJGS3dtcTdrUlpBbllMSC1ScmZrN1kwdk43MHRkcnVqbndwUGRVZ3ZwN1ZtLTlCZmFPM3NHV2x5VTdFbkg4TW5TcWNlT2ZtSnJXQ2FWdHV0cU41S3JIUXYtdHBtOHlJc0dvd25tNVVlR1dsclJicndOZw?oc=5",
+          "image": "none",
+          "resume": "Étude de cas : un hôtelier devrait-il investir dans un nouveau type d'agence de voyages en ligne ?  Revue des affaires de Harvard...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Harvard Business Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "21/09/2015",
+          "source_nom": "Harvard Business Review"
+        },
+        {
+          "titre": "Le directeur exécutif d'une agence des Nations Unies chargée de la gérer comme une entreprise - Harvard Business Review",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMHNsWjdpbUU3LUNSNUdjNFNIbjNDTUhQT2JKWnpkZnlxcVlGTlFVMmc4dFA2WGtDTVZESm1rQXJKZnNqUERuSllPZzZvVnM5MWhyWjMtVFpBaHR6XzJVdVVRVXpEMWVxZHlmU2haUk13OEZfTndzY19SaFMwWUVobEJfSVRXWDFnN1I2aW9IQS1IVmdvTEE?oc=5",
+          "image": "none",
+          "resume": "Le directeur exécutif d'une agence des Nations Unies chargée de la gérer comme une entreprise  Harvard Business Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Harvard Business Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "16/04/2019",
+          "source_nom": "Harvard Business Review"
+        },
+        {
+          "titre": "Restructurez votre organisation pour réellement faire progresser la justice raciale - Harvard Business Review",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNWdBaDdaODdtLTNiQW8wU3hwc2tZTW5QTkNiSUhnVm1ibTFZQXZqZXJ1ckNlZEwtSDBWcUVSUUpGSTBhRldRdHE3TTFyNzZXRzdabFF1N213aTItTXlsRzZGU3k1emt2TV91YnRxajEyb0N3ZkU5clN0R2VEMUx3UHNpLWJOUW8tQTF5Z1p2WDVPZw?oc=5",
+          "image": "none",
+          "resume": "Restructurez votre organisation pour réellement faire progresser la justice raciale  Harvard Business Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Harvard Business Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "22/06/2020",
+          "source_nom": "Harvard Business Review"
+        },
+        {
+          "titre": "À quoi ressemblera la prochaine ère de mondialisation - Harvard Business Review",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tdTlwelNUY0lHaGROd3NSemNFTUJyMlFzTi05ZFptQ091WkVRUmxFU3pqU2N6U3NNcXNpQ0wzWVNUTzQ4TDFrR19jZkgzdEtiZVBlaktCdm1FWUdnc3RLTjZKRHlSdnFNTUo0RE50YzEwTDRuelg4aFBPLUI3dw?oc=5",
+          "image": "none",
+          "resume": "À quoi ressemblera la prochaine ère de mondialisation  Harvard Business Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Harvard Business Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "03/11/2022",
+          "source_nom": "Harvard Business Review"
+        },
+        {
+          "titre": "Agence de voyages Infra : équilibrer les intérêts des parties prenantes ^ W36670 - Harvard Business Review",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRWZyTFczSEZzaDJ3YzZRU3ljeXozbXNlbFpkQzZSd0U5Nnh0N3RXOWZncUdVMUdoWlFnZ3huNnVTaVVlOHFNT2w3eV94Z09xcEk1aDFaLWVVRVBESTNPM0hQX00wN1pQMExDeE1kOFVWYi1RZFRHeE15aHNTckRrRU5zanpqRTRhUnJ2bUNtWVEtZw?oc=5",
+          "image": "none",
+          "resume": "Agence de voyages Infra : équilibrer les intérêts des parties prenantes ^ W36670  Harvard Business Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Harvard Business Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "11/12/2024",
+          "source_nom": "Harvard Business Review"
+        },
+        {
+          "titre": "Restructurer ou reconfigurer ? - Revue des affaires de Harvard",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wajhiOVhVRkRzUG4za3hVZUNyOEZOdklSbWZEa2VEMjVrSm9mSElyVHhIb2gydnNhZTZfTERUTlVSX0YzWXlnYUZXRTNGM1p0NnJpbGhXVDhFNXktM3NN?oc=5",
+          "image": "none",
+          "resume": "Restructurer ou reconfigurer ?  Revue des affaires de Harvard...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Harvard Business Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "22/02/2017",
+          "source_nom": "Harvard Business Review"
+        },
+        {
+          "titre": "Le point de vue du PDG : défendre une bonne entreprise contre les mauvais investisseurs - Harvard Business Review",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdGdicDhlX1BpODg2OUdxN2tqVjRsaXRPQXB0UzR6VVVTQXlUU1pGZ0hjMWZIeGFGRG5xVElyRU9YRTlCUVc5LVFBUXJOZkd2bUZ1UENRbDBNWi1BZ1pmUlBZaFVCanRncEJLbUg3MDJIZ3N5TmV3dDZSZkpzbUlGZVVZejJjb1E?oc=5",
+          "image": "none",
+          "resume": "Le point de vue du PDG : Défendre une bonne entreprise contre les mauvais investisseurs  Harvard Business Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Harvard Business Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "08/04/2017",
+          "source_nom": "Harvard Business Review"
+        },
+        {
+          "titre": "Répondre aux besoins de plus en plus dynamiques des clients - Harvard Business Review",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTkd6ZXlYV1M3dkktbG5QWEpTZ095ZG9SZ3JNQjZucmVxVEFPZXpmWVpNN2pVT1hpNTItU2V6Smp0US15eHdxSG5XNzR5cGhRRXZRVndwc2xiRUI4NE40TjVFdE1qWm0zc2huQ1U4TE1pR2d6MU92NG9CbFlmTGkwdWJR?oc=5",
+          "image": "none",
+          "resume": "Répondre aux besoins de plus en plus dynamiques des clients  Harvard Business Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Harvard Business Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "27/09/2022",
+          "source_nom": "Harvard Business Review"
+        },
+        {
+          "titre": "Le monde a besoin d’un projet de type DARPA pour prévenir les pandémies – Harvard Business Review",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMjdJbnNISXRJVm5yUjYtbjlqYlg5cHY1NnJBNmVZdEowZ093TXBsYnBZbUtUMW5YMm03WVRPdy1kN3hyeHZYSnBrNnpac2kwTE5GZnhRX21rbmgzbnctckxEQjFfdHlLM1A5ckdmNDVDWmJDbXlndFBzTEF6Y0JlM01PRzVjSmhDWnc?oc=5",
+          "image": "none",
+          "resume": "Le monde a besoin d'un projet de type DARPA pour prévenir les pandémies  Harvard Business Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Harvard Business Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "24/04/2017",
+          "source_nom": "Harvard Business Review"
+        },
+        {
+          "titre": "Obtenir l'adhésion des employés au changement organisationnel - Harvard Business Review",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xd2p0MXVNdjZFOExCSE5DdXFEd3VjOHZFc0FZeE9Ed2VCRDZjZXFEZnV6MXFoZzA4akZRTTFPTzlfd3BmZWlzcWR2cXA1OFo1SWFrVkxKLXA5YS1qZW5UVlNiblVMcURrd2h6QmFIXzJqSU1ZTU5sOUJLNTJpdw?oc=5",
+          "image": "none",
+          "resume": "Obtenir l'adhésion des employés au changement organisationnel  Harvard Business Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Harvard Business Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "06/02/2023",
+          "source_nom": "Harvard Business Review"
+        },
+        {
+          "titre": "Si vous êtes si intelligent, pourquoi n’êtes-vous pas riche ? Il s'avère que c'est juste un hasard. - Revue technologique du MIT",
+          "thematique": "Innovation & Outils",
+          "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3h4dFlqSkFxb3dVWmdLcXpFMVNFQURTRnpueWY0Z1ZZWHJ6UUg0QUxyeDFka1hJNzlBeGFlN1hrTGt1VHJwcXM1LVdvbTlyMWlvOHlfZ0tCeW9MenJTNHNnWjRMTVZQSFdTVVdrQldBclc1QWg4RGNMbU1Pdm1qMUJEeUoyQ3NJOGZrWlBUci1NUmNiVF9kODF5Sk1SRVdpYXh6enZYeVZ0dDVWSWYzX0hsVmjSAboBQVVfeXFMTlN4SU9QQkRZbGR5QTN4QmhVNjAtclA1YUd4a0Q4LU1YR1kwMFFIZUtmZmFoQnVCVHdJX2FHeFo0TnhiUVdSSE1qS1RxeGhjbXFYc1JMem1ENnlwN2c3MXNyMm8wTXMxVG04VFhORmV5NWYxYVBnTzcyODJ6eTh4TjNkRTRERUpPZTlSbGFZNFpmYTh3ZWI0U05BYURhV3FmTE9QcUNSMl9VeTlfeGZzaVRlZlV0Smxxc0ZR?oc=5",
+          "image": "none",
+          "resume": "Si vous êtes si intelligent, pourquoi n’êtes-vous pas riche ? Il s'avère que c'est juste un hasard.  Revue technologique du MIT...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par MIT Tech Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "01/03/2018",
+          "source_nom": "MIT Tech Review"
+        },
+        {
+          "titre": "Affamé d'énergie : l'IA et notre avenir énergétique - MIT Technology Review",
+          "thematique": "Innovation & Outils",
+          "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96SlpsaDh6a0ZCTGt4MGhtaHJFaWRXbS0ydFZTUjlOWnFKQncxMElVRDRid3dxNFBBUGZrUDJuR1NvTEVES29tRFk2QkxCd2lfMlZlb2o1UE5ZWEEtSExHT1lvdkZrT2hBZFNPQkNBMA?oc=5",
+          "image": "none",
+          "resume": "Avide d'énergie : l'IA et notre avenir énergétique   MIT Technology Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par MIT Tech Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "20/05/2025",
+          "source_nom": "MIT Tech Review"
+        },
+        {
+          "titre": "Guide des Big Tech pour parler de l'éthique de l'IA - MIT Technology Review",
+          "thematique": "Innovation & Outils",
+          "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOclRaeHBlekNGN3JpdS1aZnVJNm4ybks1ZmJkLVRBQ2JQVF9YYnpCRmFyQ1JnYW1EZzRoNjdjVlRYa21mNllFUXQ2RXpCVC13dFkxcnpCbDZfNFktaHZKeHZqZnM5YUNfOVhrbG8zWGRmV2JSbWN3TFFkeGlEaFpDNGZjWdIBiAFBVV95cUxOSDVRUi1Dd3pILXFnbjVTb0E4dFNsS21peDZlb3RSVzJpdFZ3MmxhNnFaaDJheE5MU0d2VS04R0hFNnZDUl9qWERPdV9MM0NmeXVOa3IxejhmOTh6YUhaZ0RRMWJyNjM3X3pfMV9MeGNtXzRhcjd5REN5R0dxUGZ4cnBRekg0X1B6?oc=5",
+          "image": "none",
+          "resume": "Guide des Big Tech pour parler de l'éthique de l'IA  MIT Technology Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par MIT Tech Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "13/04/2021",
+          "source_nom": "MIT Tech Review"
+        },
+        {
+          "titre": "Les plateformes chinoises sévissent contre les influenceurs qui vendent des cours d'IA - MIT Technology Review",
+          "thematique": "Innovation & Outils",
+          "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb0l0MXJhWS1tSGhYWi1jZXNHc2xPRHo2UmRUTFFTY1FZbzFUVk9mdXdNVEt2bEN6aXZuS0NZMUg4Zzh5Qk1HeDd3dVVQNTNuRTlYTmZQd2trN0FrZnA5Wk5NTzdqeks2dzdYcjhhOEYxd1Nyd3VFSmplOHFiX2QzSGZfRWdlcnZYRWxVWE8tX1JyNGlHeFHSAZsBQVVfeXFMUEFDd1A1aFdFWkZDdGk3SGRldGZIZ0tJemhTNC1ndEpuVjhrc2dwSklMajdLWjJKSllza3NMcW5VMlZMT2pJX0xkb3FLNFhqQmN1SkNDOHhMRmQ5aDA0Mlk0SVNZVkQtbXRqY0VJS1pRb2tRSUM3bGljYjNNM251dHdkYm5GV203bTVHRTdoaGNuaUQ1aTlLZjFXaE0?oc=5",
+          "image": "none",
+          "resume": "Les plateformes chinoises sévissent contre les influenceurs qui vendent des cours d'IA  MIT Technology Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par MIT Tech Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "20/03/2024",
+          "source_nom": "MIT Tech Review"
+        },
+        {
+          "titre": "Désolé, l’IA ne « réparera » pas le changement climatique – MIT Technology Review",
+          "thematique": "Innovation & Outils",
+          "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUkY4NV9mSWRrejJ4YUJiWGNDM09YbjY4U2pfQjZOaWt1Z0RoNWVHTEd2RGlyWHZjbHl3OHdrZkgwUDdzYzlhalYyNTQ3TlV5dVFFOUhWNlZvQ1BRcTJ5LTJTdC1lb3NWd3BBWFE3ZXFrT01kY0U1TVFBbGJkcGNyR0lTZ3ZGU05ZNGliM0RR0gGTAUFVX3lxTE5IaXA2X0ZXV2g1RWJGQzZWN2NQQVhLdG44X0oyNDJXV1dMVG9rYmNLa1FneUdoZEQtLWVKdXpHeGZMSWZVdU11SzIyVUc2TXdlV0hSZDVzY21SZ1I2TExYbEcydFFoUWgwUFdXdnEtLUo1eVNLcHBQUFJRTDJPSGFPQzlRMWRpUm5rckdUWGgxVXlLQQ?oc=5",
+          "image": "none",
+          "resume": "Désolé, l'IA ne « résoudra » pas le changement climatique  MIT Technology Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par MIT Tech Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "28/09/2024",
+          "source_nom": "MIT Tech Review"
+        },
+        {
+          "titre": "Propulser les services de nouvelle génération avec l'IA dans les secteurs réglementés - MIT Technology Review",
+          "thematique": "Innovation & Outils",
+          "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUpZaEc3WThzS1FWNlFoX3EyWjc4ODYzVUdEYmRiTkdLLUZwU2RPU0FZTHJvajIyNEQ1cVlvOXR4TklTcGYzaC1ia1Y0enc3SThGWjNrdWgyMGNoR2dzdmx3VkhYZjF0UkhyRFNyVFE1c283OEdJVlpHMEtmMHFtRDMydEI3Yi1PN3FES0xyX3V3NEFIVzU2Rk5CY2pWSWE5MC1zODZQZUFGTDNvLUpqR9IBtgFBVV95cUxOOFVFTDh6bEdicjBDcEdkWjFKY3YxdDgwR1RnLVpUM2x4b2NZUkVwbWpBblVZWnV0ZTVIQnJ6VzhENl80NGxDaVRQcTUxckg4eGNlZlljcExCYnpCa1lnTEhqc2E5dnVvYmNJRGxLWWJYak0yc1Rlb0FQdHJpQ21ZM1lyVFVGVXA3b3VmTG5zeU96MjZVUFBYOEVDZVU1SnNHWGRJWGhoZzhjUVFUQmN4YXcyR2g5dw?oc=5",
+          "image": "none",
+          "resume": "Propulser les services de nouvelle génération avec l'IA dans les secteurs réglementés  MIT Technology Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par MIT Tech Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "13/06/2025",
+          "source_nom": "MIT Tech Review"
+        },
+        {
+          "titre": "Comment le risque existentiel est devenu le thème le plus important de l'IA - MIT Technology Review",
+          "thematique": "Innovation & Outils",
+          "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2pQb3JyQ0Rkc3RRdlBHR3BGQW9XblJkY2c1dld5b2cwaVdId3FWMWlRQWQtQ2llSjNXQVdQbXFqV0RQTEg0bWw1VTBCamtmWFVCeWVLSGFkQlhiYWdpVU5fd1BWLVJiam5EU1k4ZVhrcURIWG9zd2xENmVLY21XT3M3WW1KbzAzTVN0ZjM5UlA2Q01qQ0VHemh4Vl9IRFFQ0gGmAUFVX3lxTFBNVXZpZkhuTkw2LWtlYk5CZDljYVVHc0pYYWJnUGNsVkZLTUJFazJQVW9memxYakVOajJ6YTl5MlVpalVPWExtRHNITjMzMFYzM3p3cHYwQkI0eXRJdG5DTGN0QXFYLVc2VWxyeHU2dnhYRWd5ZUZyYWFteFQtMkhOcUY3TlpUeU5fQ0w2X0tSWHRETFVxYTN3TzlJMzZCd2NnV29aLWc?oc=5",
+          "image": "none",
+          "resume": "Comment le risque existentiel est devenu le thème le plus important de l'AI  MIT Technology Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par MIT Tech Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "19/06/2023",
+          "source_nom": "MIT Tech Review"
+        },
+        {
+          "titre": "Des drones dirigés par l'IA pourraient aider à retrouver plus rapidement les randonneurs perdus - MIT Technology Review",
+          "thematique": "Innovation & Outils",
+          "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT0xVdWdvel9kM0IxX0VjNko0Z2w4ZFNaSWdmVFhYVjlLZlhPRkZXZFY5TWpISGtCcURzWlpQaENYbHhTZ2ZlYTMyQmh1Rl9ZbXZHZkJIU3h0d2hGaUROc3lhSllXcndpRERZYS1UYUNEbmh1ZGFSUE45Q2J0dmpoNVBfeXAtQU5UNHNfMUVjZGlFdWZpOGZMeEdXNFdzMmVMaDRfdnJBMXcxZ9IBrwFBVV95cUxQQTc1RE9FVEpEY0QteXpLOFlkNjZtcWlBRUVTUDBya093WUpoY1ZYWUM5Mi1adTR0TGY2OWVMckdpNDd6cnhNcFJFU3puRnM0QlFaVGhndmppeW9KTURBWkZjWHpxQlpQSDVFWVBlcFh4U0ZnRkthUzJaSEFrZlBLMTU4em0wUUsyMVpIYk81WXVYX01TS0lGdV84VE9nRHJpSnlKSGdtX0JXV1o1eHEw?oc=5",
+          "image": "none",
+          "resume": "Les drones dirigés par l'IA pourraient aider à retrouver plus rapidement les randonneurs perdus   MIT Technology Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par MIT Tech Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "30/05/2024",
+          "source_nom": "MIT Tech Review"
+        },
+        {
+          "titre": "L’IA n’arrive toujours pas à modérer les discours de haine – MIT Technology Review",
+          "thematique": "Innovation & Outils",
+          "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVk3OXYwVVdkZ2ptS3FYMzZUcGFwbmxBN1o3Qk5KWFpHdXRsNEhzT25EOHl4RFBIUi1VUXBnY3dKSVN0bmNUTEtodHg2bC1NV1AtZEFzTzRLNnIwOU1BZUNZc25FT2VFczdzWlVqV0xUMzRDeE01MldNV2h6Nk1oT0ZXc2fSAYoBQVVfeXFMT0VOS3Vwc0lrWk5QUGlTTXZPYUM1aWJiRUJRZ2NoZWRlM2M5QU1HZ09ocWoyWFc4WVNrOXVHeTBYTmpHeW9zR3lkWklWMnFSS0FDVURQVk56Zl9RaTVIci1GdWN1S3NhbGRWV00wajFXLVRuSThMSTdrdVAzRzJjYjB0Qk8xaTlPRzdB?oc=5",
+          "image": "none",
+          "resume": "L'IA n'arrive toujours pas à modérer les discours de haine   MIT Technology Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par MIT Tech Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "04/06/2021",
+          "source_nom": "MIT Tech Review"
+        },
+        {
+          "titre": "Les gens craignent que l’IA ne prenne les emplois de tout le monde. Nous sommes déjà venus ici. - Revue technologique du MIT",
+          "thematique": "Innovation & Outils",
+          "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHlhNnF0eUt1Z2lMWkVMVXp1eWtwNFNpZDh5Y3JVeV9lUTFIaGlyc29TZFRRSTRpU19KODNZYVFLRF9Nby1mYk9feTU1YVVVNVpldjd6UUF6VUhjYlRqVWIxZF90SHRXUG11SEpGVzBJVmN2dkJ0WEJVQjZaaW9lZnlXamlON0k2WlhvNFZqcGZFNC1lRE4wUmdOU1p6d9IBowFBVV95cUxQMzBtTzlXN0tUWEdDRU1aX2xUUk5pOWFQcXY1T1J0cE5NZmh4VDctSHdJTFhPVEQxdURCeThtR0FmbHJwVjdyUGJ5LTYyb0NLSnUxeFBNdEgwN1N4Ri1leEMwM0xReWhraTJlTi1YSG9GYWxndk1OUXF1d0tITEJ3d1I3NWVlbl9LeExiQXlLdk9HN3JSMXJwZUY4M2lUM0hsQ3BF?oc=5",
+          "image": "none",
+          "resume": "Les gens craignent que l’IA ne prenne les emplois de tout le monde. Nous sommes déjà venus ici.  Revue technologique du MIT...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par MIT Tech Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "27/01/2024",
+          "source_nom": "MIT Tech Review"
+        },
+        {
+          "titre": "Comment DeepSeek a détruit le manuel de l'IA et pourquoi tout le monde va suivre son exemple - MIT Technology Review",
+          "thematique": "Innovation & Outils",
+          "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN1NhaFJZRWtlaDRkSFNKMk9ucFhoSTZ5Tl9GV2thei1TN0pGU1V3YmJhZTR4ZzFxSUl5U0VHcVYtYXZZV1VXWkNhdjhPYjRMa1BtUUFuc3dyeWRaMHpYbklVVnF2ZXN3VEZpVGItWDlXZFVoVm4zeUkyNDNZVUJmeDRSQ0VwVko2MmtaLXhDd2pyTlE5N1JNb0tESmd1bXRzQ2ZUMFlRQzYyNUF5X3BxSFNTdWs2anF4WHlmVzJieHJUM0xfbEFJ0gHMAUFVX3lxTE4xV0pyb2xkSnlMcUlnYXJPMFVwTWtaRkdkSVU2UWRDMjlIejZYbE5RQUhSc055MEFmejZ1UGNxYzczNlRvODlZWndjZ0ZGS1hELXB5M3hyaUtuT1VWNFB3UU9VVG00UktMVTdGNWYzNWNxUzBlUGc2b0dfaGpibXNjcTFfS3ZJUS03YXRCTWctSmpWNlFvS1lncEVvaVlJSC00T3RES0RYTmFVNlh4UVFUaUg2YXkzUmxQQWdzUDZyZ2pNYmh1ZnhsT1ZHeQ?oc=5",
+          "image": "none",
+          "resume": "Comment DeepSeek a détruit le manuel de l'IA et pourquoi tout le monde va suivre son exemple   MIT Technology Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par MIT Tech Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "31/01/2025",
+          "source_nom": "MIT Tech Review"
+        },
+        {
+          "titre": "Poser les bases d'une croissance basée sur les données et l'IA - MIT Technology Review",
+          "thematique": "Innovation & Outils",
+          "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2VtVzgxNDhyQzRqQm9id2JaTTFqb014QTN4RDV2QzA5ekN1elRDalJXbWxyWVBnbVc1Wnp1RHN1bDdfWEotS3g0OG41Z051ZERGejVGZ1BjOGVDX29oTWp3UE1mZXRhMDBscnZlZmZ3aE51X3BQcUlMTjZ1X196RnZjdzdJcGlWVnoyWXRCYmVQeEg0anFxamZwMEZqSENhd3k40gGoAUFVX3lxTFBlMHdnS2lkdW1JeHJNYlM3Rjc2M2trVzdTQkhRSTlzeFlCNGpBdThfbVJGREdPMWR5eWNacFE0ZEkwaGxST0FFM1FEN2lmR0ZTZmIxMzcxMWgxOFdxbkUzN0pHWGNaZHF1a1BpOFZrQlNSNGNRSGJRdWFMVWNGZmFkc3VVNV94VTZJbWJlcnFTOEdna0lETzMzTEEtMFVvUUdxMmhOVWpIeg?oc=5",
+          "image": "none",
+          "resume": "Jeter les bases d'une croissance basée sur les données et l'IA  MIT Technology Review...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par MIT Tech Review. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "05/10/2023",
+          "source_nom": "MIT Tech Review"
+        },
+        {
+          "titre": "Adidas : Nous avons surinvesti dans la publicité numérique - Marketing Week",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94UTJrNEVmU0ZYclNySENlVy1TMG9RaHU3YTRmY2JQaFE2dzgzM3VFNE0tYmhURTBFT1hYVG42TEp1LVhQZDJVZ0lEVnBlbkxudkVOQ0tad3hJTjUxY05vbUduTXgycXJZeWJRQkdR?oc=5",
+          "image": "none",
+          "resume": "Adidas : Nous avons surinvesti dans la publicité numérique  Marketing Week...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Marketing Week. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "17/10/2019",
+          "source_nom": "Marketing Week"
+        },
+        {
+          "titre": "Comment les marques peuvent surmonter le manque de confiance dans l'efficacité du marketing - Marketing Week",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmhDTzlTQzV5MU16bE9ybkM0WUtCNjBDLWtmc0l2STE4MFp6LTRmYUtRdmhqNHFYTGFjZHBLSGtqYjVOeUJNNmtGV0tNTTZMUjlPd3JnSFBXU2tCeFVrMjJqTG9TSG5LMHZNM09CWmpyMzhZTlRIdlplYjhJbE1obHNpS21TZGx4cGRyUEVPRFJHUThXbFFFZHZQVlpIeHFVeWc?oc=5",
+          "image": "none",
+          "resume": "Comment les marques peuvent surmonter le manque de confiance dans l'efficacité du marketing  Marketing Week...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Marketing Week. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "22/03/2023",
+          "source_nom": "Marketing Week"
+        },
+        {
+          "titre": "Comment Boots équilibre la créativité et la science pour favoriser l'efficacité - Marketing Week",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFl0cHdJSlAzYUFOUzJvS3ktaUpvekN0QkRfaXhDQjQxRHJaMWpVa3NNallucUJMdFgweGpzdVVuSWU4TTdqUWJzOWI5dHRWM0hZZWZDYmdsemppLWh5TzlGZEUwcEJGSjYyYlNmQVBxVUZ0dlYxcEx5UW5UQjRCT1VuUDBhUQ?oc=5",
+          "image": "none",
+          "resume": "Comment Boots équilibre la créativité et la science pour favoriser l'efficacité  Marketing Week...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Marketing Week. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "16/03/2022",
+          "source_nom": "Marketing Week"
+        },
+        {
+          "titre": "Nestlé Purina : Le changement de culture est le défi majeur de notre parcours d'efficacité - Marketing Week",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PM01mYkk5WW9uek1VdkNxeXphc2J1V3VIQ2Z2SWtzOWlnb1hEMFV4ZmE0N3QzNV9pZzhjTk1sTEs2SVJkZERMTmVxVzJwLUh4NzVTZThMcndhVk5kVndfZU9scG90eFpVTVE?oc=5",
+          "image": "none",
+          "resume": "Nestlé Purina : Le changement de culture est le défi majeur de notre parcours d'efficacité  Marketing Week...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Marketing Week. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "15/10/2021",
+          "source_nom": "Marketing Week"
+        },
+        {
+          "titre": "60 % des spécialistes du marketing ne mesurent pas si leur travail produit des résultats commerciaux - Marketing Week",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fVHNRYThTSUtWZ05ZVENXZnJUWmVra3d5OW5nSXFNcU5xbjFCa1dQTDZtQVVHWmRXeGw1M3ZFMUhkMk9CTnpEc2d6THZLVHQyR2Y1X2VGamd1MVRfbXQ3dDd0OGNNbjhVSG03aTRHal8tTzhx?oc=5",
+          "image": "none",
+          "resume": "60 % des spécialistes du marketing ne mesurent pas si leur travail produit des résultats commerciaux  Marketing Week...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Marketing Week. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "25/06/2025",
+          "source_nom": "Marketing Week"
+        },
+        {
+          "titre": "L'ignorance de l'efficacité a laissé le marketing américain à la traîne par rapport au reste du monde - Marketing Week",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05RzVlRDYwLWJXZFBtVEJXMVFfZEZaYTZaRjI0VGdKTE5nQS1MRFZDV1JfM2ZYVFdpZW5XUHRTTDVZUFB3REFocHN6cS1RQVpmbkoyMG1RNm1sWDhDUTZBSnhYZ1d5TEFMV3cxcGVMY1Fpakt2T0p6UndqcTN6Zw?oc=5",
+          "image": "none",
+          "resume": "L'ignorance de l'efficacité a laissé le marketing américain à la traîne par rapport au reste du monde  Marketing Week...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Marketing Week. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "13/11/2023",
+          "source_nom": "Marketing Week"
+        },
+        {
+          "titre": "Au cœur de la culture d’efficacité marketing « vivre et respirer » de Diageo - Marketing Week",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWmctOWZqY18yNGpyVjlnNXpSS2JaWG42VzY3QWoxMXBIQUpjNEZaREpQdmpKQjhrb2E3ODRnNzYyck1PbFgwckw1Z2YwYmowWGdhVDBFWUtIaGNRZ1d4eXVWTndfaTNuTEo1WGlrQ0ZjeGpkcTQ2OEYxMFBmNjE2Y3ZR?oc=5",
+          "image": "none",
+          "resume": "Dans la culture d'efficacité marketing « vivante et respirante » de Diageo  Marketing Week...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Marketing Week. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "10/02/2023",
+          "source_nom": "Marketing Week"
+        },
+        {
+          "titre": "Diageo étend son outil d'efficacité marketing pour vous aider à traverser le Covid-19 - Marketing Week",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BZG10aVc1bF9ucVFFNXlSSlJwbEFUbmJacFBHd2hLdXVEWmt2aC0ybmNkcURWTnhZRE1yUF94SnlEa1Q1ckFVX1lIcWpZT2QyLWZ5Y2JEdjlPbThzbUlveUpaN3VUVXYtVmF5RHFVTU9tYW5WeFE?oc=5",
+          "image": "none",
+          "resume": "Diageo étend son outil d'efficacité marketing pour vous aider à traverser la semaine du marketing Covid-19...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Marketing Week. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "13/10/2020",
+          "source_nom": "Marketing Week"
+        },
+        {
+          "titre": "Les publicités télévisées de Lego, Skoda et Sport England parmi les meilleures des 70 dernières années, selon une étude - Marketing Week",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rZ2QxaWQwTUhRUHdLOU1sVlNPTkJMMlFoZnlQTWlkOHY3c1ZVQWg3NHVyT3NvbGFyR0ZoVzdiLVEwWE1kMUFoaHVxeWluelh1S29oelR2aXVtWk01TU52LQ?oc=5",
+          "image": "none",
+          "resume": "Les publicités télévisées Lego, Skoda et Sport England comptent parmi les meilleures des 70 dernières années, selon une étude  Marketing Week...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Marketing Week. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "22/09/2025",
+          "source_nom": "Marketing Week"
+        },
+        {
+          "titre": "L'humour et l'empathie derrière l'efficacité publicitaire de Pampers au cinéma - Marketing Week",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3anBueFItNlE0eHpsYlNXNkV2Vm1HVm9OVE11eGZLTFB4c0U0SnNLeG02cTVuZjJXOGhsSGt1YnlCSV85a3BlRzJkNklyd0tvaXFFTUhpaXROemp4aUxOd0Q0NEdyZ2stY1M0?oc=5",
+          "image": "none",
+          "resume": "L'humour et l'empathie derrière l'efficacité publicitaire de Pampers au cinéma  Marketing Week...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Marketing Week. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "02/01/2024",
+          "source_nom": "Marketing Week"
+        },
+        {
+          "titre": "Médias retail, efficacité marketing de l'IA, boutique TikTok : 5 stats intéressantes pour commencer la semaine - Marketing Week",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFhhbzUzbEo0Y3BQM193Q0pkU0lNWlFxeEw3c29PM2k5M1AyWkdQajdNYlBmWFlVUG92N3pSV0FxQnhONmdrWDlYYkRFbWtPaTNnMzBxcFNBWG5nMFhmYi12LWhFQzBTNkNnRnMtamFtN1ExVDhNc3E3cWdKMi1rSXBhRkwybEl6S1RoZXBWWVY3ZFZHMmVZ?oc=5",
+          "image": "none",
+          "resume": "Médias de vente au détail, efficacité marketing de l'IA, boutique TikTok : 5 statistiques intéressantes pour commencer la semaine  Marketing Week...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Marketing Week. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "10/11/2025",
+          "source_nom": "Marketing Week"
+        },
+        {
+          "titre": "La cohérence porte ses fruits puisque Aldi et Coca-Cola sont en tête du classement d'efficacité de Noël - Marketing Week",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KZno3VkF6dWVYMWpiQ0VVMkZqbjB3RzBXT0FmZ2tuZ3cwNTVtckNybTRUSl90WUNtLWVEV0Y0RWVrc05TVENwTGcyengyd3Rmalg2anVsR3pKdnpESnlWMC0zbnJ3TmRnaGl6cjNvRDNndk5NMHZ6LXI5V2JWZw?oc=5",
+          "image": "none",
+          "resume": "La cohérence porte ses fruits puisque Aldi et Coca-Cola sont en tête du classement de l'efficacité de Noël  Marketing Week...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Marketing Week. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "20/11/2024",
+          "source_nom": "Marketing Week"
+        },
+        {
+          "titre": "Baromètre de confiance Edelman 2025 - Edelman",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OMTB3NUJnbURCcGZIQXdmTGl2LUpybUxOOWQtaWZnOGI3VFpwUHZQM2ZyZG1zeWZiZXRTQW5rdWNsd3RuRFBnM2dCWktJWWZYMlZMN19FaFR1clNYOGFR?oc=5",
+          "image": "none",
+          "resume": "Baromètre de confiance Edelman 2025  Edelman...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Edelman. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "19/01/2025",
+          "source_nom": "Edelman"
+        },
+        {
+          "titre": "Les entreprises : une force inébranlable dans un monde polarisé - Edelman",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOF9vRUdPY3JPU2M2SG1BTlZIWmlPMndJSGZfeHNVYkVPWmZ5SEpoZ1ByQlBSU0owZFZldktRZWoySmh6NkpYeXpHNWUzRVVSNGhyczVEbEZLQm51bkZVNnBiVFhHM1M4OHFVd3k2aHZxZVBUcUJ2bW1hWk5ycEd2SkNDSVJwak1xUFF5S3NsNU9jb0VmcF9N?oc=5",
+          "image": "none",
+          "resume": "Les affaires : une force inébranlable dans un monde polarisé  Edelman...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Edelman. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "15/01/2023",
+          "source_nom": "Edelman"
+        },
+        {
+          "titre": "Connu pour être audacieux - Edelman",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE8zeTZ1Q2xfcUluUU9WZ0k1S05hQW9jMTB3a0tPdGxiR1l2ZnQ0WUZuUlFvdzlLcDFYT3JmOEZuTQ?oc=5",
+          "image": "none",
+          "resume": "Connu pour être BOLD  Edelman...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Edelman. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "02/07/2025",
+          "source_nom": "Edelman"
+        },
+        {
+          "titre": "Baromètre Edelman Trust 2021_Rapport pays de Singapour - Edelman",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUF1SzM0dlJMTldFdlM2UzdGS2haYjJ2Y2tYbXpMbUx2bk02dVUtYWxldUFORXY3T3NWWkwtWWw2QlhoSkRCR2pweUJqX2lYVXlUTHRhQzNQUVROVjgtLXBVZzlvdFFTcHlnaUJFcmw3czJnUnR2RlBGM0Y5WHdfVmRFNl9jM2tZT1pUVFY2SDA1a2ZubEZvOEZ3eXczZ2JQWnJnMUpPVmZ5UkNURThQMjZQdmt0T2Yzc2FvcnZSbFdDd3BLNUd1Qw?oc=5",
+          "image": "none",
+          "resume": "Baromètre Edelman Trust 2021_Rapport national sur Singapour  Edelman...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Edelman. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "26/03/2021",
+          "source_nom": "Edelman"
+        },
+        {
+          "titre": "Le lobbying n'est pas un gros mot, il peut être la clé de la confiance - Edelman",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZkZyNENQMU1tSjJDMVd6bFEyLUZKMjhuZ0Zadk1nVzE0M2xybG9STUJscjRuMWpHQmx0VlV3ZmNtSFR0OWt1NmlaN3BrRkVLZ1lLRzVVM1dNMjNoSE9yMDNZNm9MQkRlbkJVRkotZ0RCQVZWQ3Y5NkJJTVdEQV8yZE9VWFJmbk9PWmVjZEFhejlXV1U?oc=5",
+          "image": "none",
+          "resume": "Le lobbying n'est pas un gros mot, il peut être la clé pour faire confiance à Edelman...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Edelman. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "30/10/2018",
+          "source_nom": "Edelman"
+        },
+        {
+          "titre": "Rapport spécial Confiance sur le lieu de travail - trust.edelman.com",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1dZN09qX1czYzFwWG5GQ1BXZTF1RUNUdWdSUFZrUERSVDR5YXZIY3UtRXVhNzN1Q1VkRGFOMXU4Z0NPdVFVaHVHOTd1X1BwVEdUbTQ0RVBuWnVFc3pacG5QZjR1UVZmWElnWm9CMXo2MWVZX1RrMk5Rc1BqOWhXNV9DanVqd2ZyVEdiRkRvZ3BoVmR1OEkyM0NfVmFOSmZZSVh1ZmhqX1cwblZMOHJXT2VwVmROX0VULXBNaENrRVZCeTFyd1RlMXNn?oc=5",
+          "image": "none",
+          "resume": "Rapport spécial sur la confiance sur le lieu de travail  trust.edelman.com...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Edelman. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "23/12/2025",
+          "source_nom": "Edelman"
+        },
+        {
+          "titre": "Rapport mondial - Edelman",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXkyMlBmd1BLckN5ZnpQR2ZoNUpzOVIyZGVMa1p4MFZZX0pzQzdlc1pJT2NpZkFfcC03ek1GLUQ2cVhERFY5OW5EN0JQdEZ6VjRkbmNSdk16RUo2dnNiY0VNUWN2YTB5VklweEVuRzhNY2pWTE1rT2FKM3ZNMjNnb3Zha2ZxYzRWV1p2NVZjandrS1hoQnVvTTJ2emhXVE52MnRRZUc1a2J3T3doaXh5cEM1MmM?oc=5",
+          "image": "none",
+          "resume": "Rapport mondial  Edelman...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Edelman. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "03/01/2022",
+          "source_nom": "Edelman"
+        },
+        {
+          "titre": "Baromètre de confiance Edelman 2021 - Edelman",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uSTlsM1g4bU0yTjk1UzhpZWprZ3VKWmFLM0pPbV9pT1p5Wjk0OERpNXlxMUJRZktoYUNhek9RUUJieGhUeE5Wd3YwYmo0TUlPU3MyY0NlMTltLVVCWnBn?oc=5",
+          "image": "none",
+          "resume": "Baromètre de confiance Edelman 2021  Edelman...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Edelman. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "20/12/2020",
+          "source_nom": "Edelman"
+        },
+        {
+          "titre": "Méfiance et médias : ce que les entreprises peuvent faire - Edelman",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV2c5N0E1cmtGSlJlSndpOHJDNWtjZHl5TXVtWjkzMDVVZHU1YlNBWHp1RG45bWFMdXZWVXBjY1BwaHB5dmxncUF4QW51NmRMQWdjWm5pUUZfUWdxZVdpdlMzeXVPY3ZnYk1HbnBjeGkzbGVGQU02QkRfbGR0Rm9xSzhiU2huTjAwdzBrWEFtWmxDUjlJ?oc=5",
+          "image": "none",
+          "resume": "Méfiance et médias : ce que les entreprises peuvent faire  Edelman...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Edelman. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "24/01/2022",
+          "source_nom": "Edelman"
+        },
+        {
+          "titre": "Trust 2025 : Prévenir la marée montante de l'insécurité de l'emploi - Edelman",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zV184cDA0M1ZKdnpRQnh3aThPam9TTHVIOUlEQzF6bU40cm5aNDZMejZMdS00UGt5MWs4ZU5EMFlFbzRET0h2M0l2ZHczNWN6dk44WXh2c3ZObi1tQ21DRnJWdHBpWWxqNXYySTJpZTRVa1U?oc=5",
+          "image": "none",
+          "resume": "Trust 2025 : Prévenir la marée montante de l'insécurité de l'emploi  Edelman...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Edelman. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "08/04/2025",
+          "source_nom": "Edelman"
+        },
+        {
+          "titre": "Confiance et marques : l'effondrement de l'entonnoir d'achat - Edelman",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlppUFVMeWV5d1RuMkg0VUFiclUxWjdjd1VZb0pCQkdmWllFSWhYQjFLZ2RCbEE3eGh3NmhQT0tSUTJ5bHdsSFVOcmx6LVpJM0lXdmpOTFRGM1NiZ2txRk5WdzZHX0w3SnJlcEVYelJDSkhMYTU5Nk1nZC05dXlYNUVCbFZJMnBtdUl0ZWdCbnU1aDRINDlQZE1DTENLY0RXczZkSQ?oc=5",
+          "image": "none",
+          "resume": "Confiance et marques : l'effondrement de l'entonnoir d'achat  Edelman...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Edelman. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "18/06/2023",
+          "source_nom": "Edelman"
+        },
+        {
+          "titre": "La crédibilité dans le chaos : comment les marques sont en tête - events.edelman.com",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1STRkdlFONENkSll2dFE3cW1xbzNpRHVpUWx6YjhtLUtEdGJwNXcyd2FQMl9PUkZMYzRsNGREN1BxeGJNZDhkX0xkWVliTVdNSXlCeWxYZ1VlVFl0MnpkbW5yaThfRWE0Vi1CczNNdEM?oc=5",
+          "image": "none",
+          "resume": "La crédibilité dans le chaos : comment les marques mènent  events.edelman.com...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Edelman. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "27/08/2025",
+          "source_nom": "Edelman"
+        },
+        {
+          "titre": "Le guide du grossiste sur la stratégie omnicanal - Digiday",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03VV8wRjNOY2lIWmVKcXowcXN4Ml93ZXRFZWtNR1UzbW12ei1HMWlod0d0YVhZRmFyZEowWkFtcFgwaHZ3R1RwUXVLbjRPNm9vc01KaTZYSElkSkNXT0hLNGxiMmxpTEdMUkhYX19KLUNkWFlDNms2NkhFSQ?oc=5",
+          "image": "none",
+          "resume": "Le guide du grossiste sur la stratégie omnicanal  Digiday...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Digiday. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "13/06/2023",
+          "source_nom": "Digiday"
+        },
+        {
+          "titre": "Pourquoi la publicité omnicanale a besoin du jeu en son cœur - Digiday",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQalB5LWNrQ3lETnRSR19wSXloY3FJX0QtamNFM0VuaDdYM281c1NkdDY5N3ZnTW5GcFRJSHlFREowVUpEZHB3Xzg0ejlBcVJ5ek84ck5FZFRlTGhzRW5wNzItTkNheU1HSGlCZEE3NzhVaEwzVjNXZEwyNEgzX2cxaThKdmJmamhSUHo0?oc=5",
+          "image": "none",
+          "resume": "Pourquoi la publicité omnicanale a besoin du jeu au cœur  Digiday...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Digiday. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "26/06/2025",
+          "source_nom": "Digiday"
+        },
+        {
+          "titre": "Au milieu de la perte et de la fragmentation du signal, l'orchestration omnicanal stimule les performances - Digiday",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RY2VxQTNsdEhKMGpteXRGX2ZpaGVNRGdtQmdsR2JYVmtFVHVLelVwMDRIb0Q1X2ZGTUlFbUNoWmw3aEpTcTU2Z2tIbDRqQ250VFlYc19Ralg1ZXpubGlxeUN0cDlLOU0?oc=5",
+          "image": "none",
+          "resume": "Au milieu de la perte et de la fragmentation du signal, l'orchestration omnicanal stimule les performances  Digiday...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Digiday. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "16/10/2025",
+          "source_nom": "Digiday"
+        },
+        {
+          "titre": "WTF est-ce une mesure omnicanale géo-basée ? | Connecter la mesure des campagnes sur tous les canaux, en ligne et hors ligne - Digiday",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuWGRpZjZ5V3JEdzF2NEhCcUZxVWRiQVFOUVhpcFdybXBfc0d2d3VUQ1dNejY5dzc5QkhYZS1xQXA0VlEzRkRPeUV6RnA1Z2xMbHRFNkxtX1dzLUhsVlNHUmUtUW5GeUVoaFRKU25ONlc0cldsNzQzaUVRYw?oc=5",
+          "image": "none",
+          "resume": "WTF est-ce une mesure omnicanale géo-basée ? | Connecter la mesure des campagnes sur tous les canaux, en ligne et hors ligne  Digiday...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Digiday. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "05/12/2024",
+          "source_nom": "Digiday"
+        },
+        {
+          "titre": "Se préparer au marketing post-omnicanal - Digiday",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQcmxhTXRvZ1hqcExLSEhmeXR2TDlHTm05b2FQVUZTSmNMSkhUU1VkSGRWWGsyQVd2TE0wakVTaE1zRDlCeDVhZmt4R3J0YW11N1F6RW9aZ3BNaXpnWExicHJ4QWJpLUUza1NPMjN5Z3ZzTjdPMWtPdmJZcw?oc=5",
+          "image": "none",
+          "resume": "Préparation au marketing post-omnicanal  Digiday...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Digiday. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "16/06/2023",
+          "source_nom": "Digiday"
+        },
+        {
+          "titre": "Playbook programmatique : stratégies de campagne omnicanal pour un écosystème en constante évolution - Digiday",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVlFYjB4azBRTHFyVG9aY3JHTzE2d1lLZTFTSWdNX0s1d000bFFFMDhhRVV2dUgzR09EakdFbTQ0cEQwaklMZk12emFLeG0wakxLMW5OMDRIeXJFNkpUZDBFbVVhNHhtc2RtZm12Rlp1MU9ndXo4aGlXSTlxd2w3ZkF0YTdmNDZOZXNpR2cyclJURkFGOWJwbllWcDhMMHlsbnp3UVdDaG82ZzFCZkV3SGZTQUp3ZnBs?oc=5",
+          "image": "none",
+          "resume": "Playbook programmatique : Stratégies de campagne omnicanal pour un écosystème en constante évolution  Digiday...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Digiday. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "29/05/2025",
+          "source_nom": "Digiday"
+        },
+        {
+          "titre": "Entendu lors de l'ALM de l'IAB : les défis de l'omnicanal semblent dépasser son potentiel - Digiday",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZGk3U1dBQTM0ZDUzaEliWUdXckw5MFd2UmNvMHY0TkpEamhsalNiNFVfVWlYdG5wYU55SDFmS2lBdkxxazJKenRHTUgwSEd1aExGSnNkWHRRUFBnSzNZOFR2M3ZSdHlXQXA2dEpsdlNUSkNKV0piX3dPc1dqVTZ1UHlmaWFsRU5fTlZidXJDS255eTFrbnJzU3Bpd2dsNm14czAtc01R?oc=5",
+          "image": "none",
+          "resume": "Entendu lors de l'ALM de l'IAB : les défis de l'omnicanal semblent dépasser son potentiel  Digiday...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Digiday. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "09/02/2022",
+          "source_nom": "Digiday"
+        },
+        {
+          "titre": "Pourquoi les frontières entre publicité numérique et publipostage s'estompent - Digiday",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmxzR2x2UDJrZk1JU05qVjJ5NW0wX3ROR2NDMW1hN3ZjM3R6c0lwd3hRRTBjSUNQUzB1cTFuOFBtei0zbVBzZHFtd2tDakZGVExKUlI1TnY4Y0JaX19sTk1IYldhTXN1RGt5WndIRWltemFkVE50d05Rd3NPUTNmWVFqd2hOX3dRbkcyZzN6ME05SGJxdXBJczdyQmlTSWE0NkJr?oc=5",
+          "image": "none",
+          "resume": "Pourquoi les frontières entre la publicité numérique et le publipostage s'estompent Digiday...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Digiday. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "26/06/2024",
+          "source_nom": "Digiday"
+        },
+        {
+          "titre": "Alors que de plus en plus de personnes se tournent vers les achats en ligne, le détaillant traditionnel Bed, Bath & Beyond s'appuie sur une stratégie numérique omnicanale - Digiday",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRF9JQ1ZpOEFEa3RVSTJDY19vMEhEUVdVVUxUN1RBanB3MGk2N045aHhsU0ZKMk12Q2lTSklia3pDOUFZZ0N4bFk5Y1I3eWE5T2VVajJFMmlUOWZYalZ1Y1lQa2pHZlNDV2JnRDdBRHlkTXFuc0pyc3Z1cENMVU1CRDhQNFFiempWRUpGM0RIOGZlNkFKZ0tqdHFkWVE2b2dCa3k0WjBEQVRMd0J0ZHJLTjJzWVg3OUJvODdWazhWTzFPZ1psVG03cDlrYkJPaksxUjl4cTdpM09mZw?oc=5",
+          "image": "none",
+          "resume": "Alors que de plus en plus de personnes se tournent vers les achats en ligne, l'ancien détaillant Bed, Bath & Beyond s'appuie sur une stratégie numérique omnicanale  Digiday...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Digiday. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "21/04/2021",
+          "source_nom": "Digiday"
+        },
+        {
+          "titre": "La nouvelle ère du numérique est axée sur les résultats et géo-alimentée - Digiday",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ0RTbVJQSXVxcjdMeU9Dc3NIRXRCMjRTNjFsMnBDWWppaDV1Q3EzV3d5WU9JTmVTTTcwZjlfOTRPTURlWlBmOUVIVC15cXVudzNGZVBfY3EyTjlLVUk5TzI1WUdLcUFDeENWTGpBb0ZRSm4tendidVYwS3hFVUs4OWtJSXEwZThGRUhlTVFRWEd0dw?oc=5",
+          "image": "none",
+          "resume": "La nouvelle ère du numérique est axée sur les résultats et géo-alimentée  Digiday...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Digiday. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "09/12/2024",
+          "source_nom": "Digiday"
+        },
+        {
+          "titre": "Les arguments en faveur de la connexion entre les points dans la publicité CTV - Digiday",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOUwwTUNFU3V2d3dyT2ZjaWVsYnktb2puWVJaMUZxZTNGZHV0SnFxRUpIWnAzZlRnd2x5UzA2VngtWm9xSTk5aFB1MkpNNWthUXZjT1l5VlFvejd1dHh6SkRLMF9mWWhYRkw5MDJBYjM4SGNpX05fWW1ic1BvUmhlZURpX2VubjNfUUE?oc=5",
+          "image": "none",
+          "resume": "Les arguments en faveur de la nécessité de relier les points dans la publicité CTV Digiday...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Digiday. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "08/08/2025",
+          "source_nom": "Digiday"
+        },
+        {
+          "titre": "Comment les marques étendent leur influence sociale et dominent les conversations multiplateformes - Digiday",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcHp4X3NwYk9MVWVXSlQ0cmI0VzZ2a0pMMUVYckV6WHBxYzk2RndqNlhaWmV6dHNtRzVtekxQRkhQLWJRT2ZCdHRMcGltRmFYanh3cUZ0eGpFM1ZCUjg4b0xXVXZRMHpVdmlhU2JqUW1jTGk5VHkyTDBTZVdqNVVSSjJLaExSX0JEY0I4anpNcTVQVTVZZHdWcXRqaVRlVVlDTGNkc0Y0dHd5T21jZnlHeEZCUWdWVW8?oc=5",
+          "image": "none",
+          "resume": "Comment les marques étendent leur influence sociale et commandent des conversations multiplateformes  Digiday...",
+          "analyse_sep": "💡 [Archive Stratégique] Ouvrage ou rapport fondamental publié par Digiday. Lecture obligatoire pour maîtriser la genèse de cette tendance.",
+          "date": "11/06/2025",
+          "source_nom": "Digiday"
+        }
+      ],
+      "analyse_hebdo": {
+        "Créativité & Structuration des Agences": "Rétrospective des évolutions structurelles majeures et de l'adaptation des modèles d'agences lors de la décennie précédente.",
+        "Innovation & Outils": "Les avancées décisives de l'IA et de l'automatisation qui ont redéfini les standards de productivité.",
+        "Mesure du ROI & Business": "L'évolution historique des modèles d'attribution et la montée en puissance de la culture de la preuve dans le sport business.",
+        "Tendances & Insights (Société)": "Les études de fond qui ont théorisé les ruptures comportementales de la Gen Z et l'importance de la RSE.",
+        "Omnicanalité & Nouveaux Médias": "Les bases analytiques de l'économie des créateurs et l'émergence des plateformes sociales interactives."
+      }
+    },
+    {
       "id": "1",
       "date_label": "Semaine 1 (2026)",
       "ressources": [
