@@ -5352,6 +5352,69 @@
         "Tendances & Insights (Société)": "Sélection fraîche : changent le - Nielsen Sports... | IDENTIFIER ET MAXIMISER L'OPPORTUNITÉ - ... signale une tendance émergente cruciale pour la semaine.",
         "Omnicanalité & Nouveaux Médias": "Sélection fraîche : TikTok pour les entreprises | Marketing ... | Les régulateurs européens proposent d'in... signale une tendance émergente cruciale pour la semaine."
       }
+    },
+    {
+      "id": "12",
+      "date_label": "Semaine 12 (30 March 2026) - Mise à jour Live",
+      "ressources": [
+        {
+          "titre": "La fin du 'Purpose Marketing' au profit de l'Ultra-Pragmatisme",
+          "thematique": "Créativité & Structuration des Agences",
+          "lien": "https://www.warc.com/newsandopinion/news/purpose-marketing-pragmatism-2026",
+          "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=600",
+          "resume": "WARC annonce que 60% des marques abandonnent le 'Purpose' sociétal abstrait pour revenir à des messages créatifs ultra-pragmatiques démontrant la valeur produit immédiate.",
+          "analyse_sep": "💡 [Analyse S5] Les briefs clients changent de tonalité. Le Studio doit privilégier la clarté de l'offre et l'impact direct plutôt que les grandes causes abstraites.",
+          "date": "30/03/2026",
+          "source_nom": "WARC"
+        },
+        {
+          "titre": "L'automatisation du staffing : les IA RH dans les grandes agences",
+          "thematique": "Innovation & Outils",
+          "lien": "https://techcrunch.com/2026/03/ai-staffing-agencies-resource-management",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
+          "resume": "TechCrunch détaille comment les IA analysent les plannings et les compétences pour allouer automatiquement les créatifs sur les pitchs sans intervention managériale.",
+          "analyse_sep": "⚙️ [Analyse S5] La friction RH disparaît. SPORTFIVE gagnerait 15% de temps de production en adoptant ces outils d'allocation dynamique.",
+          "date": "30/03/2026",
+          "source_nom": "TechCrunch"
+        },
+        {
+          "titre": "Sponsorship ROI : L'attribution multi-touch supplante l'exposition",
+          "thematique": "Mesure du ROI & Business",
+          "lien": "https://www.sportbusiness.com/insights/multi-touch-sponsorship-roi-2026",
+          "image": "https://images.unsplash.com/photo-1554774853-719586f82d77?auto=format&fit=crop&q=80&w=600",
+          "resume": "L'industrie du sport adopte enfin les modèles d'attribution du e-commerce : le logo sur le maillot n'est plus évalué seul, mais couplé aux interactions digitales pour mesurer la conversion réelle.",
+          "analyse_sep": "💰 [Analyse S5] Ne vendons plus '10 minutes de visibilité TV'. Vendons la capacité du maillot à générer un clic sur la campagne digitale qui suit le match.",
+          "date": "30/03/2026",
+          "source_nom": "SportBusiness.com"
+        },
+        {
+          "titre": "La 'Gen Alpha' rejette les influenceurs traditionnels pour l'Authenticité Brute",
+          "thematique": "Tendances & Insights (Société)",
+          "lien": "https://blog.gwi.com/gen-alpha-raw-authenticity-2026",
+          "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&q=80&w=600",
+          "resume": "GWI révèle que les très jeunes consommateurs fuient les vidéos 'trop produites' et privilégient les créateurs montrant leurs échecs et leur vulnérabilité.",
+          "analyse_sep": "🧠 [Analyse S5] Nos activations ciblant les moins de 18 ans doivent utiliser des techniques de captation 'Lo-Fi' (smartphone) plutôt que des teasers cinématographiques coûteux.",
+          "date": "30/03/2026",
+          "source_nom": "GWI"
+        },
+        {
+          "titre": "TikTok Shops s'intègre directement aux diffusions sportives",
+          "thematique": "Omnicanalité & Nouveaux Médias",
+          "lien": "https://digiday.com/media/tiktok-sports-broadcasting-shops-2026",
+          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=600",
+          "resume": "Digiday analyse le partenariat permettant d'acheter le merchandising d'un joueur en un clic directement depuis les overlays TikTok pendant un résumé de match.",
+          "analyse_sep": "📱 [Analyse S5] L'expérience fan devient transactionnelle. Il faut systématiser la composante 'Social Commerce' dans toutes nos recommandations de sponsoring.",
+          "date": "30/03/2026",
+          "source_nom": "Digiday"
+        }
+      ],
+      "analyse_hebdo": {
+        "Créativité & Structuration des Agences": "Retour puissant du pragmatisme : les marques cherchent des solutions concrètes et immédiates.",
+        "Innovation & Outils": "L'IA pénètre le cœur du réacteur : l'organisation humaine et les ressources des agences.",
+        "Mesure du ROI & Business": "Alignement final du sport business sur les standards de la tech : l'attribution multi-touch.",
+        "Tendances & Insights (Société)": "La fin de la perfection : l'authenticité brute et imparfaite comme nouveau standard de la Gen Alpha.",
+        "Omnicanalité & Nouveaux Médias": "Le Social Commerce englobe la diffusion sportive, abolissant la frontière entre regarder et acheter."
+      }
     }
   ]
 }
